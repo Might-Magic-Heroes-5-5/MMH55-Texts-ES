@@ -1,0 +1,4 @@
+﻿+1 Disparo de balista<br>
++1 Disparo a Catapulta<br>
++50 % de curación a la tienda de primeros auxilios<br>
++4 de ataque a todas las criaturas tiradoras aliadas si el carro de munición está presente

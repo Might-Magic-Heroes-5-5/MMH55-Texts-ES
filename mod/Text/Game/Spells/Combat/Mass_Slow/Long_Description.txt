@@ -1,0 +1,1 @@
+﻿Hace que todas los enemigos realicen menos acciones en Combate. Si cualquier objetivo está bajo la influencia del hechizo Rapidez, se persistira aquel con mayor poder.

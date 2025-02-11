@@ -1,0 +1,1 @@
+﻿El Héroe obtiene una habilidad de Combate especial que niega totalmente los efectos del siguiente hechizo enemigo, pero drena 1.5 veces el costo de mana de dicho hechizo. 

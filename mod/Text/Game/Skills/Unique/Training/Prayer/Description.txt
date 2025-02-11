@@ -1,0 +1,1 @@
+﻿El Héroe recibe una habilidad de Combate especial para levantar temporalmente la iniciativa en 10%, el ataque +2, la defensa y moral en +2 de sus tropas (no funciona con criaturas no muertas o mecánicas). Los Héroes de Necrópolis también ganan el hechizo de Fuerza Divina Masiva.<br><color_default>. La duración del efecto es de 2 + 0.05 * (Nivel).

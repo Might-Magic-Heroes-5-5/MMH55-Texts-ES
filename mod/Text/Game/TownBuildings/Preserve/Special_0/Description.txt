@@ -1,0 +1,2 @@
+﻿Permite seleccionar un enemigo favorito de los Vengadores y aumenta su Conocimiento en 1 .<br><br>
+<color=0099FF>Gobernancia<color_default><br>Otorga al Gobernador +1 Conocimiento. 

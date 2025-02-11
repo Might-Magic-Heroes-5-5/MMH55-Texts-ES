@@ -1,0 +1,1 @@
+﻿Portavoz del viento: Los turnos del héroe serán más rápidos en Combate dependiendo de su nivel. La iniciativa del héroe se convertirá en 11.5 + 0,025 * nivel de héroe (en lugar de 11).

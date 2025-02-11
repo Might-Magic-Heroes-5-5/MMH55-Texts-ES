@@ -1,0 +1,1 @@
+﻿Todas las tropas del Héroe obtienen +3 de velocidad durante el asedio de un Castillo enemigo.

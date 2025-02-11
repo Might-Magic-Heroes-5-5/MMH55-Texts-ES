@@ -1,0 +1,1 @@
+﻿El Héroe inspira una unidad orca aumentando su ataque en (1 +  nivel del Héroe /4) y su Velocidad en +3. También da puntos de ira adicionales a todas las criaturas orcas en el ejército.

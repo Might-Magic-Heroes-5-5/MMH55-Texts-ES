@@ -1,0 +1,1 @@
+﻿Rompehechizos: Todas las criaturas del ejército del Héroe ganan un 5% de resistencia mágica y un 1% por nivel del Héroe.

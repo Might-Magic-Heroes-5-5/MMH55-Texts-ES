@@ -1,0 +1,1 @@
+﻿El Héroe aprende el hechizo Lentitud y se le concede un efecto masivo a los hechizos Lentitud y Confusión.<br><color_default>Los hechizos masivos cuestan cuatro veces el maná y son 33% mas debiles pero se lanzan tan rapido como si el Heroe tuviera Hechicería experta.

@@ -1,0 +1,1 @@
+﻿El entrenamiento es imposible (Se ha alcanzado el limite semanal o Recursos Insuficientes).

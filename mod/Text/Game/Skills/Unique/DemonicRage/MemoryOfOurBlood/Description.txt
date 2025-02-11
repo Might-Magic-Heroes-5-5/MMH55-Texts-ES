@@ -1,0 +1,1 @@
+﻿Todas las criaturas de Bastión en el ejército bárbaro obtienen aleatoriamente entre 50 y 100 puntos de ira al comienzo del Combate.

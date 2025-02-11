@@ -1,0 +1,1 @@
+﻿La criatura Bastion aliada seleccionada recibe una cantidad de puntos de ira igual a 15 * nivel de héroe.

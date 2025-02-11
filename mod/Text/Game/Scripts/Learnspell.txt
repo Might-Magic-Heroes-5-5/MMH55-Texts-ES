@@ -1,0 +1,1 @@
+﻿<color=yellow><value=name> añadido al libro de hechizos.

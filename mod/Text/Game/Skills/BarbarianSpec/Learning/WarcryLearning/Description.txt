@@ -1,0 +1,1 @@
+﻿El Héroe bárbaro puede aprender Gritos de Guerra de otros Héroes amigos al reunirse, o de Héroes enemigos en Combate, incluso si él / ella no tiene los requisitos previos correspondientes. El Héroe también puede enseñar a otros Héroes los Gritos de Guerra que conoce, pero solo si tienen los requisitos previos correspondientes.

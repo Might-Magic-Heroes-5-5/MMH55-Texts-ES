@@ -1,0 +1,1 @@
+﻿Cuando esta criatura sufre daño, su Iniciativa se incrementa temporalmente en +2, y su Ataque en +8. Este efecto dura 2 turnos.

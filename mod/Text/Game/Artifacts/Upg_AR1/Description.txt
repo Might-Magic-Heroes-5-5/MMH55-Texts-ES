@@ -1,0 +1,3 @@
+﻿-1 Moral a las criaturas enemigas<br>
+-1 Suerte a las criaturas enemigas<br><br>
+No se pueden robar artefactos del portador , incluso después de una derrota.

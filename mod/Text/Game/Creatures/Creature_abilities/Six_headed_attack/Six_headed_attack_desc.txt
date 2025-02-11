@@ -1,0 +1,1 @@
+﻿La criatura ataca a todas las entidades enemigas a su alrededor simultáneamente.

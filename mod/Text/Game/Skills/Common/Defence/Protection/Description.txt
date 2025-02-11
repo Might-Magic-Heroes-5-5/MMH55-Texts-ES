@@ -1,0 +1,1 @@
+﻿Disminuye el daño infligido a tus criaturas por ataques mágicos en un 20%.

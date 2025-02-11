@@ -1,0 +1,1 @@
+﻿Esta criatura es incorpórea, cualquier ataque no-mágico tiene una probabilidad del 50% de fallar completamente. la habilidad no es completamente aleatoria, si se falla 2 veces, el tercer ataque siempre conectara, si la criatura es golpeada 2 veces, el tercer ataque siempre fallará. 

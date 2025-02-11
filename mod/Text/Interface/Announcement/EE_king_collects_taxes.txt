@@ -1,0 +1,1 @@
+﻿El Rey recolectó <value=number> de oro en impuestos

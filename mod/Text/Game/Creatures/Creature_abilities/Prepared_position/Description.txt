@@ -1,0 +1,1 @@
+﻿Esta criatura tiene un bonificador +5 a su defensa mientras permanece de pie en su posición inicial durante el Combate.

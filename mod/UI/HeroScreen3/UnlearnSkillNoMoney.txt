@@ -1,0 +1,1 @@
+﻿Lamentablemente no tienes <value=price> oro, para eliminar <value=skill_name> de tu memoria!

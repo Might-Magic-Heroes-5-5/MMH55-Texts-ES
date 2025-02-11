@@ -1,0 +1,1 @@
+﻿<color=yellow>Ya has visitado este Obelisco, y encontraste <value=amount> de <value=total>!

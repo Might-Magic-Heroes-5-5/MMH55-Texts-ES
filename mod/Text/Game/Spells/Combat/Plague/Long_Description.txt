@@ -1,0 +1,1 @@
+﻿Inflige una plaga en el enemigo, que recibe daño de la tierra cada vez que realiza una acción.<br><color_default>El hechizo no funciona en unidades no muertas, elementales y mecánicas.

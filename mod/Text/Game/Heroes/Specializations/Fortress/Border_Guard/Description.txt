@@ -1,0 +1,1 @@
+﻿Guardia fronterizo: el Héroe tiene una bonificación a su defensa (+1 de defensa por cada 2 niveles de Héroe) si las peleas están a un día de distancia de la ciudad que posee.

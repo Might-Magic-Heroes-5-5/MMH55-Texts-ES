@@ -1,0 +1,1 @@
+﻿Esta criatura puede usar un conjunto de hechizos mágicos similares a los lanzados por los Héroes. La reserva de maná es limitada, pero siempre se establece al máximo al comienzo del Combate. El poder de los hechizos depende del número de criaturas (habilidad activable).<br><br><color_bright>~Hechizos~<br>Confusión (Avanzado)<br>Enjambre de Avispas (Básico)

@@ -1,0 +1,1 @@
+﻿Esta criatura puede dar su Poder Mágico al Héroe , pero no más alla de 2/3 Conocimiento de el mismo. Se necesita otra criatura con la habilidad Sifón Mana en el campo de batalla para satisfacer el alto costo de maná. El efecto dura hasta el final del Combate o hasta que la criatura muere, y no es acumulativo (habilidad activada).

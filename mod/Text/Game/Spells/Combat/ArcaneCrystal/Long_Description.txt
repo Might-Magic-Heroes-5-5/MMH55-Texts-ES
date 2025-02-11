@@ -1,0 +1,1 @@
+﻿Crea un cristal en la casilla seleccionada en el campo de batalla, evita que los tiradores adyacentes disparen o dificulta el movimiento hasta el final del Combate o hasta que el cristal sea atacado y destruido.

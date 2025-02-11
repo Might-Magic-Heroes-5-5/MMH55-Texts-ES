@@ -1,0 +1,1 @@
+﻿El Héroe gana +2 Conocimiento y gana 0.5 de oro por día por cada esqueleto en su ejército. Además, necrópolis puede levantar una cantidad adicional de esqueletos cada semana. Cantidad es igual a su Conocimiento.

@@ -1,0 +1,1 @@
+﻿Esta criatura tiene la oportunidad de dar otro golpe después del primero. La probabilidad de activación de esta habilidad es del 27% si el objetivo tiene el doble de vida después del golpe, el 31% si el objetivo tiene la misma salud y el 43% si el objetivo tiene la mitad de vida. Si el Héroe tiene el talento Suerte del Soldado esas posibilidades son 47%, 53% y 67%.

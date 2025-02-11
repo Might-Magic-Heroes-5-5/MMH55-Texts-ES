@@ -1,0 +1,8 @@
+﻿+4 ataque<br>
++4 Defensa<br>
++10 % de resistencia mágica<br><br><color=purple>
+Armadura del Héroe olvidado<color_default><br>
++2 a todas las Habilidades Primarias (4/4)<br>
+*La bonificación se aplica después de cerrar el inventario.<br><br><color=orange>
+Misión<color_default><br>
+Lleva las 4 piezas de la armadura del Héroe olvidado a un comerciante de artefactos y recibe una recompensa única.

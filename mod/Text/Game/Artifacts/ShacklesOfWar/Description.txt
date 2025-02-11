@@ -1,0 +1,1 @@
+﻿Previene que tu o tus enemigos huyan del Combate. Este artefacto no tiene valor monetario y se agrega (una vez) al inventario de cualquier héroe con una ventaja 'Escuela de magia de grillete'.

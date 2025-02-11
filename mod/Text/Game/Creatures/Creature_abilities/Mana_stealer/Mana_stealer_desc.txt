@@ -1,0 +1,1 @@
+﻿La criatura toma parte del maná del Héroe rival al comenzar el Combate y se la transfiere a su propio Héroe. La cantidad de maná robado depende del número de criaturas.

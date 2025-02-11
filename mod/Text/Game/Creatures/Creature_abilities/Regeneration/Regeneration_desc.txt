@@ -1,0 +1,1 @@
+﻿Esta criatura restaura %15 de los puntos salud del grupo. Esta cantidad es determinada por batalla no por turno.

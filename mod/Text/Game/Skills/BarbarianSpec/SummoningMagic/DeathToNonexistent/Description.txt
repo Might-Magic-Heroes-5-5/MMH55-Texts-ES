@@ -1,0 +1,1 @@
+﻿Aumenta el Ataque del Héroe en +4 y todas las criaturas lideradas por el Héroe infligen triple de daño a los enemigos convocados.

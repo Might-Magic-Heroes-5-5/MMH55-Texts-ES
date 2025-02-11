@@ -1,0 +1,3 @@
+﻿+2 Moral<br>
++2 Suerte<br>
++6% Resistencia Mágica

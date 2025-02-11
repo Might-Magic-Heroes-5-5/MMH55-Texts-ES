@@ -1,0 +1,2 @@
+﻿El Héroe gana 100 puntos de movimiento después de cada batalla en tierra<br><color_default>
+El Héroe tampoco pierde ningún movimiento por entrar en Combate. Esta parte de el talento no se acumula con otras o artefactos

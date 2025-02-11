@@ -1,0 +1,1 @@
+﻿Destructor: los turnos del Héroe son más rápidos en Combate según el nivel del Héroe. La iniciativa del Héroe se convertirá en 11.5 + 0.025 * nivel de Héroe (en lugar de 11).

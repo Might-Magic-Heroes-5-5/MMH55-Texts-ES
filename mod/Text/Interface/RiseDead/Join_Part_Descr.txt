@@ -1,0 +1,5 @@
+﻿Puedes revivir <body_bright><value=allowed_count> de <value=count> <value=name><body><br>
+
+Te costará <body_bright><value=energy_needed> puntos<body> de Energía Oscura.
+
+<body_bright>¿Quieres revivirlos?

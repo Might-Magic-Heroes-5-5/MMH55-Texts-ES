@@ -1,0 +1,1 @@
+﻿El espíritu se vincula con la criatura objetivo, si las criaturas vinculadas reciben algún daño, el Héroe obtendrá algo de maná, alimentándose del sufrimiento de esas criaturas.

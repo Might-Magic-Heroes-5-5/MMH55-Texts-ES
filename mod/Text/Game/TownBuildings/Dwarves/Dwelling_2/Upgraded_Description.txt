@@ -1,0 +1,1 @@
+﻿<color_default>Una mejora de los Cuarteles de Cuchillas.<br> <color_bright>Los Salones de Cuchillas te permiten reclutar Emboscadores y Arponeros.

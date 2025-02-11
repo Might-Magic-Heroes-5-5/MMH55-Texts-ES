@@ -1,0 +1,1 @@
+﻿Las habilidades del Héroe: las disponibles desde el principio y las aprendidas durante el juego. Afecta habilidades disponibles.

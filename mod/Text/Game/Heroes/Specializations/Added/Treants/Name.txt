@@ -1,0 +1,1 @@
+﻿Clase: Guardabosques<br>Especialización: Señora del Bosque<br><br><body_bright>El Heroe obtiene +2 Defensa, Los  Treants y sus mejoras pueden actuar inmediatamente al principio del Combate<br><color_default>Comienza con Defensiva Básica.

@@ -1,0 +1,1 @@
+﻿Clase: Caballero de la Muerte<br>Especialización: Señor de los Zombis <br><br><body_bright>Todos los Zombis y sus mejoras en el ejército del héroe siempre actuarán inmediatamente al comienzo del Combate, Ademas todos los zombies y sus mejroas ganan +1 Ataque y +1 Defensa por cada 2 niveles del Heroe. <br><color_default>Comienza con Nigromancia básica.

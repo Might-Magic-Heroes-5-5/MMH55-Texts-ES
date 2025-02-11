@@ -1,0 +1,5 @@
+﻿+5 de ataque a las razas de Luz<br>
+-1 Defensa a las razas de Luz<br>
++5 Defensa a razas Oscuras<br>
+-1 Ataque a razas Oscuras<br><color_default>
+El gremio de magos revela alineamiento de la raza, Fortaleza se considera 'oscura'.

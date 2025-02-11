@@ -1,0 +1,1 @@
+﻿<color_default>+<value=proof>% Resistente al fuego <br>inmune a Maestro del Fuego

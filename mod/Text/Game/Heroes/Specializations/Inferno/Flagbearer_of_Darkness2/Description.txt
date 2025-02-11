@@ -1,0 +1,1 @@
+﻿Elegido del Caos:La suerte de todas las tropas del Héroe aumenta en 1 y a nivel de Héroe 20 este gana +1 de suerte permanentemente. Además, el Héroe enemigo no puede usar la habilidad Táctica en el Combate.

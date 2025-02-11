@@ -1,0 +1,1 @@
+﻿El astillero de la ciudad construye barcos por la mitad del costo estándar (500 oro + 5 madera).

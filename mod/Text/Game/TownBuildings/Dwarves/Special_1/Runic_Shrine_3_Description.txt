@@ -1,0 +1,3 @@
+﻿<color_default>Una mejora del Santuario Rúnico Nivel 2.<br>
+<color_bright>Permite a un Héroe visitante aprender runas mágicas del quinto círculo rúnico.<br><br>
+<color=0099FF>Gobernancia<color_default><br>Concede al Gobernador de esta ciudad un +3 de bonificación de Conocimiento.

@@ -1,0 +1,1 @@
+﻿Para cada casilla recorrida por esta criatura durante el ataque, la Defensa del objetivo se reduce en un 7,5% (hasta cero).

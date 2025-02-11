@@ -1,0 +1,1 @@
+﻿La Criatura lanza un Relámpago que causa daño mágico igual a (40 * Tamaño del grupo). Puede ser usado a pesar de tener unidades enemigas adyacentes.

@@ -1,0 +1,4 @@
+﻿Permite lanzar todos los hechizos de Magia Destructiva sin restricciones.<br><br><color=orange>
+
+Misión<color_default><br>
+Lleva los 4 tomos a un Mentor para recibir una recompensa única.

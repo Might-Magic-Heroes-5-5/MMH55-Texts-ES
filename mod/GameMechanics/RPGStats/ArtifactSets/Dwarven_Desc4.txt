@@ -1,0 +1,1 @@
+﻿Otorga + 40% de resistencia mágica adicional a todas las criaturas en el ejército del Héroe. Lanza los hechizos de "Resistencia" y "Desviar Misil" en el nivel experto a todas las criaturas amistosas al comienzo del Combate. Ingenieros, Magos Rúnicos y Maestros Ígneos reciben +4 su conocimiento.

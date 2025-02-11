@@ -1,0 +1,1 @@
+﻿Vende pociones de maná y movimiento y permite intercambiar recursos a un precio reducido.

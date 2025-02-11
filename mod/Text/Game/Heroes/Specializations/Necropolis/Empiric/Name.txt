@@ -1,0 +1,1 @@
+﻿Clase: Caballero de la Muerte<br>Especialización: Embalsamador<br><br><body_bright>La Tienda de primeros auxilios sanará 4 puntos de vida adicionales por cada punto de Defensa del Héroe, pero este comienza con -1 Defensa.<br><color_default>Comienza con el talento Primeros auxilios.

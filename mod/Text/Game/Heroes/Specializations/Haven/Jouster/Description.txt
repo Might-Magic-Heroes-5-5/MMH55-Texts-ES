@@ -1,0 +1,1 @@
+﻿Comandante de Caballería:Los Caballeros y sus mejoras en el ejército del Héroe obtienen un bonus adicional de daño de justas igual a + 1% por cada nivel de Héroe. La habilidad "Golpe de Contrataque" del Héroe también causa + 1% más de daño por cada

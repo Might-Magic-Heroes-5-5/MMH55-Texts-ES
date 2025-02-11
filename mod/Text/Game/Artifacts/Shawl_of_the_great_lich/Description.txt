@@ -1,0 +1,3 @@
+﻿+4 Conocimiento<br>
+Niega la inmunidad al Control mental del enemigo.<br><br><color=orange>
+Caballeros Malditos<color_default><br>Quema este artefacto en un templo e invocará un grupo de Caballeros Malditos. El tamaño del grupo es igual a 2*cantidad de semanas pasadas.

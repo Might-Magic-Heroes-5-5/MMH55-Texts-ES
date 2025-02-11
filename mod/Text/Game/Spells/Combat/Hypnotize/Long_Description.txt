@@ -1,0 +1,1 @@
+﻿Le da al Héroe control temporal sobre la unidad enemiga seleccionada. La unidad bajo este hechizo no puede contraatacar (se requiere un nivel experto para obtener control sobre criaturas de nivel 7).<br><color_default>El hechizo no funciona en unidades no muertas, elementales y mecánicas.

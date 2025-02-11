@@ -1,0 +1,1 @@
+﻿Aumenta el daño mínimo del objetivo hacia su daño máximo. Si el objetivo está bajo la influencia del hechizo de Debilidad, será Purgado. El efecto no puede exceder el 100%.

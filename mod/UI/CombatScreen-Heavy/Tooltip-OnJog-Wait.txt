@@ -1,0 +1,1 @@
+﻿Esperar - Retrasa el turno de esta criatura un 50%. <hotkey=input_Combat_Wait>

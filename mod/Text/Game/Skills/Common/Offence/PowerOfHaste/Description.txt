@@ -1,0 +1,1 @@
+﻿El Héroe adquiere el hechizo Rapidez Masiva en el nivel Experto <br><color_default>La iniciativa del Héroe se reinicia a 0.24 después de lanzar cualquier hechizo masivo, independientemente del nivel de Hechicería.

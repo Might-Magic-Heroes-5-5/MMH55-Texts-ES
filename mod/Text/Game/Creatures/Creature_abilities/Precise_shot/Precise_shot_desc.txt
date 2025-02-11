@@ -1,0 +1,1 @@
+﻿Al disparar a corta distancia (a 5 casillas del objetivo o menos), el ballestero inflige daño más grande porque la defensa del objetivo no es efectiva.

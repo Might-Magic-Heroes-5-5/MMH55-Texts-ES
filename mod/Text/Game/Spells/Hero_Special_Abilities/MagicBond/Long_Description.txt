@@ -1,0 +1,1 @@
+﻿Habilidad de Combate especial. Cada hechizo subsecuente que golpea la unidad marcada tiene su efecto duplicado. Además, cada hechizo que golpee a otra criatura también afectará a la unidad marcada si hay suficiente maná para un relanzamiento.

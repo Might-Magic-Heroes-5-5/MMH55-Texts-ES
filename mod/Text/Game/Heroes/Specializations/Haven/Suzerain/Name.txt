@@ -1,0 +1,1 @@
+﻿Clase: Caballero<br>Especialización: Patrón<br><br><body_bright>Todos los Escuderos y sus mejoras del ejército del héroe podrán actuar inmediatamente cuando comience el Combate. El héroe también aporta 250 piezas de oro al tesoro del reino cada día y los costes de entrenamiento se reducen en un 1% + 1% por cada 2 niveles de héroe.<br><color_default>Comienza con Combate básico.

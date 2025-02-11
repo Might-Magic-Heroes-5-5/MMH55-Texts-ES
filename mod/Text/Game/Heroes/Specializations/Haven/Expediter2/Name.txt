@@ -1,0 +1,1 @@
+﻿Clase: Caballero<br>Especialización: Jinete del Viento<br><br><body_bright>El Poder Mágico del Héroe aumenta en +1 por cada 7 niveles y El efecto del hechizo Aceleración se incrementa en un 0.15% por cada nivel de Héroe.<br><color_default>Comienza con Magia de Luz Básica.

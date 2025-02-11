@@ -1,0 +1,7 @@
+﻿¿Te gustaría enviar algunos exploradores (criaturas nativas de nivel 1) al edificio para investigar la fuerza de las criaturas que guardan los tesoros? La posibilidad de que un explorador no sobreviva a esta misión es <value=chance>%
+-------------------------------------------------------------------------------
+
+OK = Explorar
+Cancel = Atacar
+
+-------------------------------------------------------------------------------

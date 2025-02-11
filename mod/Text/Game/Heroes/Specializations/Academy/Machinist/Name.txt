@@ -1,0 +1,1 @@
+﻿Clase: Encantador<br>Especialización: Artesano de Gólems<br><br><body_bright>Todos los Golems de Hierro y sus mejoras en el ejército del Héroe pueden actuar inmediatamente al comienzo del Combate, ademas ganan +1 en su Ataque y Defensa por cada 2 niveles del Héroe, comenzando en el primer nivel.<br><color_default>Comienza con el talento Gloria Artificial.

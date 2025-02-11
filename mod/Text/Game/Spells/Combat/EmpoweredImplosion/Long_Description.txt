@@ -1,0 +1,1 @@
+﻿Inflige daño masivo de tierra a una sola unidad enemiga objetivo.

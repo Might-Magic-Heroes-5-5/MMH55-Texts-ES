@@ -1,0 +1,1 @@
+﻿Los hechizos de Magia Oscura enemigos serán lanzados con solo el 50% de Poder Mágico efectiva. Un Emisario de la Oscuridad viviente no será desobedecido y obtendrá un bonificador +3 permanente a la moral.

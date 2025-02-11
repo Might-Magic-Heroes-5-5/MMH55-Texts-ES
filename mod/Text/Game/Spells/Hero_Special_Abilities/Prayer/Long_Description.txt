@@ -1,0 +1,1 @@
+﻿Habilidad de Combate especial. Aumenta temporalmente la moral, el ataque y la defensa de las unidades aliadas en 2 y la iniciativa en 10%(no funciona en muertos vivientes y mecánicos).

@@ -1,0 +1,1 @@
+﻿Invoca a un Fénix en el campo de batalla para luchar por el Héroe. Solo un fénix puede ser invocado a la vez. Ataque, Defensa, salud, Iniciativa y Velocidad del Fénix dependen del Poder Mágico del lanzador. El Fénix es inmune a la magia.

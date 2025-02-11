@@ -1,0 +1,1 @@
+﻿Olvidar Talento o Habilidad seleccionada<hotkey=hero_unlearn_skill>

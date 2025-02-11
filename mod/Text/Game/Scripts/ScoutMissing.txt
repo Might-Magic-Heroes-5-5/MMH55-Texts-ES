@@ -1,0 +1,7 @@
+﻿Actualmente no hay criaturas nativas de nivel 1 en tu ejército que permitan explorar este objeto, ¿te gustaría atacar a los guardias sin explorar?
+-------------------------------------------------------------------------------
+
+OK = Atacar
+Cancel = Irse
+
+-------------------------------------------------------------------------------

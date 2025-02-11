@@ -1,0 +1,1 @@
+﻿Encierra a la criatura objetivo con un escudo de energía mágica que en parte drena todo el daño recibido hasta que se destruye. La eficacia depende del Poder Mágico y se puede lograr la invulnerabilidad completa si el lanzador tiene 60.

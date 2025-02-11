@@ -1,0 +1,1 @@
+﻿Siempre que se activa un bonificador de suerte, la criatura hace x1.66 de daño en vez de x1.5.

@@ -1,0 +1,1 @@
+﻿Otorga inmunidad a los hechizos de nivel 1-<value=enchant> por <value=duration> turnos.

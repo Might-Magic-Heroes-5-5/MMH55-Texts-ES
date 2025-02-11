@@ -1,0 +1,1 @@
+﻿El Héroe no gasta puntos de movimiento para recoger recursos, acceder a edificios o barcos, y para otras acciones similares. También trabaja en el mar; cargar en un barco no usa puntos de movimiento, pero el aterrizaje cuesta un movimiento estándar.

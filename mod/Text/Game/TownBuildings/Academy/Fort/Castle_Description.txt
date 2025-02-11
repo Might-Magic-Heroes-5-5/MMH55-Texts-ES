@@ -1,0 +1,3 @@
+﻿<color_default>Mejora de la Ciudadela.<br>
+<color_bright>El Castillo añade 2 torres de flechas, fortifica tu ciudad y dobla el crecimiento base de criaturas.<br><br>
+<color=0099FF>Gobernancia<color_default><br>Garantiza al Gobernador de esta ciudad +3 de Defensa extra.

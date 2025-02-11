@@ -1,0 +1,1 @@
+﻿El nivel de maestría de todos los hechizos enemigos de Magia de la Luz se reduce en 2. El Poder Mágico también se reduce en un 15% por cada nivel que por debajo del nivel 0.

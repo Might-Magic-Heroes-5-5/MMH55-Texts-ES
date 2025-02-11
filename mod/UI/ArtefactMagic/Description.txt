@@ -1,0 +1,3 @@
+﻿<h4> Los Heroes de Bastion pueden mejorar aqui sus talismanes para adquirir nuevos hechizos de aventura.<br>
+
+<body_bright>El Heroe <value=hero_name> ahora posee <value=talisman_level>.

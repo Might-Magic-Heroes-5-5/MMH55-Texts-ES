@@ -1,0 +1,1 @@
+﻿Todas las criaturas de bastión en el ejército del Héroe obtienen 160 puntos de rabia al comienzo del Combate, reemplazando el efecto más débil de memoria de nuestra sangre.

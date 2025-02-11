@@ -1,0 +1,1 @@
+﻿El Héroe recibe +12 a su rango de visión y obtiene la capacidad de ver el número exacto de criaturas en tropas neutrales, en ejércitos enemigos, ciudades y guarniciones dentro de su rango de visión.<br><color_default>El rango de visión base es de 12.

@@ -1,0 +1,1 @@
+﻿Dispara una flecha mágica que inflige daño elemental a la criatura enemiga seleccionada.

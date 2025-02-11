@@ -1,0 +1,3 @@
+﻿<color_bright>Permite a un Héroe visitante aprender los hechizos que se guardan en su interior. Agrega 2 hechizos del cuarto círculo.<br><br>
+<color=orange>Mantícoras<color_default><br>Este edificio puede convocar Mantícoras y agregarlas a la guarnición de la ciudad todas las semanas. La cantidad de Mantícoras invocadas depende de la cantidad de cristales de sangre de dragón que los Héroes hayan recolectado (A) y del nivel de experiencia de esos Héroes (B). Formula = Raíz(sum(A*B))/30 * (2+Nivel Cofradía). La cantidad es cero si no se recolectan cristales.<br><br>
+<color=0099FF>Gobernancia<color_default><br>Otorga al Gobernador de la ciudad +4 a su Poder Mágico.

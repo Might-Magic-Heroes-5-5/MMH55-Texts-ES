@@ -1,0 +1,2 @@
+﻿Si un enemigo lanza cualquier hechizo de Magia de la Invocación, su siguiente turno se retrasa un 30% más de lo habitual. <br><br><color=orange>Favor de Urgash<color_default><br>
+El Héroe aumenta su favor con el Dios Dragón del Caos y aumenta su Poder Mágico por 2.

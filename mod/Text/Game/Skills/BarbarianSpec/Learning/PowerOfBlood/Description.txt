@@ -1,0 +1,1 @@
+﻿Cada vez que una criatura en el ejército del Héroe obtiene Ira, obtiene un 50% más que de costumbre. Sin embargo, si una criatura pierde Ira, también pierde un 50% más que la cantidad habitual.

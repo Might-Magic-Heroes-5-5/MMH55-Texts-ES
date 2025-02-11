@@ -1,0 +1,1 @@
+﻿El enemigo seleccionado recibe un daño mágico igual al número de criaturas en el ejército del Héroe * 0.7. Además, todas las criaturas Orcas en el ejército del Héroe ganan puntos adicionales a su furia.

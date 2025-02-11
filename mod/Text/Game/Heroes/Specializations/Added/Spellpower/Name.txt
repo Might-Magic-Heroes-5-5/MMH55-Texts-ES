@@ -1,0 +1,1 @@
+﻿Clase: Conjurador<br>Especialización: Profesor<br><br><body_bright>El Poder Mágico del Héroe aumenta en +1 por cada 6 niveles de experiencia.<br><color_default>Comienza con Entendimiento Básico.

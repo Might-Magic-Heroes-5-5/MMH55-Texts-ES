@@ -1,0 +1,1 @@
+﻿Parca:El Heroe comienza con +2 Ataque, al comienzo de cada semana Apariciones adicionales y sus mejoras estarán disponibles para el reclutamiento en todas las Necropolis. La cantidad es (0.08 * Nivel). No hay criaturas adicionales disponibles antes del nivel 7.

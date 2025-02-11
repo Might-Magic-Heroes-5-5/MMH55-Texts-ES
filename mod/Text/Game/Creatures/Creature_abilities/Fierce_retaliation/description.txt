@@ -1,0 +1,1 @@
+﻿La criatura hace 1.5 veces su daño normal al contragolpear.

@@ -1,0 +1,3 @@
+﻿Agrega +1 de daño a todas las criaturas en el ejército del Héroe.<br><br><color=orange>
+
+Lobos <color_default><br>Sacrifica este artefacto en un templo y convocará a un grupo de lobos. El tamaño del grupo es igual a 6*cantidad de semanas pasadas.

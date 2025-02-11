@@ -1,0 +1,2 @@
+﻿<color_default>Una mejora del Monasterio.<br>
+<color_bright>La Catedral te permite reclutar Inquisidores y Celotas.

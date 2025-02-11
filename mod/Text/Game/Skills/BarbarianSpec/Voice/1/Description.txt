@@ -1,0 +1,1 @@
+﻿El uso de una habilidad activada de la categoría Grito de Guerra retrasa el próximo turno del Héroe un 11% menos.

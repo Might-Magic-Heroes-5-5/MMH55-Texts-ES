@@ -1,0 +1,6 @@
+﻿+1 Conocimiento si está equipado<br>
++Conocimiento/2 de Gemas por semana<br><color_default>
+<br><br><color=orange>
+Cornucopia<color_default><br>Consigue un artefacto por cada tipo de recurso (excepto el oro) y visita una biblioteca arcana para obtener una recompensa única.<br><br><color=yellow>
+Mochila<color_default><br>
+Los recursos también se obtienen cuando el artefacto está en la mochila, pero la funcionalidad está limitada a un artefacto por tipo de recurso por Héroe.

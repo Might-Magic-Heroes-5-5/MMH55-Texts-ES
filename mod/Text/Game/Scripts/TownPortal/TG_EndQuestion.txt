@@ -1,0 +1,11 @@
+﻿-----------------------------------------------------------------------------
+RENUNCIA DE GOBERNADOR
+-----------------------------------------------------------------------------
+
+El Héroe establecerá su trabajo como gobernador de esta ciudad, perderá todos los bonos relacionados y recuperará todos los puntos de movimiento fuera del radio de la ciudad.
+
+Está bien para la renuncia anticipada: <value=fine>
+
+OK = Retirar Gobernador
+Cancelar = Mantener Gobernador
+

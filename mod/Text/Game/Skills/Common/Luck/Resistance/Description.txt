@@ -1,0 +1,1 @@
+﻿Aumenta la resistencia mágica de todas las criaturas en el ejército del Héroe en un 15%. Las criaturas son más propensas a evitar la magia enemiga.

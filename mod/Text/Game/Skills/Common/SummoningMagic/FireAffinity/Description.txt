@@ -1,0 +1,1 @@
+﻿El Héroe aprende el hechizo de Trampa Ardiente, el hechizo Convocar Elementales siempre convocará a Elementales de Fuego. El número de Elementales de Fuego convocados es un 40% mayor de lo normal.

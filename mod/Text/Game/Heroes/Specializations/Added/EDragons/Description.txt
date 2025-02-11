@@ -1,0 +1,1 @@
+﻿Elegido de Sylanna: El héroe comienza con +1 de Moral permanentemente, y al comienzo de cada semana, Dragones Verdes y sus mejoras adicionales estarán disponibles para reclutar en todas las ciudades Silvanas de propiedad. La cantidad es igual a 0.04*nivel de Héroe. No hay criaturas adicionales disponibles antes del nivel 13.

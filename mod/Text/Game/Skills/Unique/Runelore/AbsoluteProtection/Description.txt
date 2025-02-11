@@ -1,0 +1,1 @@
+﻿Los ataques normales contra las criaturas del Héroe son siempre desafortunados. Los ataques de Suerte se convierten en normales. Si el enemigo tiene el beneficio de Suerte Absoluta, los efectos de ambos beneficios se anulan.

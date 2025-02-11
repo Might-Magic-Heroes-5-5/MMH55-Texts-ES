@@ -1,0 +1,1 @@
+﻿Hace que la criatura enemiga se olvide de lo que está haciendo en el campo de batalla. Algunas de las criaturas afectadas se olvidarán de usar ataques de tiro y de Contrataque. Este hechizo tambien reduce 20 Ira en los orcos por nivel de maestria.(El hechizo no funciona en unidades no muertas, elementales y mecánicas.) 

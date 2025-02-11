@@ -1,0 +1,1 @@
+﻿Tormenta de Flechas<br><br><body_bright>Este Héroe puede lanzar un tiro especial justo al comienzo del Combate. Además, todos los ataques del Héroe infligen + 1% de daño por cada nivel del Héroe.

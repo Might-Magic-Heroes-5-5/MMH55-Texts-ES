@@ -1,0 +1,1 @@
+﻿Cualquier ataque de Héroe estándar también lanza el hechizo de Sufrimiento sobre el objetivo, como si lo hubiera lanzado el Héroe. El hechizo Sufrimiento también se agrega al libro de hechizos del Héroe.

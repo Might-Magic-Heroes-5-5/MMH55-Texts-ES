@@ -1,0 +1,1 @@
+﻿Los hechizos de fuego lanzados por el Héroe en Combate encenderán enemigos, lo que inflige un 66% extra de daño con hechizos actual al objetivo en las siguientes 2 turnos.

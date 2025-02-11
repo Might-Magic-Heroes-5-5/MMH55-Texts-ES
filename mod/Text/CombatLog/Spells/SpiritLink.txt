@@ -1,0 +1,1 @@
+﻿<value=target_color>Enlace Espiritual:<body_bright> <value=source> su dolor otorga <value=damage> mana a <value=target>

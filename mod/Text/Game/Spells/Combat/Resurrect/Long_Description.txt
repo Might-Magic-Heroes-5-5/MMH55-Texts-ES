@@ -1,0 +1,1 @@
+﻿Resucita de manera permanente a las criaturas del objetivo. Cada uso de este hechizo disminuirá los puntos de vida del objetivo, a menos que el lanzador tenga una gran cantidad de Poder Mágico.

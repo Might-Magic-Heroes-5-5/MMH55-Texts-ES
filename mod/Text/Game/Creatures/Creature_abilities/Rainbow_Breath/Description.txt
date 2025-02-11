@@ -1,0 +1,1 @@
+﻿Esta criatura puede atacar aleatoriamente a todos los objetivos en la dirección deseada. El alcance del ataque depende de la suerte de esta criatura = 1+(#Aleatorio(1-10)+Suerte)/2, Redondeado hacia abajo y hasta un máximo de 5 casillas de rango.

@@ -1,0 +1,1 @@
+﻿Clase: Guardabosques<br>Especialización: Guardián del Bosque<br><br><body_bright>El Héroe comienza con +1 en la habilidad Defensa y la aumenta en +1 cada 7 niveles.<br><color_default>Comienza con Maquinas de Guerra Básicas

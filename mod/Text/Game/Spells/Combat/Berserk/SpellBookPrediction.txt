@@ -1,0 +1,1 @@
+﻿Duración: <value=duration> turnos. El daño se modifica un <value=enchant>%.

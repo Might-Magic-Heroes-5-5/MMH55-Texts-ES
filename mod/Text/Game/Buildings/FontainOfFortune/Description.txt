@@ -1,0 +1,6 @@
+﻿+33% de +3 Suerte
++33% de +2 Suerte
++33% cde -1 Suerte
++100% de 33 Mana
+
+<color_default>Algunos artefactos pueden ser disueltos aqui.

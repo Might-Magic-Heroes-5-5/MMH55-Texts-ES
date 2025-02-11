@@ -1,0 +1,1 @@
+﻿La criatura pierde su turno al usar esta capacidad, pero luego sus turnos son más frecuentes (capacidad activable).

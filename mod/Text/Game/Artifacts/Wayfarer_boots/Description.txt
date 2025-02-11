@@ -1,0 +1,2 @@
+﻿+2 Defensa<br>
+Permite al Héroe atravesar terreno accidentado sin penalizaciones.

@@ -1,0 +1,1 @@
+﻿Guardián de la bóveda: El Heroe tendra +2 Ataque permanentemente,al comienzo de cada semana, habrá Dragones de Hueso y sus mejoras adicionales disponibles para reclutar en todas las ciudades de Necropolis de propiedad. La cantidad es igual a 0.06*nivel de Héroe. No hay criaturas adicionales disponibles antes del nivel 9.

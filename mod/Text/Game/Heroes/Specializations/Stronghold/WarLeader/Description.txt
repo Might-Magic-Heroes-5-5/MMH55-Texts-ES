@@ -1,0 +1,1 @@
+﻿El Nuevo Khan: Todos los gritos de guerra tienen sus costos disminuidos en 1 + Nivel / 10 y otorgan una cantidad adicional de puntos de ira igual al nivel del Héroe

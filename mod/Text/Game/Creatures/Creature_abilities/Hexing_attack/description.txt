@@ -1,0 +1,1 @@
+﻿Después de un ataque exitoso, la criatura objetivo sufre uno de los siguientes efectos: Debilidad, Lentitud, Sufrimiento o Vulnerabilidad. Todos se aplican a nivel Avanzado.<br><color_default> El Hechizo inicial No es aleatorio,ataques consecutivos aplicarán los hechizos en el orden escrito. Hechizos lanzados por el Héroe afectan el orden.

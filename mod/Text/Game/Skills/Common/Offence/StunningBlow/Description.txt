@@ -1,0 +1,1 @@
+﻿Cada ataque del Héroe estándar mueve al objetivo hacia atrás a lo largo de la barra de iniciativa por un momento. El valor de inciativa del objetivo se reduce en 0.25.

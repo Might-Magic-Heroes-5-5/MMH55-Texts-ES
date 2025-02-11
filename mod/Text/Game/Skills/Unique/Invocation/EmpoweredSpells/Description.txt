@@ -1,0 +1,1 @@
+﻿Todos los hechizos de daño directo lanzados por el Héroe infligen un 50% más de daño, pero el coste de maná se duplica.

@@ -1,0 +1,2 @@
+﻿Permite a un Héroe visitante aprender runas mágicas del primer y segundo círculo rúnico.<br><br>
+<color=0099FF>Gobernancia<color_default><br>Concede al Gobernador de esta ciudad un +1 de bonificación de Conocimiento.

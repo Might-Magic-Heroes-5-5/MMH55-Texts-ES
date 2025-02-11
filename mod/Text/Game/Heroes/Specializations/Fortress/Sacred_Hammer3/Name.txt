@@ -1,0 +1,1 @@
+﻿Clase: Druida<br>Especialización: Ira del Bosque<br><br><body_bright>ECada vez que el Héroe lanza un hechizo mágico de Luz sobre una criatura amistosa, existe la posibilidad de que el hechizo Fuerza Justa sea lanzado libremente sobre la unidad afectada. La probabilidad es de 15% + Nivel * 1%.

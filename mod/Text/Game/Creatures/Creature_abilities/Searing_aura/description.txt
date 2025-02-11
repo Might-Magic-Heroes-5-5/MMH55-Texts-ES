@@ -1,0 +1,1 @@
+﻿Cuando una criatura a 1 casilla o menos de esta criatura empieza su turno, sufrirá daño de fuego igual a el tamaño del grupo*6. También ocurre al principio del turno de este grupo.

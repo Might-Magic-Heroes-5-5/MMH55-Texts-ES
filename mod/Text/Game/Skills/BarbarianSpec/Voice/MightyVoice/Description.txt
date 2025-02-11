@@ -1,0 +1,1 @@
+﻿Cuando se calcula el efecto del Grito de Guerra, se considera que el nivel del Héroe bárbaro es 5 más que su valor real.

@@ -1,0 +1,2 @@
+﻿+2 Defensa<br>
+-20% Daño recibido de Hechizos de Hielo enemigos

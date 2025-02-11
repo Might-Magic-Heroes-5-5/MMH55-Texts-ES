@@ -1,0 +1,1 @@
+﻿El daño sufrido por esta criatura se reduce en un 10% por cada casilla que el atacante avanze para golpearla. La reducción de daño tiene un límite del 80%.

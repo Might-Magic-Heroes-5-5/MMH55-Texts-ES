@@ -1,0 +1,1 @@
+﻿Así que quieres olvidar <value=skill_name>...<br>Te costará <value=price> oro. Estas seguro?<br><br>Advertencia: Olvidar Talentos marcados como 'Talentos de Aventura: ' en su descripcion causara que el heroe pierda 2 Talentos primarios aleatorios,los cuales no pueden ser recuperados a menos que sean reaprendidos inmediatemente.

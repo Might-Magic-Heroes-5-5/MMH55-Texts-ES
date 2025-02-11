@@ -1,0 +1,1 @@
+﻿Invoca elementos de fuego, tierra, agua o aire para luchar por la causa del Héroe. El tipo de elemento es completamente aleatorio y no depende del terreno del campo de batalla.

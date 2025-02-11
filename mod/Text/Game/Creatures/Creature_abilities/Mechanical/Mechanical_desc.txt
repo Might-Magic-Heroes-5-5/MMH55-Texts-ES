@@ -1,0 +1,1 @@
+﻿Esta criatura no está viva y su moral es siempre neutral. No puede ser afectado por Muerte Impasible y la magia relacionada con el Veneno, la Ceguera o la Mente. Estas criaturas no pueden ser resucitadas ni curadas por la Tienda de Primeros Auxilios.

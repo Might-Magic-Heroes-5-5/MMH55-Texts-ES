@@ -1,0 +1,4 @@
+﻿+3 Moral<br>
++3 Suerte<br>
+Otorga la habilidad de volar e ignorar completamente las penalizaciones de terreno<br><br><color=red>
+Levitando<color_default><br>Las habilidades de logística y búsqueda de caminos no tienen efecto.

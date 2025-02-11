@@ -1,0 +1,1 @@
+﻿El Héroe recurre a las fuerzas de la naturaleza para afectar el suelo sobre el que caminan las criaturas enemigas. Cada vez que una criatura enemiga que no sea voladora se mueva, recibirá un daño igual al nivel de Héroe * 8.<br><color_default>El daño no es por distancia y no funciona si la criatura solo gira.

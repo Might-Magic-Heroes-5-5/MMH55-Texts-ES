@@ -1,0 +1,1 @@
+﻿Permite que el Héroe aprenda hechizos de magia de invocación del cuarto círculo y hace que la magia de invocación sea más efectiva en general.

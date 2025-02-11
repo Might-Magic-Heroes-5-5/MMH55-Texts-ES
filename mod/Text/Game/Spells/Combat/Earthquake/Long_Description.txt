@@ -1,0 +1,1 @@
+﻿El terremoto causa gran daño a todos los muros y torres e la ciudad y durante un asedio, tambien causa poco a todas las unidades igual a20 + (2 * Spellpower).

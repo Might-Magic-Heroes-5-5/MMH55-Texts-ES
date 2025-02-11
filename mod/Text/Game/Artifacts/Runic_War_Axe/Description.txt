@@ -1,0 +1,2 @@
+﻿+5 Ataque<br>
++5 de maná después de cada batalla

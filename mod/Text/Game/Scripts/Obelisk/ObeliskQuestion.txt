@@ -1,0 +1,1 @@
+﻿¡Has descifrado ya todos los <value=total> Obeliscos! Ahora puedes abrir un portal a un sitio fuera del mundo material, donde la diosa dragón Asha probará tu fuerza. Si pruebas ser digno, te recompensará.<br><br>(Nivel de amenaza: Alto)<br><br>OK = Aceptar<br>CANCELAR = Rechazar<br><br>Si lo rechazas, puedes aceptar el desafío más tarde visitando cualquier Obelisco del mapa.

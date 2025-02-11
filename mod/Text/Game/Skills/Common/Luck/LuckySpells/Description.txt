@@ -1,0 +1,1 @@
+﻿Las tiradas de suerte ahora se aplicarán a todos los hechizos de daño directo lanzados por el Héroe, lo que permite una probabilidad de un aumento de daño del 66 %.<br><color_default>La probabilidad de causar daño adicional es la misma que de costumbre: Suerte*10 %, sin mala suerte si la Suerte es negativa.

@@ -1,0 +1,1 @@
+﻿El Héroe aprende el hechizo Dureza y se le otorgan efectos masivos a los hechizos de Desviar Misil y Dureza.<br><color_default>Los hechizos masivos cuestan cuatro veces el maná y son 33% mas debiles pero se lanzan tan rapido como si el Heroe tuviera Hechicería experta.

@@ -1,0 +1,2 @@
+﻿Si un enemigo lanza cualquier hechizo de Magia Destructiva, su Poder Mágico se considera un 30% inferior a lo normal.<br><br><color=orange>Don de Asha<color_default><br> 
+El Héroe aumenta el favor recibido por el Dios Dragón del Orden y recibe +2 a su Conocimiento.

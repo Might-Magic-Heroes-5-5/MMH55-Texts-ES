@@ -1,0 +1,1 @@
+﻿Restaura completamente el maná del Héroe al día siguiente si está equipado.<br><br><color=blue>Consumible<color_default><br>La poción desaparecerá después de usarla, guárdala en la mochila hasta que la necesites.

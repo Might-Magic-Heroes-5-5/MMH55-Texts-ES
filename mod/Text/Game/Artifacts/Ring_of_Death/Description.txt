@@ -1,0 +1,6 @@
+﻿+2 Conocimiento<br>
+Otorga inmunidad a Palabra de Luz a las criaturas aliadas<br><br>
+<color=purple>Abrazo de la Muerte<color_default><br>
++6 Poder Mágico (3/6)<br>
++12 Poder Mágico (6/6)<br>
+*La bonificación se aplica después de cerrar el inventario.

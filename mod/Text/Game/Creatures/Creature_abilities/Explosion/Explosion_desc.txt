@@ -1,0 +1,1 @@
+﻿Esta criatura lanza el hechizo Bola de Fuego a su alrededor, dañando todas las criaturas circundantes excepto a sí mismo, el daño es igual al Poder Mágico del grupo * 40.

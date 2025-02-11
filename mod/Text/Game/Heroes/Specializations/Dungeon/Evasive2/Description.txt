@@ -1,0 +1,1 @@
+﻿Sentinela: El ejército del Héroe sufre menos daño de los ataques distantes, la reducción del daño de alcance es del 15% + 0.5% por nivel de Héroe.

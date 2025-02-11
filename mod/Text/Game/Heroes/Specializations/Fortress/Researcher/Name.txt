@@ -1,0 +1,1 @@
+﻿Clase: Mago Rúnico<br>Especialización: Maestro Runico<br><br><body_bright>Con cada nivel, el Héroe puede aprender espontáneamente un hechizo rúnico más. La probabilidad es del 25%.

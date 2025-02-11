@@ -1,0 +1,1 @@
+﻿Transforma las ciudades propias en la facción del Héroe (el costo se basa en el nivel de la ciudad). El Héroe debe estar parado frente a la ciudad. Las ciudades con Capitolios no se pueden convertir. Todos los edificios de la ciudad se convertirán excepto los edificios especiales.

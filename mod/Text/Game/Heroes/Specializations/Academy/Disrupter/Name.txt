@@ -1,0 +1,1 @@
+﻿Clase: Vengador<br>Especialización: Disruptor<br><br><body_bright>Se especializa en Vulnerabilidad para que los hechizos no solo disminuyan la Defensa del objetivo, sino que también inflija daño. El daño infligido depende del nivel del Héroe. El daño es = 30+30*(Nivel/2), redondeado.<br><color_default> Comienza con el talento Maestro del dolor.

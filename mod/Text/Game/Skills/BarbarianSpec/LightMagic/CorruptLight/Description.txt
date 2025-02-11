@@ -1,0 +1,2 @@
+﻿Todos los hechizos de Magia de la Luz lanzados por el enemigo cuestan un 50% más de maná que de costumbre. <br><br><color=orange>Discípulo de Malassa<color_default><br> 
+El Héroe se convierte en seguidor de El Dios Dragón de la Oscuridad y descubre 10 Bloodblood Cristales.

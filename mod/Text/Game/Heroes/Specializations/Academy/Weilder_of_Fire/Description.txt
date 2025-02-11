@@ -1,0 +1,1 @@
+﻿Portador de llamas: el poder mágico efectivo del Héroe aumenta al lanzar Bola de fuego o Bola de fuego potenciada. El aumento es igual al nivel de Héroe/3. El gremio de magos también invoca a los elementales de fuego en lugar de a los lobos, pero no si el Héroe no estaba presente en el mapa el primer día o si lo contrataron en una taberna.

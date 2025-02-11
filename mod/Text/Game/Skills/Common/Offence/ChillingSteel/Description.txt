@@ -1,0 +1,1 @@
+﻿El Héroe mejora las armas de todas las tropas de su ejército para atacar con poderes de hielo adicionales (no solo las criaturas no-muertas reciben estos encantamientos). El objetivo sufre un daño de agua elemental igual al 10% del daño primario infligido.

@@ -1,0 +1,2 @@
+﻿<color_default>Mejora para el Mercado.<br>
+<color_bright>El Silo de Recursos otorga un Cristal por día.

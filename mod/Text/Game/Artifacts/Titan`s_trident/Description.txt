@@ -1,0 +1,3 @@
+﻿+6 Poder Mágico<br>
++15 % de daño a hechizos de aire<br><color_default>
+Afecta a Relampago y Rayo en Cadena .

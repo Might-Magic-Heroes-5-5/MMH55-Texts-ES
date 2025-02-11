@@ -1,0 +1,1 @@
+﻿Concede al Héroe la capacidad de llamar a la muerte en Combate. Todas las criaturas vivientes enemigas reciben -1 a Moral y Suerte, y -10% a Iniciativa. La duración del efecto es de 2 + 0.05 * (Nivel de Héroe).El valor ATB del héroe es 0.1 tras su uso.

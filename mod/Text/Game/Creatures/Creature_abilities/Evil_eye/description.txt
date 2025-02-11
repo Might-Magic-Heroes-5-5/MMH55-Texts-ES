@@ -1,0 +1,1 @@
+﻿Ataca al enemigo con un Rayo maligno que reduce la Suerte del objetivo en 3 el rayo atraviesa 2 casillas por lo que puede golpear una criatura pequeña y a otra detras de esta.

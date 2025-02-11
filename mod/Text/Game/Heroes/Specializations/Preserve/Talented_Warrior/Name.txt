@@ -1,0 +1,1 @@
+﻿Clase: Druida<br>Especialización: Veterano<br><br><body_bright>El conocimiento del héroe aumenta en +1 por cada 7 niveles y toda la experiencia obtenida después de las batallas aumenta en un 2% por nivel de héroe.<br><color_default>Comienza con Entendimiento Avanzado.

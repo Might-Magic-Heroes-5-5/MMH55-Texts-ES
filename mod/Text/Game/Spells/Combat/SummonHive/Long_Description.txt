@@ -1,0 +1,1 @@
+﻿Crea una colmena de avispas en el lugar seleccionado del campo. La colmena atacará a las criaturas enemigas con los enjambres de avispas nivel Avanzado hasta el final del Combate o hasta que la colmena sea atacada y destruida (la colmena no atacará unidades no-muertas, elementales y mecánicas). La Colmena evita que los tiradores enemigos adyacentes disparen.

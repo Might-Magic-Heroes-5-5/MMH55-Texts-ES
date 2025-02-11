@@ -1,0 +1,1 @@
+﻿Todas las tropas que custodian esta ciudad obtienen un bonificador de +2 a su defensa.

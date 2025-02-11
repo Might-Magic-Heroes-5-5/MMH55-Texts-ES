@@ -1,0 +1,1 @@
+﻿Permite al Héroe construir y hacer explotar las Cadenas elementales de daño adicional en función de los elementos asociados a las criaturas.

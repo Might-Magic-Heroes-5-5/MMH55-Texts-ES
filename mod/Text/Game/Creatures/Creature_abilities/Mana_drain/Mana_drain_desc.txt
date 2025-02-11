@@ -1,0 +1,1 @@
+﻿Cuando ataca a las unidades enemigas, esta criatura puede drenar su maná y usarlo para resucitarse. El maná drenado es igual al número de criaturas en el grupo, limitado a la cantidad real de maná del objetivo. La cantidad de criaturas resucitadas es igual a la cantidad de maná drenado.

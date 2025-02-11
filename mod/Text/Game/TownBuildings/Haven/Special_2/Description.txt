@@ -1,0 +1,2 @@
+﻿El Salón de los Héroes admite la habilidad especial de Entrenamiento y permite entrenar 13 criaturas adicionales por semana.<br><br>
+<color=0099FF>Gobernancia<color_default><br>Garantiza al Gobernador +2 de Ataque.

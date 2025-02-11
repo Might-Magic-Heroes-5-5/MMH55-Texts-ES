@@ -1,0 +1,3 @@
+﻿Permite a un Héroe visitante aprender los hechizos que se guardan en su interior. Otorga 3 hechizos del primer círculo.<br><br>
+<color=orange>Elementales de Fuego<color_default><br>Este edificio puede convocar a Elementales de fuego y agregarlos a la guarnición de la ciudad todas las semanas. La cantidad de elementos de fuego invocados depende de la cantidad de cristales de sangre de dragón que los Héroes hayan recolectado (A) y el nivel de experiencia de esos Héroes (B). Formula = Raíz(sum(A*B))/12 * (2+Nivel Cofradía). La cantidad es cero si no se recolectan cristales.<br><br>
+<color=0099FF>Gobernancia<color_default><br>Otorga al Gobernador de la ciudad +1 a su Poder Mágico.

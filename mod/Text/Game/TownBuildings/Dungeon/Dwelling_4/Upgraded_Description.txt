@@ -1,0 +1,2 @@
+﻿<color_default>Una mejora del Recinto Oscuro.<br>
+<color_bright>El Recinto Siniestro te permite reclutar Incursores Tenebrosos e Incursores Energicos.

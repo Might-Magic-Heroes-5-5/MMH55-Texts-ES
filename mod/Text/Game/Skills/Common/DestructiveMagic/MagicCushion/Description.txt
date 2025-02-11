@@ -1,0 +1,1 @@
+﻿Aumenta la suerte del Heroe en 1 y el daño infligido por hechizos enemigos se reduce en un 20%.

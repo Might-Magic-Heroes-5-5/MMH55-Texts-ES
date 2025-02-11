@@ -1,0 +1,1 @@
+﻿Disidente: El Héroe comienza con +1 Ataque y -1 Defensa, adeamas la Iniciativa de todas las criaturas en el ejército del Héroe se incrementa en un 2.5% + 0.25% por nivel.

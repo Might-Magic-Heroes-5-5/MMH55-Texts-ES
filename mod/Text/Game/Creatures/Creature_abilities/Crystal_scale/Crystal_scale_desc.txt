@@ -1,0 +1,1 @@
+﻿La criatura es inmune a Disparo en cadena y a habilidades que matan instantáneamente como Muerte Impasible, Toque de Dañino y Espada vorpal.

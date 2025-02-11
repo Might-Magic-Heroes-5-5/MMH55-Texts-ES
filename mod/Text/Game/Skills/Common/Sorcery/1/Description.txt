@@ -1,0 +1,1 @@
+﻿El intervalo entre 2 hechizos consecutivos se reduce en un 8%. Los hechizos masivos no se ven afectados.<br><color_default> La iniciativa base del Héroe es 11 and increased to the equivalent of exactly 12 as long as spells are being cast.

@@ -1,0 +1,1 @@
+﻿Las criaturas bajo el control del Señor Demonio tienen un 66% de probabilidad de infligir daño de fuego adicional en el ataque. Cada vez que se dispara, Fuego Infernal inflige daño de Fuego igual a 7 + 7 * Poder Mágico y drena 2 Mana.

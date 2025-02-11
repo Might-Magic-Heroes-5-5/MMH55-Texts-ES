@@ -1,0 +1,2 @@
+﻿Todos los hechizos de Magia Oscura lanzados por el enemigo cuestan un 50% más de maná que de costumbre.<br><br><color=orange>Discípulo de Elrath<color_default><br>
+El Héroe se convierte en un seguidor del Dios Dragón de la Luz y descubre 10 Cristales de Sangre de Dragón.

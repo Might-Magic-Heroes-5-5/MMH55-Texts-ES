@@ -1,0 +1,1 @@
+﻿Invoca un puño mágico que inflige daño físico no elemental a la criatura enemiga objetivo. Este hechizo ignora la resistencia mágica, la protección y la inmunidad de la magia.

@@ -1,0 +1,1 @@
+﻿Habilidad de Combate especial. Reduce temporalmente la moral, la suerte en 2 y la Iniciativa -10% de las unidades vivas enemigas.

@@ -1,0 +1,1 @@
+﻿Permite al Héroe levantar parte de las criaturas vivientes enemigas caídas.

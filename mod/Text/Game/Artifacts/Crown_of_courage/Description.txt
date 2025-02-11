@@ -1,0 +1,7 @@
+﻿+2 Moral<br>
++10 Conocimiento<br><color_default>
++10 Defensa <br><color_default>
+(Afecta a todos los artefactos activos que den recursos, tropas o resuciten criaturas)<br><br><color=purple>
+El espíritu del león<color_default><br>
++6 Ataque (3/3)<br>
+*La bonificación se aplica después de cerrar el inventario.

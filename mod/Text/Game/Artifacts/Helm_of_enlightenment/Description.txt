@@ -1,0 +1,4 @@
+﻿+3 Conocimiento<br>
++10 % de ganancia de experiencia<br><br><color=purple>
+Vestimenta de la Iluminación<color_default><br>
+El Héroe recibe una cantidad de experiencia todos los días por usar tanto el Turbante como la Cota de Malla. La cantidad es igual a la cantidad de días pasados * 10.

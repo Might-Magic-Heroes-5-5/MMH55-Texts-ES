@@ -1,0 +1,1 @@
+﻿Esta criatura puede reparar Golems y máquinas de guerra una vez por Combate (Talento Activable). La cantidad de salud recuperada es igual a la cantidad de Gremlins * 2.

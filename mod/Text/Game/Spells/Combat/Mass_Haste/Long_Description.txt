@@ -1,0 +1,1 @@
+﻿Hace que todas las unidades aliadas actúen con más frecuencia en Combate. Si cualquier objetivo está bajo la influencia del hechizo Lentitud, persistira el hechizo con el Poder Mágico superior.

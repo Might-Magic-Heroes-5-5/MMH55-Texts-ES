@@ -1,0 +1,1 @@
+﻿Clase: Mago Rúnico<br>Especialización: Saqueador de Mentes<br><br><body_bright>El Héroe gana +1 de Poder Mágico cada 7 niveles y el hechizo Confusión tiene un efecto adicional de disminuir el maná del objetivo en un punto por cada nivel del Héroe.<br><color_default>Comienza con el talento Maestro de la Mente.

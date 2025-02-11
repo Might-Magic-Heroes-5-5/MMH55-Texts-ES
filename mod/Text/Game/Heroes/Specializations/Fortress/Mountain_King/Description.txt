@@ -1,0 +1,1 @@
+﻿Rey de los Salones de Piedra: Todas las criaturas en el ejército del Héroe tienen el efecto "Runa de Control Mágico" permanentemente activo (se actualiza al comienzo del turno de la criatura).

@@ -1,0 +1,1 @@
+﻿Explorador: Los puntos de movimiento del Héroe se incrementan en un 1% por cada 2 niveles. El héroe también gana +250 de experiencia después de cada batalla.

@@ -1,0 +1,1 @@
+﻿Permite que runas mágicas del 3º y 4º círculo se coloquen en criaturas aliadas en Combate, dándoles temporalmente nuevas habilidades y características de batalla.

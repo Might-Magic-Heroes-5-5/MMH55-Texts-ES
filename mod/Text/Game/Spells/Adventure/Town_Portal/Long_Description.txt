@@ -1,0 +1,1 @@
+﻿Transporta al Héroe a la ciudad aliada más cercana - todos los puntos de movimiento se perderán.<br>(Requiere un Héroe de nivel 15. No requiere ninguna habilidad mágica)

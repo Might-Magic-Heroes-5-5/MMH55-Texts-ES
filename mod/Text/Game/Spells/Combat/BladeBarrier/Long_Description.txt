@@ -1,0 +1,1 @@
+﻿Crea temporalmente una barrera, de 3 casillas de largo, en la parte seleccionada del campo. La barrera tiene un 75% de reducción de daño de ataques a distancia y mágicos, y devuelve el daño igual al número de Puntos de Vida perdidos a los atacantes cuerpo a cuerpo. La barrera impide que los tiradores adyacentes disparen.

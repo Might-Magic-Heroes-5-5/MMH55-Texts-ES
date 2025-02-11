@@ -1,0 +1,1 @@
+﻿Le otorga al Objetivo <value=target_rp> Puntos de ira.

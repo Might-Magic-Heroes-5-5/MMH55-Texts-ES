@@ -1,0 +1,1 @@
+﻿Decepcionada, la bruja duda por un tiempo pero finalmente decide hacerle otra oferta. Esta vez, sin embargo, ella quiere <value=gold> de oro a cambio de sus servicios. ¿Quieres aprender <value=mastery> <value=skill>?

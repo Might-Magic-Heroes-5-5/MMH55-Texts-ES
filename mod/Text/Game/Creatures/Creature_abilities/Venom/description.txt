@@ -1,0 +1,1 @@
+﻿Al atacar un enemigo, esta criatura lo envenena, el efecto del veneno dura 3 turnos del enemigo. El daño es igual al Tamaño de Grupo * 8. El veneno puede ser curado por Imposición de manos, La Tienda de primeros auxilios pero no por Purga ni limpieza.

@@ -1,0 +1,1 @@
+﻿<value_name>IA con descuentos tempranos: <value_value>apagado

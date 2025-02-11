@@ -1,0 +1,1 @@
+﻿Aumenta el maná máximo normal en un 40%. La tasa de regeneración de maná no aumenta.

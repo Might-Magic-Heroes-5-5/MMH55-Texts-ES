@@ -1,0 +1,1 @@
+﻿La criatura destruye parte del maná del Héroe enemigo al comienzo del Combate. La cantidad de maná destruido depende del número de criaturas.

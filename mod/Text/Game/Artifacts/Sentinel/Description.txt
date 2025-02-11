@@ -1,0 +1,2 @@
+﻿+12 Defensa<br>
++6 Puntos de vida máximos para todas las criaturas aliadas

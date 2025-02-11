@@ -1,0 +1,1 @@
+﻿Aumenta la moral de todas las criaturas en el ejército del Héroe en 1. las criaturas no-muetrtas recibiran 4% de inciativa.<br><color_default>Cuando se desencadena un buen efecto moral, el valor de iniciativa del objetivo se restablece a 0.33 después de su acción. Cuando se activa un mal efecto moral, el valor iniciativa del objetivo se restablece a 0.75 antes de su acción.

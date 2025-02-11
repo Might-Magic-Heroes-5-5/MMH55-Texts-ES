@@ -1,0 +1,1 @@
+﻿Proporciona una pequeña cantidad de recursos aleatorios una vez por semana.

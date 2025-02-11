@@ -1,0 +1,1 @@
+﻿El héroe obtiene +4 de Defensa y todas las criaturas bajo su control reciben 50% de daño de todos los hechizos de fuego y son inmunes a la reduccion de armadura de Maestro del fuego.

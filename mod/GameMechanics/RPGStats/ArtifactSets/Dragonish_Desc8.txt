@@ -1,0 +1,2 @@
+﻿Agrega +4 a todos los parámetros del Héroe y +5 a Ataque y Defensa a todas las criaturas de nivel 7 en el ejército del Héroe, aumentando también sus Puntos de Vida en +20.
+Refuerza el ejército del Héroe con una criatura de nivel 5 todos los días.

@@ -1,0 +1,1 @@
+﻿Clase: Druida<br>Especialización: Reina del Enjambre<br><br><body_bright>El hechizo Enjambre es más efectivo dependiendo del nivel de Héroe. El daño aumenta en un 5% por nivel. La reducción base del valor de iniciativa se multiplica por (1 + 0.02 * Nivel / 3).<br><color_default>Comienza con el talento Maestro de Conjuración.

@@ -1,0 +1,1 @@
+﻿Aumenta el daño físico que infligen las tropas del Héroe en Combate.

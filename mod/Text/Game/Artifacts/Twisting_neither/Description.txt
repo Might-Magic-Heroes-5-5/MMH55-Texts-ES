@@ -1,0 +1,2 @@
+﻿+5 Poder Mágico<br>
++1 punto de maná por cada 2 puntos gastados por el Héroe enemigo.

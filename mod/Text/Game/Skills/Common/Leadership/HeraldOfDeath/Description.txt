@@ -1,0 +1,1 @@
+﻿Todas las criaturas neutrales que se unan al ejército del Nigromante se transformarán automáticamente en criaturas no-muertas de sus respectivos niveles. Al contrario del Santuario del Inframundo, las criaturas mejoradas se transforman en criaturas no muertas mejoradas.<br><color_default>Los Héroes de Necrópolis aprenden esta habilidad en lugar de Empatía.

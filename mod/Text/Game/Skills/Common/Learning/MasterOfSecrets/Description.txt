@@ -1,0 +1,1 @@
+﻿El Héroe gana +2 Poder mágico y al comienzo de cada semana se unirán al ejército del héroe Djinns y sus mejoras, la cantidad es igual a 0.2 * nivel de héroe.

@@ -1,0 +1,1 @@
+﻿Hay un 10-35% de probabilidad (dependiendo de la suerte del Héroe) de que el grupo invoque el doble de refuerzos de lo normal. <br><color_default> La probabilidad es de 10% + Suerte * 5% y 10% si la Suerte es negativa.

@@ -1,0 +1,1 @@
+﻿Todas las unidades amistosas que se encuentran adyacentes a esta criatura nunca tendrán una moral negativa.

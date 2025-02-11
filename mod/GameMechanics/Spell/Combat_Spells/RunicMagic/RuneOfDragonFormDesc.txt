@@ -1,0 +1,1 @@
+﻿Dobla el ataque y la defensa de la criatura por un turno. Las bonificaciones de ataque y defensa obtenidas del Héroe no se duplican y el hechizo no funciona en los dragones.

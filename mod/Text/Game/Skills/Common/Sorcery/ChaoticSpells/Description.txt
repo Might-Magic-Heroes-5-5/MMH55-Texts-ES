@@ -1,0 +1,1 @@
+﻿Por cada hechizo lanzado por el Héroe, hay un 50% de posibilidades de que el costo del hechizo se reduzca, y la reducción real también es aleatoria entre 0-50%.

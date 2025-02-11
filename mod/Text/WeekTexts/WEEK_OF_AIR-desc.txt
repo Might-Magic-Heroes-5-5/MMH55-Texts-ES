@@ -1,0 +1,1 @@
+﻿El daño por hechizos de aire aumenta en un 50% durante los combates. La cantidad de Elementales de Aire convocados aumenta en un 50%.El daño por hechizos de aire aumenta en un 10% durante los combates. La cantidad de Elementales de Aire convocados aumenta en un 50%.

@@ -1,0 +1,1 @@
+﻿El Héroe aprende el hechizo Vulnerabilidad y se le otorgan efectos de área a los hechizos Descomposición y Vulnerabilidad. Agrega +4 a Poder Mágico efectiva del hechizo Maldición del Inframundo.<br><color_default>Los hechizos masivos cuestan cuatro veces el maná y son 33% mas debiles pero se lanzan tan rapido como si el Heroe tuviera Hechicería experta.

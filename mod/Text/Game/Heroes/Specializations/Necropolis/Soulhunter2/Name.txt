@@ -1,0 +1,1 @@
+﻿Clase: Cacique<br>Especialización: Caminante Espiritual<br><br><body_bright>Cada vez que un grupo de criaturas enemigas muere, es reemplazado por un grupo de Fantasmas amigos durante el Combate. El número de Fantasmas es igual al nivel del Héroe. <br><color_default>Comienza con Sed de Sangre Avanzado.

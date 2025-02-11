@@ -1,0 +1,1 @@
+﻿La probabilidad de disipar un hechizo de un enemigo es <value=enchant>%.

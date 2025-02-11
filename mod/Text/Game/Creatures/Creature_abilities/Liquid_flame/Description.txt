@@ -1,0 +1,1 @@
+﻿Durante el ataque, esta criatura inflige daño completo no solo al objetivo sino a cualquier otra unidad enemiga situada directamente detrás de él, y también deja un Muro de Llamas en las 2 casillas en la dirección de ataque. El Muro de Llamas causa (10*Tamaño del grupo) daño de fuego a todas las unidades (amigos o enemigos) durante 2 turnos.

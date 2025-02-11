@@ -1,0 +1,1 @@
+﻿Ciega a la criatura enemiga seleccionada para que no pueda moverse, atacar o usar ninguna habilidad. La ceguera desaparece si se ataca a la criatura. El Poder Mágico determina la duración del efecto.<br><color_default>El hechizo no funciona en unidades no muertas, elementales y mecánicas.

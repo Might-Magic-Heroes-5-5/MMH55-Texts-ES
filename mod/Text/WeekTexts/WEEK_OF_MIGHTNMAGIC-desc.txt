@@ -1,0 +1,1 @@
+﻿Durante las batallas el daño fisico aumenta en 10% y el costo de hechizos es reducido a la mitad.

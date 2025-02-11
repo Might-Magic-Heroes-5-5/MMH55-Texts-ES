@@ -1,0 +1,1 @@
+﻿Clase: Caballero de la Muerte<br>Especialización: Parca<br><br><body_bright>El Heroe comienza con +2 Ataque, al comienzo de cada semana Apariciones adicionales estarán disponibles para el reclutamiento en todas las Necropolis. La cantidad es (0.08 * Nivel). No hay criaturas adicionales disponibles antes del nivel 7.<br><color_default>Comienza con Liderazgo Básico.

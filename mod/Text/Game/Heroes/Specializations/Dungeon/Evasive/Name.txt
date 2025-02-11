@@ -1,0 +1,1 @@
+﻿Clase: Brujo<br>Especialización: Danzarin Sombrio<br><br><body_bright>Se sufre menos daño de los ataques a distancia, la reducción de daño es 15% + 0.5% por nivel del Héroe.<br><color_default>Comienza con Magia Destructiva Básica.

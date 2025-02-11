@@ -1,0 +1,2 @@
+﻿El Héroe adquiere el hechizo Terremoto y la habilidad de lanzarlo con efecto de sacudida, dañando y aturdiendo a todas las criaturas que se encuentran detrás de los muros. El daño infligido es de 120 + 12 * Poder Mágico. El aturdimiento es una reducción de 0.1 a la iniciativa. También golpea tropas aliadas. <br><br><color=orange>Discípulo de Sylanna<color_default><br>
+El Héroe se convierte en un seguidor del Dios Dragón de la Tierra y descubre 10 cristales de sangre de dragón.

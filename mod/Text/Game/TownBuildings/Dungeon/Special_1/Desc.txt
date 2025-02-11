@@ -1,0 +1,1 @@
+﻿Soporta el talento Vision elemental. Muestra elementos en criaturas propias lo que permite planificar ataques infligiendo más daño. Las criaturas con elementos opuestos causan más daño al enemigo.<color=0099FF>Gobernancia<color_default><br>Otorga al Gobernador +1 al Ataque. 

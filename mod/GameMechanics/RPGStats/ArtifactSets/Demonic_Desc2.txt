@@ -1,0 +1,1 @@
+﻿Aumenta el ataque del Héroe en +4. Los herejes, señores demoníacos, guardiabarreras y hechiceros también reciben +1 de moral.

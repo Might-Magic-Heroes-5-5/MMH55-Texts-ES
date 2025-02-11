@@ -1,0 +1,1 @@
+﻿El Héroe gana 250 de oro por día + una cantidad adicional igual a su Conocimiento * 25 El héroe también obtiene una bonificación única de Madera o Mineral, dependiendo de qué reserva esté más agotada. La cantidad es igual al nivel del héroe.<br><color_default>Si las existencias de madera y mineral son iguales, ambas aumentarán la mitad.

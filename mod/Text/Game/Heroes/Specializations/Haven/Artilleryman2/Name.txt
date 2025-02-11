@@ -1,0 +1,1 @@
+﻿Clase: Ingeniero<br>Especialización: Ingeniero de Asedio<br><br><body_bright>La Balista recibe +1 a su ataque por cada nivel del Héroe. La probabilidad de que la Catapulta golpeé la pared aumenta un 2% por cada nivel del Héroe.<br><color_default>Comienza con Maquinas de Guerra Avanzadas.

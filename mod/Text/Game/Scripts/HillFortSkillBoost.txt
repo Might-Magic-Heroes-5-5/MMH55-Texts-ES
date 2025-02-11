@@ -1,0 +1,4 @@
+﻿Los campos de entrenamiento para mejorar criaturas se han cerrado permanentemente, pero el intendente todavía está dispuesto a darte un entrenamiento de Combate Avanzado.
+ 
+OK = +2 Attack
+Cancel = +2 Defense

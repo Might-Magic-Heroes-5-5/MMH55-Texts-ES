@@ -1,0 +1,21 @@
+﻿La IA Mejorada no funciona en LAN. ¡Usa MMH55_Utility.exe para jugar contra AI en LAN! La AI predeterminada se beneficia de seleccionar un modo de juego en la pantalla de selección de facción. Para forzar un modo, seleccione el mismo modo para todos los jugadores humanos.
+<br><color=white>Normal<color_default><br>
+Recursos Humanos:25000/12/25
+Recursos de IA:20000/10/20
+Neutrales: 1 + (*1,11 por semana)
+Experiencia: x/1
+<br><color=white>Difícil<color_default><br>
+Recursos Humanos:20000/10/20
+Recursos de IA:20000/10/20
+Neutros: 1,1 + (*1,13 por semana)
+Experiencia: x/1.1
+<br><color=white>Heroico<color_default><br>
+Recursos Humanos:15000/7/15
+Recursos de IA: 30000/15/30
+Neutrales: 1,2 + (*1,14 por semana)
+Experiencia: x/1.2
+<br><color=white>Imposible<color_default><br>
+Recursos Humanos:10000/5/10
+Recursos de IA: 30000/15/30
+Neutrales: 1,3 + (*1,15 por semana)
+Experiencia: x/1.3

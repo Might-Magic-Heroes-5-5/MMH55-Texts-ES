@@ -1,0 +1,1 @@
+﻿Inflige daño masivo de Rayo a varias criaturas adyacentes (hasta 4), empezando por el elegido. Cada criatura siguiente en la cadena recibe la mitad del daño infligido a la anterior (la cadena puede golpear criaturas amistosas).

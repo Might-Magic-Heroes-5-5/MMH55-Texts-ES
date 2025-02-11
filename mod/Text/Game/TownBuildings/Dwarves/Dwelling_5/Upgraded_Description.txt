@@ -1,0 +1,1 @@
+﻿<color_default>Una mejora de la Capilla de las Runas.<br> <color_bright>El Templo de las Runas permite reclutar Patriarcas Rúnicos y Guardias Rúnicos.

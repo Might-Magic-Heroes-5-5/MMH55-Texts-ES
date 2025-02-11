@@ -1,0 +1,3 @@
+﻿+1 Defensa<br>
++5 Conocimiento<br><color_default>
+(Afecta a todos los artefactos activos en este Héroe que den recursos, tropas o resuciten criaturas)

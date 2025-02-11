@@ -1,0 +1,1 @@
+﻿Hace que las criaturas enemigas objetivo se olviden de lo que están haciendo en el campo de batalla. Algunas de las criaturas afectadas se olvidarán de usar ataques de tiro y Contrataques. (El hechizo no funciona en unidades no muertas, elementales y mecánicas.)

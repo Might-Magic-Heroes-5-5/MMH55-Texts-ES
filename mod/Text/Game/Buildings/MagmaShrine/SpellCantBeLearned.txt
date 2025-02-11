@@ -1,0 +1,1 @@
+﻿El hechizo Runico <value=spell> no puede ser aprendido. Se necesita <value=skill>.

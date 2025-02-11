@@ -1,0 +1,1 @@
+﻿Duplica la regeneración de Maná.<br><color_default>La velocidad es igual a Conocimiento * 2, la regeneración de maná de Artefactos o Talentos no se duplica.

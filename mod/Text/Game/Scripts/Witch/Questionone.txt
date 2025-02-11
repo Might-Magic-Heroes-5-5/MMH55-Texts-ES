@@ -1,0 +1,1 @@
+﻿Una vieja bruja que vive en una choza extraña te da la bienvenida y está interesada en tu búsqueda, por sus propios propósitos inescrutables ella propone enseñarte <value=mastery> <value=skill>. ¿Aceptas?

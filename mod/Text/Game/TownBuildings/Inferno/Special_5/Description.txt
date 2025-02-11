@@ -1,0 +1,1 @@
+﻿Otorga a todos los Héroes infernales +2500 de experiencia (acumulativa con varias ciudades) y permite sacrificar criaturas en este edificio a cambio de experiencia adicional.<br><br><color=0099FF>Governance<color_default><br> Otorga al gobernador de esta ciudad una bonificación de +2 de ataque.

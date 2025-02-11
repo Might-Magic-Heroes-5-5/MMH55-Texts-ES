@@ -1,0 +1,1 @@
+﻿Le permite ajustar cuánto tiempo tarda hasta que aparece el Salón de la Decisión.

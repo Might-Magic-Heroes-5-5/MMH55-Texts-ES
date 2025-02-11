@@ -1,0 +1,1 @@
+﻿Permite actualizar una Runa previamente colocada (seleccionada al azar si es que hay muchas) en la criatura seleccionada. El Héroe pasa un turno completo para refrescar una Runa. Una vez refrescado en una criatura, la Runa vuelve a estar disponible al costo normal.

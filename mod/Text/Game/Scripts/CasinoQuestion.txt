@@ -1,0 +1,10 @@
+﻿Bienvenido al Casino, ¿te gustaría hacer una apuesta en uno de nuestros juegos de ruleta?
+
+-------------------------------------------------------------------------------
+
+OK = Apuesta <value=bet> oro a los numeros pares (<value=chance>% <value=reward> Oro)
+Cancelar = Irse
+
+-------------------------------------------------------------------------------
+
+Solo se puede apostar una vez por casino. Por cada próximo casino que encuentres en el mapa de aventuras, puedes hacer una apuesta más grande, independientemente de si ganaste o perdiste la apuesta anterior.

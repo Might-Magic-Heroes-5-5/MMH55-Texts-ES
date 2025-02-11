@@ -1,0 +1,3 @@
+﻿Agrega un 5% a la habilidad Nigromancia de todos los Nigromantes bajo el control del jugador y les otorga 200 puntos adicionales de Energía oscura (acumulativo con múltiples ciudades).<br><br>
+Los Héroes sin nigromancia levantarán esqueletos adicionales en el ejército del Héroe cada semana, la cantidad es igual a 1.6 * Nivel del Héroe(acumulativo con múltiples ciudades).<br><br>
+<color=0099FF>Gobernancia<color_default><br>Concede al Gobernador de esta ciudad un +2 de bonificación de Conocimiento.

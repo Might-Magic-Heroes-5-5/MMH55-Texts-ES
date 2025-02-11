@@ -1,0 +1,1 @@
+﻿Agresor: el Héroe comienza con una +1 Ataque y aumenta aún más en +1 por cada 7 niveles.

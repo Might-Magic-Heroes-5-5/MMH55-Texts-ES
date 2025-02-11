@@ -1,0 +1,2 @@
+﻿Si un enemigo lanza cualquier hechizo de Magia de la Invocación, su Poder Mágico se considera un 30% inferior a lo normal.<br><br><color=orange>Don de Urgash<color_default><br>
+El Héroe aumenta su favor con el Dios Dragón del Caos y aumenta su Conocimiento por 2.

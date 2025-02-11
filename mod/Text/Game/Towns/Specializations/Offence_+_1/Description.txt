@@ -1,0 +1,1 @@
+﻿Todas las tropas que protegen esta ciudad obtienen +1 de bonificación a su ataque.

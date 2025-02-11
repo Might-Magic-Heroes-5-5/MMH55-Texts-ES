@@ -1,0 +1,1 @@
+﻿Permite a las criaturas de Bastión en el ejército del Héroe alcanzar un tercer nivel de furia mientras luchan. La Ira de Sangre resultante les otorga bonificaciones de Combate apropiadas.

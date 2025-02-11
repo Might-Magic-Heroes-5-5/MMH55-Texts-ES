@@ -1,0 +1,1 @@
+﻿Esta criatura no se ve afectada por la habilidad Disparo en cadena y es vulnerable al hechizo Palabra de Luz.

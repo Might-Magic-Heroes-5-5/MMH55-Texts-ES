@@ -1,0 +1,1 @@
+﻿Hay más jugadores humanos en el mapa. ¿Te gustaría unirte a ellos contra los jugadores de la IA? (¡Siempre presione Cancelar si este mapa tiene su propia configuración de equipo!)

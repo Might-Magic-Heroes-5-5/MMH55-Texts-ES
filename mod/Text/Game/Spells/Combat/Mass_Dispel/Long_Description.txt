@@ -1,0 +1,1 @@
+﻿Disipa cualquier efecto mágico negativo de criaturas aliadables. El Héroe necesita respectivamente 30,20,15 o 10 Poder Mágico dependiendo del nivel de maestría para lograr un 100% de posibilidades de éxito contra un lanzador del mismo nivel. De lo contrario, la probabilidad disminuye un 3% para cada nivel o punto de hechizo faltante. Este hechizo no puede apuntar a enemigos.

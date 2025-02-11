@@ -1,0 +1,1 @@
+﻿Clase: Caballero de la Muerte<br>Especialización: Señor de los zombis<br><br><body_bright>Todos los zombis y sus mejoras en el ejército del héroe siempre actuarán inmediatamente después de que el héroe tome su turno, aumentando efectivamente su iniciativa a la misma que el héroe (10) y haciéndolos inmunes a Lentitud.<br><color_default>Comienza con Nigromancia Básica.

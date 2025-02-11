@@ -1,0 +1,1 @@
+﻿El Héroe gana +2 a la Defensa y todas las tropas no muertas bajo el control del Héroe se mejoran con hechizos de hielo que devuelven al atacante un 5% de todo el daño cuerpo a cuerpo. Si el Héroe está vivo, la bonificación de defensa aumenta a +6 en total.

@@ -1,0 +1,2 @@
+﻿+25 % de puntos de movimiento sobre tierra<br><br>
+<color=red>Horma Ajustada<br><color_default>El Héroe pierde 750 puntos de movimiento al quitarse este artefacto.

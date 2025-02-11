@@ -1,0 +1,1 @@
+﻿Bebedor de Almas: El hechizo Sufrimiento no solo reduce el daño de la criatura, sino que también reduce la Defensa de la criatura por nivel del Héroe /3, redondeado hacia arriba.El efecto no es acumulable y se pierde si el hechizo es reemplazado por un hechizo de Maldición lanzado por una criatura.

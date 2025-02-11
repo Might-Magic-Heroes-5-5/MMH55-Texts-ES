@@ -1,0 +1,1 @@
+﻿General Minotauro:Todos los Minotauros y sus mejoras en el ejército del Héroe ganan +1 a su Ataque y Defensa por cada 2 niveles, comenzando en el primer nivel, ademas podran actuar inmediatamente al inicio del Combate

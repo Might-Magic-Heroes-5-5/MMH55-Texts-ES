@@ -1,0 +1,1 @@
+﻿Señor de los zombis: Todos los zombis y sus mejoras en el ejército del héroe siempre actuarán inmediatamente después de que el héroe tome su turno, aumentando efectivamente su iniciativa a la misma que el héroe (10) y haciéndolos inmunes a Lentitud.

@@ -1,0 +1,1 @@
+﻿La criatura obtiene una bonificación del 3,33% del daño que inflinge durante el ataque por cada casilla que cubrió en el campo de juego antes del ataque.

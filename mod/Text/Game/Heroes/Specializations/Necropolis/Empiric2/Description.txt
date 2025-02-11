@@ -1,0 +1,1 @@
+﻿Embalsamador: La tienda de primeros auxilios curará 5 puntos de vida más por nivel de Héroe. El daño en el caso de el talento Tienda de Plaga también aumenta.

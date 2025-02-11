@@ -1,0 +1,4 @@
+﻿<color_bright>Permite a un Héroe visitante aprender los hechizos que se guardan en su interior. Agrega 2 hechizos del quinto círculo.<br><br>
+<color=green>Pórtico a Ciudad<color_default><br>Permite a todos los Héroes teletransportarse a esta ciudad desde cualquier lugar del mapa<br><br>
+<color=orange>Elementales de Aire<color_default><br>Este edificio puede convocar Elementales de Aire y agregarlos a la guarnición de la ciudad todas las semanas. La cantidad de Elementales de aire invocados depende de la cantidad de cristales de sangre de dragón que los Héroes hayan recolectado (A) y el nivel de experiencia de esos Héroes (B). Formula = Raíz(sum(A*B))/12 * (2+Nivel Cofradía). La cantidad es cero si no se recolectan cristales.<br><br>
+<color=0099FF>Gobernancia<color_default><br>Otorga al Gobernador de la ciudad +5 a su Poder Mágico.

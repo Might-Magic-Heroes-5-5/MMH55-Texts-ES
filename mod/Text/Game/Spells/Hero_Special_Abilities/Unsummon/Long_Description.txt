@@ -1,0 +1,1 @@
+﻿Inflige mucho daño a todas las unidades invocadas dependiendo del nivel del Héroe.

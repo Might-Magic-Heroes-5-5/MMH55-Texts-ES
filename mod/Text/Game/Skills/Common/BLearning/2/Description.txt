@@ -1,0 +1,1 @@
+﻿El Héroe gana +2 al Conocimiento y mejora sus estadísticas primarias en +1 por cada 5 niveles, incluidos los niveles ya ganados. El Héroe también gana experiencia un 10% más rápido.

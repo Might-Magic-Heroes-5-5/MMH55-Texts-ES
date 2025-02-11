@@ -1,0 +1,1 @@
+﻿El héroe disuelve un artefacto equipado en una criatura aliada para usar la energía mágica que contiene para curar y resucitar a la criatura en Combate. El número de puntos de Vida curados es igual a 10 * (nivel de héroe) * (1 + X), donde X es el número de efectos creados en el artefacto disuelto. El héroe gasta el 50% de su turno para disolver el artefacto.

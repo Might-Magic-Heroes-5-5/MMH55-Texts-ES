@@ -1,0 +1,2 @@
+﻿La tienda de primeros auxilios tiene la capacidad de dañar a las criaturas enemigas y la efectividad de todos los artefactos de resurrección equipados por el Héroe aumentan en un 10 % (no funciona si la tienda está destruida).<color_default><br>
+El Daño infligido por la Tienda de Primeros Auxilios es igual a 1.5 veces los Puntos de Curación y no cuesta Usos de la misma.

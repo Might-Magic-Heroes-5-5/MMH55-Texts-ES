@@ -1,0 +1,1 @@
+﻿Fanatico:El Héroe obtiene un bonificador de ataque +1 permanente y cada tropa enemiga muerta (las tropas convocadas también) aumentan el ataque de todas las criaturas de su ejército en +1 por cada 9 niveles del Héroe.

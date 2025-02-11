@@ -1,0 +1,2 @@
+﻿Permite el control manual de balista y balista gana un disparo adicional.<br><color_default>
+Restaura la balista después de la batalla si fue destruida. Los Puntos de Vida de la Balista se multiplican x3.

@@ -1,0 +1,3 @@
+﻿+2 Poder Mágico<br>
++4 Poder Mágico al lanzar invocar elementales<br><color_default>
+Otorga el hechizo de invocación de elementales si aún no se aprendió.

@@ -1,0 +1,1 @@
+﻿El Señor de la Fisura: Al comienzo del Combate los Dragones de Fuego y sus mejoras podran actuar inmediatamente, ademas cada semana, habrá Dragones de fuego y sus mejoras adicionales disponibles para reclutar en todas las ciudades de Fortaleza en propiedad. La cantidad es igual a 0,04*nivel de Héroe. No hay criaturas adicionales disponibles antes del nivel 13.

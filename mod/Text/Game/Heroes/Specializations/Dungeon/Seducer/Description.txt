@@ -1,0 +1,1 @@
+﻿Doncella Sangrienta:Todas las doncellas sangrientas en el ejército del Héroe ganan +1 a su ataque y defensa por cada 2 niveles, comenzando en el primer nivel.

@@ -1,0 +1,1 @@
+﻿Felicitaciones, has ganado <value=reward> oro!, esperamos verte de nuevo en otro Casino!

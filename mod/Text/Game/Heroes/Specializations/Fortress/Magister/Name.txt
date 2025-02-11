@@ -1,0 +1,1 @@
+﻿Clase: Guardián Ígeno<br>Especialización: Patriarca<br><br><body_bright>Todos los Monjes Rúnicos y sus mejoras en el ejército del Héroe reciben mana extra al comienzo del combate, ademas ganan +1 a su ataque y defensa por cada 2 niveles del Héroe, comenzando en el primer nivel. <br><color_default>Comienza con Suerte del Soldado.

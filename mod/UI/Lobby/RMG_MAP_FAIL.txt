@@ -1,0 +1,1 @@
+﻿El mapa RMG ha fallado en cargar, este error ocurren porque 'RMGmap'esta configurada como "True" bajo 'sRMGProps' en las propiedades del map mientras este no es completamente nuevo, para arreglar este problema configura esto como "false" en el editor de mapas.

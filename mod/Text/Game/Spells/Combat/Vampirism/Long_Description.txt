@@ -1,0 +1,1 @@
+﻿El objetivo seleccionado obtiene todos los atributos de los muertos vivientes y la capacidad de drenar vida. Los hechizos de control mental que afecten al objetivo serán eliminados y el objetivo podrá ser resucitado permanentemente por Levantar Muertos.

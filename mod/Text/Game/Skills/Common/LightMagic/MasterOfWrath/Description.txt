@@ -1,0 +1,1 @@
+﻿ El Héroe aprende el hechizo de Rapidez y se le otorgan efectos masivos a los hechizos de Fuerza Justa y Rapidez. Agrega +4 al Poder Mágico efectiv del hechizo Palabra de Luz.<br><color_default>Los hechizos masivos cuestan cuatro veces el maná y son 33% mas debiles pero se lanzan tan rapido como si el Heroe tuviera Hechicería experta.

@@ -1,0 +1,2 @@
+﻿+8 Ataque<br>
+-1 Moral

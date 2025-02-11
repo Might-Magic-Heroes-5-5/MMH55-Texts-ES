@@ -1,0 +1,1 @@
+﻿Viajero Temporal: El lanzador transforma el tiempo continuo , alterando el orden de las acciones de las criaturas al comienzo del Combate. La intensidad de la transformación depende del nivel del Héroe.

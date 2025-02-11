@@ -1,0 +1,1 @@
+﻿Maestro de Convocación: La cantidad de criaturas llamadas a través de la Convocación aumenta en un 0.33% por nivel del Héroe  y todos los Demonios con Cuernos y saus mejoras pueden actuar inmediatmente al inicio del Combate.

@@ -1,0 +1,1 @@
+﻿Protege a la criatura seleccionada por el Héroe contra cualquier daño cuerpo a cuerpo.

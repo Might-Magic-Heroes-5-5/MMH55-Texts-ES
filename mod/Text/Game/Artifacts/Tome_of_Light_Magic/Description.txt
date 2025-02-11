@@ -1,0 +1,3 @@
+﻿Permite lanzar hechizos de Magia de la Luz sin restricciones.<br><br><color=orange>
+Misión<color_default><br>
+Lleva los 4 tomos a un Mentor para recibir una recompensa única.

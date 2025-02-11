@@ -1,0 +1,1 @@
+﻿Las tropas bajo el control del Héroe obtienen un bonificador adicional de +30% a su defensa al defender.<br><color_default>La bonificación Hechar Raíces en defensa también se duplica, y otorga a los Treants Antiguos un aumento del 100% en Defensa.

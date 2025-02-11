@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> golpea a su enemigo favorito <value=target> con un golpe crítico:<value=font> <value=damage> daño realizado (<value=dead> muertos).

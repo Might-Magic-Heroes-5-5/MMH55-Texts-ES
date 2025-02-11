@@ -1,0 +1,3 @@
+﻿Te gustaria empezar la generacion de Encuentros neutrales mixtos antes de la partidas?
+
+(ADVERTENCIA: La generación continuará independientemente del tamaño de este mapa y podría congelar el juego durante minutos)

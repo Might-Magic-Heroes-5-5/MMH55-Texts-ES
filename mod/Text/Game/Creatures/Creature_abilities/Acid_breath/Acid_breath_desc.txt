@@ -1,0 +1,1 @@
+﻿Durante el ataque, esta criatura daña no solo al objetivo sino también a cualquier otra unidad colocada directamente detrás de él. Los objetivos secundarios reciben 50% menos de daño.

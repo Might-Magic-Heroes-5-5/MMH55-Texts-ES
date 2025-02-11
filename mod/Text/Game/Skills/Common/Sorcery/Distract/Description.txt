@@ -1,0 +1,1 @@
+﻿Cada vez que el Héroe enemigo lanza un hechizo, su valor de iniciativa se reduce en 0.15.

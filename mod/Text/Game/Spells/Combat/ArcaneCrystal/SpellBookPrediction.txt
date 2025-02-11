@@ -1,0 +1,1 @@
+﻿Salud del Cristal:<value=health><br>Daño al ser destruido: <value=damage>

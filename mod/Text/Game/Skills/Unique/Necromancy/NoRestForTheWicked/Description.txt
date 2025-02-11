@@ -1,0 +1,1 @@
+﻿El Héroe levantará algunas de las criaturas no muertas caídas en su ejército después del Combate selecciona al azarz, La cantidad es igual a 7+5* Nivel de Héroe en puntos de vida. Un Héroe viviente tambien revivirá un grupo de criaturas nativas Nivel 2 sin costo despues de cada pelea, igual a 50% + 1% por Conocimiento del Héroe (redondeadas hacia abajo.)

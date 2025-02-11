@@ -1,0 +1,1 @@
+﻿El Nuevo Khan: Todas las Hijas del Sol y sus mejoras pueden actuar inmediatamente, al comienzo de cada semana, se unirán al ejército del Héroe Hijas del Sol y sus mejoras adicionales (siempre que algunas de estas criaturas estén presentes). La cantidad es igual a 0.2*Nivel de Héroe. No se unirán criaturas adicionales antes del nivel 3.

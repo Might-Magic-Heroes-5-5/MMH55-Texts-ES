@@ -1,0 +1,4 @@
+﻿Recursos:15000/7/15
+Recursos IA: 30000/15/30
+Neutrales: 1.2 + (*1.14 por semana)
+Experiencia: x/1.2

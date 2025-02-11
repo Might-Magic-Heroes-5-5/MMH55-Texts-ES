@@ -1,0 +1,1 @@
+﻿Elimina el borde de la ventana de juego en modo ventana.

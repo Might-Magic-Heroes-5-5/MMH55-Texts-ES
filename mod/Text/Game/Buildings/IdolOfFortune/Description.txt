@@ -1,0 +1,8 @@
+﻿Dia 1: +1 Suerte
+Dia 2: +1 Moral
+Dia 3: +1 Suerte
+Dia 4: +1 Moral
+Dia 5: +1 Suerte
+Dia 6: +1 Moral
+Dia 7: +1 Suerte y Moral
+Todos los Dias: +30 Mana

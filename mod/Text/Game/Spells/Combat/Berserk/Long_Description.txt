@@ -1,0 +1,1 @@
+﻿Lleva a las criaturas seleccionadas a un frenesí. Las unidades frenéticas consideran a todas las otras criaturas y máquinas de guerra como sus enemigos personales y atacan al más cercano con ira doble, las creaturas atemorizadas no contratacaran.<br><color_default>El hechizo no funciona en unidades no muertas, elementales y mecánicas.

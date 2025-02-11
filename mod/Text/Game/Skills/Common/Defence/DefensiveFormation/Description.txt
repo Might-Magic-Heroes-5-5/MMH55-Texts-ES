@@ -1,0 +1,1 @@
+﻿La defensa de las criaturas en el ejército del Héroe se incrementa al estar cerca uno del otro en el campo de batalla.<br><color_default>La fuerza de la bonificación depende de la diferencia en defensa entre las criaturas (las criaturas debiles son protegidas por las mas fuertes) y puede alcanzar un máximo de +10.

@@ -1,0 +1,1 @@
+﻿Las criaturas lideradas por el Héroe infligirán daño de Fuego adicional que es igual al 10% del daño infligido por sus ataques. Los enemigos inmunes al fuego no sufren daños adicionales.

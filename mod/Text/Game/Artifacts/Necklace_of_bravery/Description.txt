@@ -1,0 +1,5 @@
+﻿+1 Ataque<br>
++1 Moral<br><br><color=purple>
+El espíritu del león<color_default><br>
++6 Ataque (3/3)<br>
+*La bonificación se aplica después de cerrar el inventario.

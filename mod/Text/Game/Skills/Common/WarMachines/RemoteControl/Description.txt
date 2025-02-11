@@ -1,0 +1,1 @@
+﻿Al comienzo del Combate, una de las Máquinas de guerra enemigas queda bajo tu control. Una máquina de guerra se selecciona al azar, excluyendo la catapulta.

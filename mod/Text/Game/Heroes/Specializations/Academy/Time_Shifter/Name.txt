@@ -1,0 +1,1 @@
+﻿Clase: Hechicero<br>Especialización: Tuercetiempos<br><br><body_bright>El lanzador transforma el continuo de tiempo local, cambiando el orden de las acciones de las criaturas al comienzo del Combate. La intensidad de la transformación depende del nivel del Héroe.

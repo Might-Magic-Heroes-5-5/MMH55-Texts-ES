@@ -1,0 +1,1 @@
+﻿Esta criatura inflige daño a todos los enemigos que se encuentran cerca de su objetivo, el daño infligido por tal ataque se comparte equitativamente entre los objetivos. El efecto no funciona en Contrataques.

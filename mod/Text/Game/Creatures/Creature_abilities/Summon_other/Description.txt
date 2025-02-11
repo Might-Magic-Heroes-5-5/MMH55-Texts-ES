@@ -1,0 +1,1 @@
+﻿El Archidemonio puede apuntar a cualquier criatura en un radio de 7 casillas, independientemente de quién sea su propietario, y teletransportarlas a la casilla desocupada que sea lo más cerca posible de él mismo (habilidad activable).

@@ -1,0 +1,1 @@
+﻿Aumenta el daño infligido por las criaturas del Héroe en Combate a distancia en un 20%.

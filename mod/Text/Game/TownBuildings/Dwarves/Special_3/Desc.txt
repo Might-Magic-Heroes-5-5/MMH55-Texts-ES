@@ -1,0 +1,1 @@
+﻿El Puesto de Guardia te permite agregar unidades adicionales directamente al campo de batalla cuando defiendes a la ciudad y otorga +1 Defensaa las unidades Enanas.

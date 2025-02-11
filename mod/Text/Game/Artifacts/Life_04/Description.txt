@@ -1,0 +1,5 @@
+﻿+1 Defensa<br>
++1 Conocimiento<br><br>
+Resucita una cantidad de criaturas Nivel 4 nativas después del Combate, la cantidad es igual al 30% + 1% Conocimiento del Héroe (redondeado hacia abajo)o alternativamente 130 + 10*C de la salud perdida (el calculo que de mas unidades). La resurrección requiere 10 maná. <color_default>Las criaturas no muertas, mecánicas y elementales no pueden resucitar.
+<br><color=purple>Prendas del Santo<color_default><br>
+-2 Coste de maná de resurrección por artefacto (3/7)

@@ -1,0 +1,1 @@
+﻿Habilidad especial de Combate para alentar a las tropas en el campo de batalla, haciendo que actuen más rápido. El valor de iniciativa incrementa en 0.5, con un maximo de 1. El valor del Heroe se vuelve 0.3 tras su uso.

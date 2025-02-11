@@ -1,0 +1,1 @@
+﻿Clase: Ocultista<br>Especialización: Aura de Agilidad<br><br><body_bright>La Iniciativa de todas las criaturas en el ejército del Héroe se incrementa en un 2.5% + 0.25% por nivel.<br><color_default>Comienza con Convocación Básica.

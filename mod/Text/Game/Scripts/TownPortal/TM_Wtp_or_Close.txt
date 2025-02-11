@@ -1,0 +1,31 @@
+﻿-------------------------------------------------------------------------------
+SIGUIENTE ACCIÓN
+-------------------------------------------------------------------------------
+
+OK = Teletransportarse a la ciudad más cercana*
+Cancelar = Cerrar esta ventana
+
+*Tu Héroe bárbaro sólo puede usar el hechizo Pórtico a la Ciudad regular desde aquí.
+
+-------------------------------------------------------------------------------
+INFORMACIÓN DEL Héroe
+-------------------------------------------------------------------------------
+
+Rol del Héroe: <value=occupation>
+Puntos de Movimiento: <value=movement>
+Regeneración de Maná Diaria: <value=mana>
+Oro Extra Diario: <value=estates>
+Cristales de Sangre de Dragón: <value=dragonblood>
+Refuerzos Semanales por Artefactos: N<value=artifactsummons_tier>:<value=artifactsummons> 
+Criaturas Invocadas Semanalmente: <value=summons>
+Reclutas Semanales (Gobernancia): N1:<value=tier1> N2:<value=tier2> N3:<value=tier3> N4:<value=tier4> N5:<value=tier5> N6:<value=tier6> N7:<value=tier7>
+
+-------------------------------------------------------------------------------
+OPCIONES DEL MAPA
+-------------------------------------------------------------------------------
+
+Gobernancia: <value=governance>
+Conversión de Ciudades: <value=conversion>
+Máx de Ciudades por Facción: <value=maxtowns>
+Máx de Viviendas por Ciudad: N1:<value=t1d> N2:<value=t2d> N3:<value=t3d> 
+Máx de Puestos Militares por Facción: <value=t4d>

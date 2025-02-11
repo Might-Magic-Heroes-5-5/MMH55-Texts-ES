@@ -1,0 +1,1 @@
+﻿Cuando esta criatura es atacada cuerpo a cuerpo, su escudo de fuego refleja 20% del daño recibido al atacante, independientemente si es inmune al Contrataque.

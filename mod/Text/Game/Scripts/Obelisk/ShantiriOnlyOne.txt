@@ -1,0 +1,1 @@
+﻿Este Disco Shantiri está protegido por un grupo de bandidos. ¿Quieres atacarlos?<br><br>(Nivel de amenaza: desafiante)<br><br>OK = Aceptar<br>CANCELAR = Rechazar<br><br>Si lo rechazas ahora puedes aceptarlo luego.

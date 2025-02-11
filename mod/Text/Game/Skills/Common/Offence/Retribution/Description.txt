@@ -1,0 +1,1 @@
+﻿Las tropas lideradas por el Héroe infligen daño cuerpo a cuerpo y alcance adicional si su moral es superior a cero (+ 2% por cada punto de moral). La bonificación está limitada al 20%. Para los Héroes de Necrópolis, la habilidad aumenta el Ataque en 2.

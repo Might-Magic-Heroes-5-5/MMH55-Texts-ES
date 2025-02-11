@@ -1,0 +1,5 @@
+﻿El Vidente es un ávido coleccionista de artefactos antiguos, pero sospecha que algunos de los objetos que circulan en estas tierras pueden haber sido falsificaciones encantadas. Por lo tanto, él le pide que le traiga una cantidad de artículos similares para su investigación.
+
+Actualmente está buscando <color=white><value=qty> <value=type><color_default> 
+
+El vidente tendrá varias recompensas para ofrecer a su regreso.

@@ -1,0 +1,1 @@
+﻿Permite que las runas mágicas se coloquen en criaturas propias en Combate que temporalmente les dan nuevas habilidades y características de batalla. El nivel de esta habilidad determina el nivel de las runas que se pueden usar.

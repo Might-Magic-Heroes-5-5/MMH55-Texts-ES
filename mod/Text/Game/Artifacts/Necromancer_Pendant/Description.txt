@@ -1,0 +1,6 @@
+﻿+5 % a la habilidad de Nigromancia<br>
+-10 % de costes de energía oscura<br><br><color=purple>
+Abrazo de la muerte<color_default><br>
++6 Poder Mágico (3/6)<br>
++12 Poder Mágico (6/6)<br>
+*La bonificación se aplica después de cerrar el inventario.

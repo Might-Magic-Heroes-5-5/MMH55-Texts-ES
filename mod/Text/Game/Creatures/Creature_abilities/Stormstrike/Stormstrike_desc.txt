@@ -1,0 +1,1 @@
+﻿Además del daño habitual, esta criatura golpea al objetivo con un rayo (daño no mágico), que a su vez pasará a otra criatura enemiga que se encuentre cerca del objetivo, siguiendo así hasta que se rompa la cadena. La fuerza del rayo es igual a la del ataque.

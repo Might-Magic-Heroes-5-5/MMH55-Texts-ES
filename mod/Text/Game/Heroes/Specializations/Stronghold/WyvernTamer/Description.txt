@@ -1,0 +1,1 @@
+﻿ Domador de Wyverns: Todos Wyverns y sus mejoras pueden actuar inmediatamente al comenzar el Combate, ademas todos los Wyverns en el ejercito del Héroe ganan +2 a sus puntos de vida por cada nivel del Héroe, comenzando en el primer nivel

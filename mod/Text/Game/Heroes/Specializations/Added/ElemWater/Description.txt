@@ -1,0 +1,1 @@
+﻿Elegido de Shalassa: El héroe tendrá +1 de Moral y Suerte siempre que haya Elementales de Agua en su ejercito. ademas tendrá 10 Cristales Sangre de Dragón en nivel 1, con el fin de invocar Elementales de Agua (se pueden obtener más cristales con los Talentos de Debilitar Magia y Magia de Invocacion). Esta especialización no funciona si el Héroe es contratado por otra facción.

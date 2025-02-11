@@ -1,0 +1,1 @@
+﻿El Héroe comienza con la habilidad 'Invocar Dragon Espectral'. El dragón invocado se vuelve más poderoso y cuesta más maná con cada nivel de Héroe. Poder Mágico también mejorará su daño y durabilidad. El dragón espectral gana las siguientes habilidades con niveles: Golpe debilitador (6), Drenaje de vida (12), Incorpóreo (18), Inmunidad mágica (24)

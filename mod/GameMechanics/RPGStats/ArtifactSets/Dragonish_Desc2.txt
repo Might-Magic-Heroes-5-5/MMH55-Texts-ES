@@ -1,0 +1,1 @@
+﻿Añade +1 a todos los parámetros del Héroe. 

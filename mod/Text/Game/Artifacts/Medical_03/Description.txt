@@ -1,0 +1,2 @@
+﻿Una cantidad de criaturas nativas de nivel 1 y 2 resucitarán después del Combate, la cantidad de criaturas resucitadas es igual al 15 % + 1 % Conocimiento del Héroe. La resurrección requiere 4 maná por nivel.<color_default><br>
+Las criaturas no muertas, mecánicas y elementales no pueden resucitar. Este artefacto no tiene valor monetario y se agrega (una vez) al inventario de cualquier Héroe con la habilidad Primeros Auxilios.

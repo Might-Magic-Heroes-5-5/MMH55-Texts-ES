@@ -1,0 +1,1 @@
+﻿Durante las batallas el daño causado por hechizos de fuego aumenta en un 10%. La cantidad de Elementales de Fuego convocados aumenta en un 50%.

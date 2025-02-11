@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> golpea <value=target> con un Golpe Crítico:<value=font> <value=damage> daño realizado (<value=dead> muertos).

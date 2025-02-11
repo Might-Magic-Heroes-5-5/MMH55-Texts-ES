@@ -1,0 +1,1 @@
+﻿Se reducen 2 niveles de maestría los hechizos de Magia Oscura del primer al tercer círculo de el enemigo; Los del 4to y 5to circulo se reducen en 1. El Poder Mágico se reduce 15% por cada nivel que por debajo del nivel 0.

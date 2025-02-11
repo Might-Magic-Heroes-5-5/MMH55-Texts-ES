@@ -1,0 +1,1 @@
+﻿¿Le gustaría convertir esta vivienda a su facción?<br><br>Costo:<br>Oro: <value=gold>, Madera: <value=wood>, Mineral: <value=ore>

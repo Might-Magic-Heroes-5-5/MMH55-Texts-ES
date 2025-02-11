@@ -1,0 +1,1 @@
+﻿El Héroe golpea a las criaturas objetivo con una maldición que disminuye su ataque.<br><color_default>El efecto es el mismo que el hechizo Sufrimiento sin maestría y, por lo tanto, reduce el ataque en -4 + -0.1 por Poder Mágico.

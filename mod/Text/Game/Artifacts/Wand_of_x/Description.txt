@@ -1,0 +1,2 @@
+﻿+2 Poder Mágico<br>
+Permite lanzar el hechizo <value=spell_name> a nivel Avanzado desde esta varita (al menos que el nivel del Héroe sea mayor). La varita tiene un número limitado de usos y puede recargarse en un gremio de hechiceros.(usos <value=charges_cur>/<value=charges_max>).<br>Los Héroes bárbaros consideran deshonroso usar hechizos en la batalla.

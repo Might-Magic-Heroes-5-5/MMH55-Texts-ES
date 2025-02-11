@@ -1,0 +1,1 @@
+﻿Destruye la armadura de un grupo enemigo objetivo, reduciendo su defensa y causa 10*Poder Magico Daño. Se puede lanzar varias veces en un sólo objetivo, pero la defensa no irá por debajo de cero.

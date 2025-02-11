@@ -1,0 +1,1 @@
+﻿Clase: Mago<br>Especialización: Intimidar<br><br><body_bright>Las unidades enemigas tienen una penalización a la Iniciativa, dependiendo del nivel del Héroe. La Iniciativa Enemiga se reduce en un 2% + 0.2% por nivel.<br><color_default>Comienza con magia Oscura Básica.

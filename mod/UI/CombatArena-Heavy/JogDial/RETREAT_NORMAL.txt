@@ -1,0 +1,1 @@
+﻿Huir/Rendirse. <hotkey=input_Combat_Retreat>

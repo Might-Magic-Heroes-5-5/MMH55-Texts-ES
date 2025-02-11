@@ -1,0 +1,2 @@
+﻿+4 Ataque<br>
++4 Poder Mágico

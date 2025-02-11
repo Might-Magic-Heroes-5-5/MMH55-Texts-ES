@@ -1,0 +1,1 @@
+﻿El héroe obtiene +2 de Conocimiento y todas las habilidades del ejército de héroes gastarán solo la mitad del maná necesario para lanzarse.

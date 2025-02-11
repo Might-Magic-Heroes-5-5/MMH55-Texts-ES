@@ -1,0 +1,1 @@
+﻿Le permite otorgarle a la IA un descuento en todas las compras durante un número limitado de días. Esto no está deshabilitado con la configuración de juego casual.

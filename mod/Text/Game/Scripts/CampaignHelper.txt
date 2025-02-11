@@ -1,0 +1,9 @@
+﻿Querido jugador.
+
+Este mensaje aparecerá solo una vez para asegurarse de que no se encuentre con ningún problema si planea jugar todas las campañas de Héroes 5.5.
+
+1. La nueva IA utilizada por Héroes 5.5 se programó en un código fuente anterior que no era 100% compatible con los scripts utilizados por los mapas de campaña del juego oficial. Desde RC9a se han ajustado muchos scripts para permitir que los mapas funcionen correctamente, pero todavía se han informado algunos errores en la 2ª campaña de Hammers of Fate (campaña de Wulfstan) para los que no se han encontrado soluciones. Por lo tanto, se recomienda jugar esta campaña con el archivo MMH55_Utility.exe o MMH55_Utility_64.exe. No es necesario jugar todas las campañas con estos archivos .exe ya que la IA se ralentizaría innecesariamente. Puede cambiar entre los archivos .exe entre cada misión si se encuentra con algún problema, no tendrá ningún impacto en los juegos guardados.
+
+2. Las campañas no admiten 8 habilidades secundarias y fueron diseñadas sin Gobernancia y la conversión de ciudad / vivienda, por lo tanto, las conversiones pueden no funcionar siempre correctamente y algunos mapas pueden ser más difíciles o más fáciles. Es posible desactivar estas funciones editando o eliminando (temporalmente) el MMH55_Settings.pak de la carpeta de datos.
+
+3. Se recomienda jugar las campañas en dificultad normal o difícil, ya que será más difícil que en el juego original porque los Héroes ya no tienen especializaciones de mucho poder. Imposible no fue probado y puede ser realmente imposible.

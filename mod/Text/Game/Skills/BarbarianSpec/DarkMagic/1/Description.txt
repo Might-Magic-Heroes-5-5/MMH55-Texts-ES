@@ -1,0 +1,1 @@
+﻿El nivel de maestría de todos los hechizos hasta el 4to de Magia Oscura se reduce en 1. El Poder de hechizos también se reduce en un 15% por cada nivel que por debajo del nivel 0.

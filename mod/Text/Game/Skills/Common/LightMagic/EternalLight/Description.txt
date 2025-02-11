@@ -1,0 +1,1 @@
+﻿El Héroe aprende el Hechizo Flecha Eldrica y hechizos de Magia de la Luz del Héroe son 2 veces más difíciles de disipar. Los hechizos opuestos (como Lentitud contra Rapidez) aplicados por un enemigo a las criaturas del Héroe tienen un 50% de probabilidad de fallar.

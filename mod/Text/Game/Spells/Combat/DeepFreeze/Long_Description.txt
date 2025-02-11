@@ -1,0 +1,1 @@
+﻿Congela al objetivo causandole daño por hielo y hace que se vuelva significativamente más vulnerable al daño físico durante un cierto período de tiempo. <br><color_default>la suerte no afecta este hechizo.

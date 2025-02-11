@@ -1,0 +1,1 @@
+﻿Azotador: Los puntos de movimiento del Héroe se incrementan en un 5% instantáneamente y en un + 1% por cada cuatro niveles. El costo del hechizo Teleportación se reduce a la mitad.

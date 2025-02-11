@@ -1,0 +1,1 @@
+﻿Invoca un dragón espectral en el campo de batalla para luchar del lado del Héroe. Solo se puede invocar un dragón a la vez. El Ataque, Defensa, Puntos Vida, Iniciativa y Velocidad del Dragón dependen del Poder Mágico y del nivel del Héroe.

@@ -1,0 +1,1 @@
+﻿El Héroe recibe la habilidad de Combate especial para alentar a sus tropas en el campo de batalla, haciendo que sus turnos lleguen más rápido. El valor de iniciativa del objetivo se incrementa en 0.4, limitado a 1.

@@ -1,0 +1,1 @@
+﻿El Ritual ha invocado <value=num> Lobos.

@@ -1,0 +1,2 @@
+﻿Todos los hechizos de Magia de la Invocación lanzados por el enemigo cuestan un 50% más de maná que de costumbre. <br><br><color=orange>Discípulo de Urgash<color_default><br>
+El Héroe se convierte en un seguidor de El Dios Dragón del Caos y descubre 10 Cristales de Sangre de Dragón.

@@ -1,0 +1,8 @@
+﻿<color=green>Modo casual<br><br>
+* La IA no recibe criaturas adicionales ni oro para reducir  pérdidas en 'Combate rápido'.
+* Los recursos iniciales de IA se reducen en 10000/5/10 en todas las dificultades.
+* Los jugadores de IA no son aliados, pero su agresión mutua cae en dificultades más altas.
+* Los Héroes de IA pueden huir.
+* Los Encuentros tienen un crecimiento de -10%.
+<br><color=white>ADVERTENCIA<br><color_default>
+* No uses 'reiniciar misión' después de cargar el mapa o la IA NO volverá a ser casual, ¡Puede cambiar a uno modos más difíciles!

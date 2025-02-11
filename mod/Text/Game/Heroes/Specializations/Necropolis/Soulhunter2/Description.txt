@@ -1,0 +1,1 @@
+﻿Caminante Espiritual: Cada vez que un grupo de criaturas enemigas muere, es reemplazado por un grupo de Fantasmas amigos durante el Combate. El número de Fantasmas es igual al nivel del Héroe.

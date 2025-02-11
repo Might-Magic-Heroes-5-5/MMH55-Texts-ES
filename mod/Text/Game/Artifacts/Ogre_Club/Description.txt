@@ -1,0 +1,3 @@
+﻿+7 Ataque<br>
+-5% Iniciativa a criaturas aliadas
+Los valores de iniciativa no son redondeados y pueden resultar en valores decimales.

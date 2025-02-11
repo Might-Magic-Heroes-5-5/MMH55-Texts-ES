@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> ataca <value=target> usando su especialización :<value=font> <value=damage> daño hecho (<value=dead> muertos).

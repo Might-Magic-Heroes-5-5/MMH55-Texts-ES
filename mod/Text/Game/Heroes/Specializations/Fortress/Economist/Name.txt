@@ -1,0 +1,1 @@
+﻿Clase: Mago Rúnico<br>Especialización: Artista Rúnico<br><br><body_bright>Las probabilidades de éxito con la Runa Fina se incrementan en + 1% para cada nivel del Héroe.<br><color_default>Comienza con magia de Invocación Básica.

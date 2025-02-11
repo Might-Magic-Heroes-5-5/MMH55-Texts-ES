@@ -1,0 +1,1 @@
+﻿<color=yellow>Has descifrado el obelisco y te ha revelado la ubicación de una antigua cripta. ¿Deseas investigar la cripta en búsqueda de tesoros?<br><br>(Nivel de amenaza: desafiante)<br><br>OK = Aceptar<br>CANCELAR = Rechazar<br><br>Si lo rechazas ahora puedes aceptarlo luego.

@@ -1,0 +1,1 @@
+﻿Proporciona +375 puntos de movimiento a todos los Héroes navegantes del jugador que lo controla.

@@ -1,0 +1,1 @@
+﻿Los Nigromantes pueden revivir criaturas enemigas y aliadas muertas, usando un recurso especial llamado Energía Oscura. Esta energía es compartida por todos los Nigromantes y se llena al comienzo de la semana. La cantidad de energía depende de la cantidad total de Nigromantes y su nivel.

@@ -1,0 +1,1 @@
+﻿<color_default>Una mejora de las Chozas de Campesinos.<br> <color_bright>El Cabañas de Campesinos te permiten contratar Reclutas y Milicia.

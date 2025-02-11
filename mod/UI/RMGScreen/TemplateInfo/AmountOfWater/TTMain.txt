@@ -1,0 +1,1 @@
+﻿Si se crea un mapa de isla, se utiliza un tamaño de mapa mayor que la indicación de plantilla, de lo contrario, las islas pueden volverse demasiado pequeñas.

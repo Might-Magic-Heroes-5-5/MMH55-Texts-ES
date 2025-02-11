@@ -1,0 +1,1 @@
+﻿La habilidad Imbuir Flecha ahora también afectará a la balista. Todos los disparos de balista llevarán los encantamientos del Héroe y, por lo tanto, consumirán su maná. 

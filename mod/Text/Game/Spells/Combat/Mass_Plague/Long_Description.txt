@@ -1,0 +1,1 @@
+﻿Inflige una plaga en el objetivo de modo que cada vez que esté a punto de realizar una acción, recibe algo de daño de tierra. Este hechizo tiene un efecto de área. <br><color_default>El hechizo no funciona en unidades no muertas, elementales y mecánicas.

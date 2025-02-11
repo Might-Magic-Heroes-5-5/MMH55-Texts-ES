@@ -1,0 +1,7 @@
+﻿No es posible enviar exploradores a esta zona, ¿te gustaría atacar a los guardias?
+-------------------------------------------------------------------------------
+
+OK = Atacar
+Cancel = Irse
+
+-------------------------------------------------------------------------------

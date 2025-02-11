@@ -1,0 +1,1 @@
+﻿<body_bright><center>Gúia habilidades<br><br><color_default> Muestra un esquema detallado de Habilidades y Talentos disponibles para cada clase de Héroe junto con atributos de clase de Héroe y explicaciones de todas las habilidades y Talentos en MMH5.5.

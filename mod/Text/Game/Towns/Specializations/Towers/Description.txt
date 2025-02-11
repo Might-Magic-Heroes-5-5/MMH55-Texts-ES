@@ -1,0 +1,1 @@
+﻿Las torres de tiro de esta ciudad hacen más daño a un enemigo. Las torres de defensa tienen un 25% de bonificación al daño.

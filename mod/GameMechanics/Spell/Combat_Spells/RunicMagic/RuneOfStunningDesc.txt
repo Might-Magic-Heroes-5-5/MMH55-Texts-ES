@@ -1,0 +1,1 @@
+﻿La criatura seleccionada tendrá una probabilidad de aturdir al enemigo una vez usando su ataque normal. Si el aturdimiento falla, la runa permanecerá activa hasta que tenga éxito. también funciona a distancia y se ve afectado por la el talento Suerte del Soldado.

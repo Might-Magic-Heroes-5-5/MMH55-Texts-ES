@@ -1,0 +1,1 @@
+﻿Permite al Héroe crear equipos de criatura del segundo nivel.

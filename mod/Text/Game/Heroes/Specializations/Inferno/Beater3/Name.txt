@@ -1,0 +1,1 @@
+﻿Clase: Nigromante<br>Especialización: Azotador<br><br><body_bright>Los puntos de movimiento del Héroe se incrementan en un 5% instantáneamente y en un + 1% por cada cuatro niveles. El costo del hechizo Teleportación se reduce a la mitad..<br><color_default>Comienza con Maestro de la Mente.

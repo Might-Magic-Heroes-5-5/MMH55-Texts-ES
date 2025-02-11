@@ -1,0 +1,1 @@
+﻿El Héroe aprende el hechizo de Fuerza Divina y se le otorgan efectos masivos a Fuerza Divina y otorga efectos de área al hechizo de Limpieza.<br><color_default>Los hechizos masivos cuestan cuatro veces el maná y son 33% mas debiles pero se lanzan tan rapido como si el Heroe tuviera Hechicería experta.

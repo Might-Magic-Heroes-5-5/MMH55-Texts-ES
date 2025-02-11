@@ -1,0 +1,1 @@
+﻿El mercado de esclavos te permite vender criaturas de tu ejército para ganar dinero. El precio de venta depende del número de mercados en tu reino. Todos los héroes de la Fortaleza con la habilidad Logística también obtienen un 50 % más de refuerzos cada semana (no acumulable con varias ciudades).

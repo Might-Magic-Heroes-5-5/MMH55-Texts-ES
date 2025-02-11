@@ -1,0 +1,1 @@
+﻿¿Deseas ofrecer <value=qty> <value=type> ?

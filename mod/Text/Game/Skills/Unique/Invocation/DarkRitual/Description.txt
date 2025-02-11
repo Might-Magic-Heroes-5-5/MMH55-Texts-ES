@@ -1,0 +1,1 @@
+﻿Capacidad especial del mapa de aventura. El Héroe podra realizar un ritual y recuperar el maná completo. Dependiendo de la maestría en Hechicería, el héroe perderá 14, 12 o 10 puntos de movimiento por cada punto de Maná recuperado.<color_default><br> Por ejemplo, en Hechicería experta el héroe perderá el equivalente a 1 ficha de movimiento por cada 10 de Maná recuperado.

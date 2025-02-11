@@ -1,0 +1,1 @@
+﻿El Héroe gana +2 de Ataque y la habilidad Fuego Infernal es más efectiva. También se aplicará daño de fuego adicional a las criaturas enemigas en los Contrataques.

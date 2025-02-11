@@ -1,0 +1,1 @@
+﻿Clase: Cacique<br>Especialización: Espada del Khan<br><br><body_bright>Verdugos y sus mejoras del ejército del Héroe ganan +1 a su ataque y defensa por cada 2 niveles del Héroe, comenzando en el primer nivel.<br><color_default>Comienza con Ofensiva básica.

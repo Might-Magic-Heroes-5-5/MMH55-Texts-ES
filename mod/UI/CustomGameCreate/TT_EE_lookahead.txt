@@ -1,0 +1,1 @@
+﻿Le permite ajustar la profundidad de búsqueda de la IA. Imposible es el ajuste "más inteligente" pero puede ralentizar severamente los mapas grandes, ajustarlo bajo si los turnos toman demasiado tiempo.(Para mapas XL no usar mas que "Difícil"

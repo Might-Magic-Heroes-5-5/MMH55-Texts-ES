@@ -1,0 +1,5 @@
+﻿+Conocimiento*25 de oro por día<br><color_default>
+(por ejemplo 500 de oro por día por 20 de Conocimiento)<br><br><color=orange>
+Ganso Dorado<color_default><br>
+Lleva los 3 artefactos que proporcionan oro sin fin a una biblioteca arcana para obtener una recompensa única<br><br><color=yellow>
+Mochila<color_default><br>Este artefacto funciona desde la mochila, pero la funcionalidad está limitada a un artefacto por Héroe.

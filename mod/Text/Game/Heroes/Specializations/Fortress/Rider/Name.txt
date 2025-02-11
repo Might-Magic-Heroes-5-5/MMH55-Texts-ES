@@ -1,0 +1,1 @@
+﻿Clase: Mago Rúnico<br>Especialización: Jinete<br><br><body_bright>Todos los jinetes de osos y sus mejoras en el ejército del Héroe ganan +1 en su ataque y defensa por cada 2 niveles del Héroe, comenzando en el primer nivel.<br><color_default>Comienza con Ofensiva Básica.

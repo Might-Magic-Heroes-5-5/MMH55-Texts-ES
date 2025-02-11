@@ -1,0 +1,1 @@
+﻿Oculta los artefactos en el mapa y los Héroes neutrales los usan si la configuración es superior a Normal. Los artefactos son reemplazados por fogatas. Las fogatas aumentarán tu movimiento y tu maná. La regeneración de maná se reduce a la mitad. Esta funcion desabilita la generacion de campos neutrales mixtos.

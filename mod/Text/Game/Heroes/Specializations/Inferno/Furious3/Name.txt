@@ -1,0 +1,1 @@
+﻿Clase: Renegado<br>Especialización: Fanatico<br><br><body_bright>La iniciativa de todas las criaturas en el ejército del Héroe se incrementa en un 2.5% + 0.25% por nivel.<br><color_default>Comienza con Ofensiva Avanzada.

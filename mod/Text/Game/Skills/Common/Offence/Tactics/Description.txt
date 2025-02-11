@@ -1,0 +1,1 @@
+﻿Aumenta el área en la que el Héroe puede reorganizar las criaturas antes del Combate, lo que hace que una tercera fila esté disponible para su despliegue. Si el oponente también tiene tácticas, ambos efectos se cancelan.

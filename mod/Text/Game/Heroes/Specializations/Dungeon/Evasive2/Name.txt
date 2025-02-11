@@ -1,0 +1,1 @@
+﻿Clase: Ocultista<br>Especialización: Sentinela<br><br><body_bright> El ejército del Héroe sufre menos daño de los ataques distantes, la reducción del daño de alcance es del 15% + 0.5% por nivel de Héroe.<br><color_default>Comienza con Magia Destructiva Básica.

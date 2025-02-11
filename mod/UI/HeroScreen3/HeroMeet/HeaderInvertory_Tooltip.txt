@@ -1,0 +1,1 @@
+﻿Los Artefactos del Héroe, tanto los utilizados como los mantenidos en reserva. Los artefactos aumentan los atributos del Héroe y le proporcionan habilidades especiales. Puedes intercambiar artefactos entre Héroes.

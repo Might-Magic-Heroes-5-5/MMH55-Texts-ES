@@ -1,0 +1,1 @@
+﻿Las criaturas amistosas obtienen una segunda oportunidad para resistir un hechizo enemigo. La Suerte del Guerrero funciona como la Suerte del Soldado, dando a la resistencia mágica del grupo 2 oportunidades para dispararse.

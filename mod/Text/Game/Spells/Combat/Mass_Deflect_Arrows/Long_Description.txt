@@ -1,0 +1,1 @@
+﻿Crea un escudo mágico alrededor del objetivo que reduce el daño a distancia entrante.

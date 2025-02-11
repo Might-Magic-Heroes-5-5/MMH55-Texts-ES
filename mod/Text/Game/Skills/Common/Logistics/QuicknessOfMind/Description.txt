@@ -1,0 +1,1 @@
+﻿El Héroe recibe +0.25 de iniciativa minima al comienzo de cada Combate, lo que le permite actuar antes.

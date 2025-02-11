@@ -1,0 +1,1 @@
+﻿Agrega +1 a todos los parámetros del Héroe y proporciona un bonus de +5 de ataque y defensa a todas las criaturas de nivel 7 en el ejército del Héroe, aumentando también sus Puntos de Vida en +20.

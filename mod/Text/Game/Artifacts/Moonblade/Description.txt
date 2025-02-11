@@ -1,0 +1,2 @@
+﻿+5 de ataque<br><br><color=orange>
+Mantícoras<color_default><br>Sacrifica este artefacto en un templo e invocará un grupo de mantícoras. El tamaño del grupo es igual a 2*cantidad de semanas pasadas. 

@@ -1,0 +1,1 @@
+﻿Patriarca: Todos los Monjes Rúnicos y sus mejoras en el ejército del Héroe reciben mana extra y ganan +1 a su ataque y defensa por cada 2 niveles del Héroe, comenzando en el primer nivel.

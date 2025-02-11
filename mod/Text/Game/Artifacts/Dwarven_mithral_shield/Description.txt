@@ -1,0 +1,7 @@
+﻿+6 Defensa<br>
+Otorga a las criaturas aliadas inmunidad al Frenesí<br>
+<br><color=purple>
+Armadura de reyes enanos<color_default><br>
++4 Defensa (2/4)<br>
++8 Defensa (4/4)<br>
+*La bonificación se aplica después de cerrar el inventario.

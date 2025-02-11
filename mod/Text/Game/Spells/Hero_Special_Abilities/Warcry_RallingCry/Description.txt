@@ -1,0 +1,1 @@
+﻿Aumenta la moral de todas las criaturas en el ejército durante 3 turnos (según el nivel del Héroe) y otorga puntos de ira adicionales a las criaturas Orcas (la bonificación de moral no funciona en unidades no muertas, elementales ni mecánicas).

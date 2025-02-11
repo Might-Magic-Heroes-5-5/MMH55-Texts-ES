@@ -1,0 +1,1 @@
+﻿<color=yellow>Ya ha configurado una red de suministro para este edificio.

@@ -1,0 +1,3 @@
+﻿Todavía no has protegido esta mina con tropas, ¿te gustaría protegerla a cambio de una suma única de <value=num> oro? 
+
+(Las tropas estacionadas en esta mina crecerán automáticamente en número, pero interactuar con la guarnición de la mina es imposible. Si la mina es atacada, los guardias serán controlados por el propietario en el mapa de Combate).

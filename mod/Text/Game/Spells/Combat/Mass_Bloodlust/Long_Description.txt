@@ -1,0 +1,1 @@
+﻿Mejora enormemente las capacidades ofensivas de la criatura objetivo. La efectividad depende del Poder Mágico. Si el objetivo está bajo la influencia del hechizo de Sufrimiento, persistira el hechizo con el Poder Mágico superior..

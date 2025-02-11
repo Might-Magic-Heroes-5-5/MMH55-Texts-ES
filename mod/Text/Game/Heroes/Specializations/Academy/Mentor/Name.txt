@@ -1,0 +1,1 @@
+﻿Clase: Hechicero<br>Especialización: Mentor<br><br><body_bright>Todos los Magos y sus mejoras en el ejército del Héroe ganan mana extra ademas de +1 Ataque y Defensa por cada 2 niveles del Héroe, comenzando en el primer nivel.<br><color_default>Comienza con Magia de Invocacion Básica.

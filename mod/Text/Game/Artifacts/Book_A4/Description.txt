@@ -1,0 +1,4 @@
+﻿+1 Ataque<br>
++1 Defensa<br>
++1500 Experiencia<br><br>
+<color=7F38EC>Libro de habilidades<color_default><br>El Héroe necesita algo de tiempo para estudiar este objeto y obtener permanentemente el conocimiento que contiene. A principios de la próxima semana, el artículo desaparece de la mochila y la bonificación se aplica de forma permanente.

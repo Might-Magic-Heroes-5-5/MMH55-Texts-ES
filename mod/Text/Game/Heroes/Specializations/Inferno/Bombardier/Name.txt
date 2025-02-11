@@ -1,0 +1,1 @@
+﻿Clase: Custodio<br>Especialización: Mano de Hierro<br><br><body_bright>Los disparos de Balista bajo el mando del Héroe tienen un efecto de bola de fuego. el Daño es igual a 24*Poder, donde el poder es igual a -2.33 + Nivel de herore/3 redondeado arriba. Las habilidades del Héroe (como Maestro de llamas) no se tienen en cuenta. <br><color_default>Comienza con el talento Balista.

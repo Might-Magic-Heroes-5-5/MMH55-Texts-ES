@@ -1,0 +1,4 @@
+﻿+12 conocimiento<br>
++Nivel^4 Experiencia cuando se equipa por primera vez<br>
+Otorga a las criaturas aliadas inmunidad a hipnotizar<br><br><color_default>
+(Por ejemplo 810000 de experiencia en el nivel 30)

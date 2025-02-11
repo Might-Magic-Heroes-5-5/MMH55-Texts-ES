@@ -1,0 +1,8 @@
+﻿<br><color=white>Importante: <color_default>
+Iniciar el mapa en esta dificultad dara una dificultada aleatoria
+<br><color=white>Bono de Inicio: <color_default>
+Sin importar que modo eligas, los heroes iniciales recibiran un artefacto adicional y un bono de criaturas,los heroes de la taberna tendran menos unidades.
+<br><color=white>Escenarios: <color_default>
+Los escenarios solo se pueden jugar en el modo Casual o Predeterminado, si seleccionas Violento o Pesadilla el juego retornara a Predeterminado. Convertir Ciudad, Gobernancia y Control de minas estaran desabilitados.
+<br><color=white>Multijugador: <color_default><br>
+En juegos sin jugadores IA, el modo sera Predeterminado, mapas ARMG recien creados no funcionan en Silla Caliente ni en Lan sin activacion de Scripts. (Usar la aplicacion Mapmixer incluida para arreglar)

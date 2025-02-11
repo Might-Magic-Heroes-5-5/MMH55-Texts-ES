@@ -1,0 +1,1 @@
+﻿Aumenta la Defensa del Héroe en +2 y en el nivel 10, un guerrero se unirá al ejército del Héroe todos los días, siempre que el Héroe ya tenga algunas de estas criaturas en su ejército.

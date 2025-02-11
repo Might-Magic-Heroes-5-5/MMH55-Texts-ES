@@ -1,0 +1,1 @@
+﻿Modo Ajedres en formato 3x3, cada jugador posee 3 ejercitos que puede intercambiar durante el Combate.

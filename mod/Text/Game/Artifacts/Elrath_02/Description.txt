@@ -1,0 +1,2 @@
+﻿Desbloquea (o aumenta) la capacidad del gremio de magos para invocar criaturas mágicas en las guarniciones de las ciudades propias, el artefacto funciona igual que agregar una cantidad de cristales de sangre de dragón igual al conocimiento del Héroe/2<br><br><color=yellow >
+Mochila<color_default><br>El artefacto funciona desde la mochila, pero la funcionalidad está limitada a un artefacto por Héroe.

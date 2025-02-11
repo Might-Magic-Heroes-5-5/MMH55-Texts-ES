@@ -1,0 +1,1 @@
+﻿Si hay un carro de munición en el ejército del Héroe, habrá 1 Goblins uniéndose a su ejército todos los días y el Héroe gana 0.5 de oro por día por cada goblin en su ejército.<br><color_default>Los Goblins actualizados se unirán solo si están presentes en el ejército; Tramperos Goblin, si ambas mejoras están presentes.

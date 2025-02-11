@@ -1,0 +1,1 @@
+﻿Princesa Vampira: Al principio de cada semana, Vampiros, y sus mejoras se uniran al ejército (desde que ya hayan criaturas de este tipo presentes). La cantidad es igual a 0.2* Nivel del Héroe. Ninguna criatura adicional se unirá al ejército antes del nivel de Héroe 3 <br><color_default> Esta cantidad es mejorada en un 75% por cada ciudad capturada de la misma facción del Héroe.

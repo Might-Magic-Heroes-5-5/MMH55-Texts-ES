@@ -1,0 +1,4 @@
+﻿El propietario de la fábrica te ofrece un contrato de suministro, a cambio de <value=num> de oro, le proporcionará una cantidad aleatoria de (3-7) de madera cada semana.
+
+OK = Firmar el contrato (<value=num> monedas de oro)
+Cancelar = Verificar su inventario

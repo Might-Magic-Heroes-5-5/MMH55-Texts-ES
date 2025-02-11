@@ -1,0 +1,1 @@
+﻿Los Héroes enemigos que asedien la ciudad obtienen -2 a su Suerte.<br><br>Aumenta los efectos de la Habilidad Invocación un 5%. (acumulativo con múltiples ciudades)<br><br>Para Héroes sin Invoación, convoca Sabuesos Infernales por semana. La cantidad es 0.25*Nivel del Héroe (acumulativo con múltiples ciudades). 

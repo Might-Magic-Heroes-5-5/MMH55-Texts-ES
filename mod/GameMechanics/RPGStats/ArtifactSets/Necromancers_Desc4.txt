@@ -1,0 +1,2 @@
+﻿Reduce la velocidad de todas las criaturas enemigas en -1. Las criaturas enemigas que fallan en el control de la moral obtienen una penalización de -20% en su ataque y defensa hasta el inicio del siguiente turno. Los Caballeroes de la muerte, Magos Espectrales y Nigromantes obtienen +4 de Poder Mágico.
+

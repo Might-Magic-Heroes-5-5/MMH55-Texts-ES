@@ -1,0 +1,1 @@
+﻿El Héroe aprende el hechizo Debilidad y se le conceden efectos masivos a los hechizos Debilidad y Sufrimiento <br><color_default>Los hechizos masivos cuestan cuatro veces el maná y son 33% mas debiles pero se lanzan tan rapido como si el Heroe tuviera Hechicería experta.

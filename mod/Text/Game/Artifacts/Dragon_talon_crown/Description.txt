@@ -1,0 +1,8 @@
+﻿+4 Conocimiento<br>
++10 % de iniciativa a las máquinas de guerra aliadas<br><br><color=purple>
+El poder de los dragones<color_default><br>
++2 a todas las Habilidades Primarias (4/8)<br>
++4 a todas las Habilidades Primarias (8/8)<br>
+*La bonificación se aplica después de cerrar el inventario.<br><br><color=orange>
+Misión<color_default><br>
+Ofrece las 8 piezas del Poder de los Dragones en un Altar de Sacrificio para obtener una recompensa única.

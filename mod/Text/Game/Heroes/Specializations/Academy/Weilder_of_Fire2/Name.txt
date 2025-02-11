@@ -1,0 +1,1 @@
+﻿Clase: Ocultista<br>Especialización: Portador de Llamas<br><br><body_bright>El Hechizo Bola de Fuego y Bola de Fuego Potenciada ganan Poder Mágico al ser lanzadas por este Héroe, el incremento es igual a el nivel del Héroe/3<br><color_default>Comienza con el talento Maestro del fuego.

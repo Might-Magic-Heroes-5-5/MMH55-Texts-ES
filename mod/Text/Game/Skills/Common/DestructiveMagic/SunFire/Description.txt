@@ -1,0 +1,1 @@
+﻿El Héroe recurre a las fuerzas del fuego para afectar a los lanzadores enemigos. Cada vez que una criatura enemiga lanza un hechizo, recibirá un daño 30 veces superior al del Héroe.

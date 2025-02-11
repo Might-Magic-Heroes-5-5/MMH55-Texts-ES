@@ -1,0 +1,2 @@
+﻿Todos los hechizos de Magia Destructiva lanzados por el enemigo cuestan un 50% más de maná que de costumbre. <br><br><color=orange>Discípulo de Asha<color_default><br> 
+El Héroe se convierte en seguidor del dios dragón del orden y descubre 10 cristales de sangre de dragón.

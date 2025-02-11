@@ -1,0 +1,1 @@
+﻿Mueren las criaturas en todas las guarniciones. Ninguna criatura crece en numero.

@@ -1,0 +1,1 @@
+﻿Esta criatura tiene la oportunidad de empujar el objetivo hacia un lado y cancelar toda la Iniciativa que este haya acumulado. La probabilidad depende de la cantidad de casillas que esta criatura movió para atacar. La posibilidad es de 1 - ((X/5)^C donde C son las casillas recorridas y X es la probabilidad resultante.

@@ -1,0 +1,1 @@
+﻿Duplica la regeneración de maná derivada del Conocimiento.<br><color_default> Todo otro tipo de regeneracion demana no se dobla.

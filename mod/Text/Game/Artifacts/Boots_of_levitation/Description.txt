@@ -1,0 +1,2 @@
+﻿Otorga la habilidad de caminar sobre el agua e ignorar completamente las penalizaciones de terreno<br><br><color=red>
+Levitando<color_default><br>Las habilidades de logística y búsqueda de caminos no tienen efecto.

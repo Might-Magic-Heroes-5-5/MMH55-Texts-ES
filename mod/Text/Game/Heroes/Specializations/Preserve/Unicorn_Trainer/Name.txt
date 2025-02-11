@@ -1,0 +1,1 @@
+﻿Clase: Druida<br>Especialización: Dama de los Unicornios<br><br><body_bright>Todos los unicornios y sus mejoras en el ejército del Héroe ganan +1 a su ataque y defensa por cada 2 niveles, comenzando en el primer nivel.<br><color_default>Comienza con el talento Maestro de Ira.

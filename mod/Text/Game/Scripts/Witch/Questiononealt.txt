@@ -1,0 +1,1 @@
+﻿Una vieja bruja te da la bienvenida y está interesada en tu búsqueda. Cree que ya sabes bastante, pero a cambio de <value=gold> de oro está dispuesta a enseñarte <value=mastery> <value=skill>. ¿Aceptas?

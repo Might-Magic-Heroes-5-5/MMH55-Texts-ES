@@ -1,0 +1,1 @@
+﻿El Héroe gana +2 de Defensa y +2 mas a nivel 10, tambien un bonus de Salud de + 10% por única vez para todas las criaturas de su ejército para el siguiente Combate.

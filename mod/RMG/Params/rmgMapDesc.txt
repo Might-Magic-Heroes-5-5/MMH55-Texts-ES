@@ -1,0 +1,1 @@
+﻿Este es un mapa de Héroes 5.5 basado en la plantilla <value=template> creado por el editor Avanzado v2.78 con las opciones: <value=mapsize> tamaño, <value=underground>, <value=water>, con <value=monsterstrenght> monstruos. El mapa es para <value=playerscount> jugadores, la semilla inicial es <value=startseed>

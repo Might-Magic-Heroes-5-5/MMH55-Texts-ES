@@ -1,0 +1,1 @@
+﻿<body_bright>Resistencia Magica: <value=target_color><value=target> Resistido parcialmente <value=spell>.

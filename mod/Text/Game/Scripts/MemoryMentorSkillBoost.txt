@@ -1,0 +1,4 @@
+﻿La práctica del Mentor de Memorias está actualmente prohibida en estas tierras, pero el Mago todavía está dispuesto a darte un poco de entrenamiento mágico básico.
+ 
+OK = +2 Poder Mágico
+Cancelar = +2 Conocimiento

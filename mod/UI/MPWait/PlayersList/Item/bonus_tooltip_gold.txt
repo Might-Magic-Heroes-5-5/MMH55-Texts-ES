@@ -1,0 +1,4 @@
+﻿<color=orange>Modo Salvaje<color_default><br>
+* Todos los jugadores de IA se unirán contra los Humanos, el tiempo de cálculo de IA se reduce en mapas con múltiples jugadores de IA.
+* Los Héroes de IA nunca huyen del Combate y luchan hasta la muerte.
+* Los Encuentros tienen un crecimiento de +5%.

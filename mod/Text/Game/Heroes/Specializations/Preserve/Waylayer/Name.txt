@@ -1,0 +1,1 @@
+﻿Clase: Guardabosques<br>Especialización: Acechador Veloz<br><br><body_bright>Las criaturas en el ejército de Héroes tienen un + 0.5% por nivel adicional a su iniciativa al comienzo del Combate.<br><color_default>Comienza con logística avanzada.

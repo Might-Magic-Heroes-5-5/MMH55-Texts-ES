@@ -1,0 +1,1 @@
+﻿Místico: El Héroe es capaz de restaurar el maná en Combate gradualmente por sí mismo. La velocidad de restauración depende del nivel del Héroe. El Héroe recupera maná de Nivel/4 (redondeado hacia arriba) antes de cada acción.

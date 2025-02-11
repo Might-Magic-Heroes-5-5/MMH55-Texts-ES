@@ -1,0 +1,1 @@
+﻿Juega un duelo entre 2 Heroes perfectamente equilibrados. Para jugar contra IA, activa el Combate automatico con un jugador.

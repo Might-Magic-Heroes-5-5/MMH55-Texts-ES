@@ -1,0 +1,1 @@
+﻿Teletransporta al Héroe y a todo su ejército a otra ubicación en el mapa de aventura. <br> (Este hechizo requiere un Héroe de nivel 20. No se requiere habilidad mágica)

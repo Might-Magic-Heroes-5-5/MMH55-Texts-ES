@@ -1,0 +1,3 @@
+﻿+2 Conocimiento<br>
++2 Suerte<br><br><color=orange>
+Águilas Arcanas<color_default><br>Quema este artefacto en un templo e invocará un grupo de águilas arcanas. El tamaño del grupo es igual a 2*cantidad de semanas pasadas.

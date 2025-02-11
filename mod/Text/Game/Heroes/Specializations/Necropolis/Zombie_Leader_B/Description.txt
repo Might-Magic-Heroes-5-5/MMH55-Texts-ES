@@ -1,0 +1,1 @@
+﻿Señor de los zombis: Al comienzo del Combate, un grupo de zombis o sus mejoras usará la habilidad brinco, duplicando su iniciativa durante 3 turnos. Todos los zombis y mejoras en el ejército del héroe también ganan +1 Ataque y Defensa por cada 2 niveles del héroe, comenzando en el primer nivel.

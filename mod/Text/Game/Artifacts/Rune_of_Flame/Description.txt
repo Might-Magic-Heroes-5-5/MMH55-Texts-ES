@@ -1,0 +1,3 @@
+﻿+2 Ataque<br>
++2 de maná después de cada batalla si está equipado siempre<br><br>
+Otorga a los Héroes de Fortaleza <value=spell_name>.

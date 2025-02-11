@@ -1,0 +1,1 @@
+﻿Reduce el Daño recibido por ataques a distancia en 15%

@@ -1,0 +1,1 @@
+﻿Clase: Cacique<br>Especialización: Castigador<br><br><body_bright>Este Héroe puede realizar un ataque cuerpo a cuerpo especial justo al comienzo del Combate. Además, todos los ataques del Héroe infligen + 1% de daño por cada nivel del Héroe.<br><color_default>Comienza con el talento Artes marciales.

@@ -1,0 +1,1 @@
+﻿Niegahechizos: El Héroe obtiene +1 de suerte permanentemente y si el Héroe enemigo lanza cualquier hechizo, puede ser bloqueado en su libro de hechizos,siendo imposible lanzar ese hechizo de nuevo en este Combate. La probabilidad de bloqueo aumenta con el nivel de Héroe.

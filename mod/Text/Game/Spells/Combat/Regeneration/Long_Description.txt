@@ -1,0 +1,1 @@
+﻿La criatura objetivo regenera la salud cada vez que actúa. No funciona en criaturas no muertas, mecánicas y elementales.

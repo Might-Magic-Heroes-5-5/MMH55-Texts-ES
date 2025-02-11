@@ -1,0 +1,4 @@
+﻿-1 Moral<br>
+-2 Moral si no está equipado<br><br><color=red>
+Artefacto maldito<br><color_default>
+Este artefacto tiene un firme control sobre el Héroe.

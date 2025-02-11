@@ -1,0 +1,1 @@
+﻿El Héroe gana +1 en cada habilidad primaria y califica para subir de nivel adicional.

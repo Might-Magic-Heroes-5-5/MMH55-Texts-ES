@@ -1,0 +1,1 @@
+﻿<body> El Campo de Entrenamiento te permite mejorar una cantidad limitada de criaturas a la semana, permite convertir criaturas humanas de nivel bajo a niveles superiores.

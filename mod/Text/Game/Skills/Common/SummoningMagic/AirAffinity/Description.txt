@@ -1,0 +1,1 @@
+﻿A partir de ahora, el hechizo Invocar Elementales siempre invocará Elementales de Aire.<br><br><color=orange>Discípulo de Ylath<color_default><br> Estudiando los poderes del Dios Dragón del Aire, el héroe recolecta 12 Cristales de Sangre de Dragón (siempre que el héroe tenga esta ventaja, todos los gremios de magos invocarán criaturas automáticamente al comienzo de cada semana).

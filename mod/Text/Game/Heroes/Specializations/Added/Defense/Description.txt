@@ -1,0 +1,1 @@
+﻿Herrero de Guerra: el Héroe comienza con +1 en la habilidad de Defensa y la aumenta en +1 por cada 7 niveles.

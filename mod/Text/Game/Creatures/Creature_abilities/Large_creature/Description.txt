@@ -1,0 +1,1 @@
+﻿Esta criatura es más grande que otras y ocupa cuatro casillas en el campo.

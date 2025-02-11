@@ -1,0 +1,1 @@
+﻿Eres el único jugador humano en el mapa, ¿te gustaría un desafío y que todos los jugadores de IA se unen contra ti? (¡Siempre presione Cancelar si está reproduciendo un Escenario, Campaña o un mapa con su propia configuración de equipo!)

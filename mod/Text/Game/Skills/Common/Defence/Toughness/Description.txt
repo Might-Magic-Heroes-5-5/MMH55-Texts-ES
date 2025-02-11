@@ -1,0 +1,1 @@
+﻿El Heroe adquiere el artefacto Combat Aid Kit y Aumenta los Puntos de Vida de todas tus criaturas en 2.<color_default><br>Los Heroes de Necropolis no obtienen el artefacto.

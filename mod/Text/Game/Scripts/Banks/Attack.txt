@@ -1,0 +1,1 @@
+﻿<color=yellow>Tu Ataque ha aumentado un +<value=param> permanentemente.

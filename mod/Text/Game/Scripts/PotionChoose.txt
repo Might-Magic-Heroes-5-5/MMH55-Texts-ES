@@ -1,0 +1,8 @@
+﻿-------------------------------------------------------------------------------
+Puesto de Intertcambio
+-------------------------------------------------------------------------------
+
+Escoge la Pocion que deseas:
+
+OK = Comprar Pocion de Mana  (5000 Oro)
+Cancel = Comprar Pocion de Movimiento (10000 Oro)

@@ -1,0 +1,9 @@
+﻿+2 Poder Mágico<br>
+-50 % de resistencia mágica a las criaturas enemigas<br><color_default>
+(no afecta las inmunidades)<br><br><color=purple>
+Insignia de Sar-Issus<color_default><br>
++50 % Poder Mágico y maná para criaturas aliadas (2/4)<br>
++100 % Poder Mágico y maná para criaturas aliadas (4/4)<br>
+*La bonificación se aplica después de cerrar el inventario.<br><br><color=orange>
+Misión<color=white><br>
+Lleva todas 4 piezas de Sar-Issus a un Astrólogo para recibir una recompensa única.

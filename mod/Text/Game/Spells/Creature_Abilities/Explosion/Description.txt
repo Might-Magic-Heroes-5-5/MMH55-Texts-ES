@@ -1,0 +1,1 @@
+﻿Una vez por batalla, esta criatura puede explotar en una bola de fuego, infligiendo daño de fuego a todas las criaturas en casillas adyacentes sin herirse a sí mismo.

@@ -1,0 +1,1 @@
+﻿Al encontrarse bajo un hechizo Magico de área de la escuela Destructiva junto con cualquier  grupo aliado, esta criatura recibe parte del daño que normalmente iría a las unidades aliadas. El daño absorbido es del 2 % por población semanal y el 25 % del mismo se convierte en sanación mediante Armadura Encantada. No funciona con el hechizo Armagedón.

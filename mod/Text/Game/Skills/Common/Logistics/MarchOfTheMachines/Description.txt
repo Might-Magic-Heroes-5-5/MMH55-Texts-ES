@@ -1,0 +1,1 @@
+﻿Todos los Golems bajo el mando del Héroe han aumentado su Salud en 2. Los Golems de Hierro y sus mejoras aumentado su iniciativa en 2. Además, en el nivel 10, un Golem de Hierro y sus mejoras se unirán al ejército del Héroe todos los días, siempre que el Héroe ya tenga alguna de estas criaturas en su ejército.

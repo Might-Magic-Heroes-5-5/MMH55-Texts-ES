@@ -1,0 +1,1 @@
+﻿La Clase del Héroe y su especialización, que representa su glorioso pasado.

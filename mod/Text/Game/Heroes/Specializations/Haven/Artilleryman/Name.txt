@@ -1,0 +1,1 @@
+﻿Clase: Caballero<br>Especialización: Ingeniero de Asedio<br><br><body_bright>La balista recibe +1 a su ataque por cada nivel del Héroe. La probabilidad de que la Catapulta golpee la pared aumenta un 2% por cada nivel del Héroe.<br><color_default>Comienza con el talento Balista.

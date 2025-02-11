@@ -1,0 +1,6 @@
+﻿+3 Ataque<br>
++3 de maná después de cada batalla<br><br><color=purple>
+Túnica del profeta<color_default><br>
++4 Poder Mágico (3/5)<br>
++8 Poder Mágico (5/5)<br>
+*La bonificación se aplica después de cerrar el inventario.

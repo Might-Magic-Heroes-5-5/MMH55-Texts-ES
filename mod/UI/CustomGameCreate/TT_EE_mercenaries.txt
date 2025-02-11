@@ -1,0 +1,9 @@
+﻿Le permite ajustar la frecuencia con la que las criaturas neutrales admiten Héroes neutrales. Héroes neutrales tendrán el mismo nivel que el Héroe. No recomendado para mapas MMH5.5, ya que la resistencia neutral ya se ha ampliado.
+
+Normal: Off
+
+Difícil: ~25% 
+
+Heroico: ~50% 
+
+Imposible: ~90%

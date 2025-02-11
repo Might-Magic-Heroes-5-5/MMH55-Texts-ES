@@ -1,0 +1,1 @@
+﻿Clase: Hereje<br>Especialización: Embalsamador<br><br><body_bright>La Tienda de primeros auxilios sanará 5 Puntos de Vida adicionales por nivel de Héroe. El daño en el caso de el talento Tienda de Plaga también se incrementa.<br><color_default>Comienza con el talento Primeros auxilios.

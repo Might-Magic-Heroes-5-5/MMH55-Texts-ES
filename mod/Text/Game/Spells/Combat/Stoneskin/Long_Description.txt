@@ -1,0 +1,1 @@
+﻿Aumenta la Defensa de la unidad aliada seleccionada. El Poder Mágico determinan la duración del efecto.

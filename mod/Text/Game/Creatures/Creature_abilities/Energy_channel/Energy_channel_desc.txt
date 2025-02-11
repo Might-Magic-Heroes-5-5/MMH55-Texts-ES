@@ -1,0 +1,1 @@
+﻿Si hay una criatura con esta habilidad en el ejército del Héroe, el Héroe necesitará un 10% menos de maná para lanzar hechizos.

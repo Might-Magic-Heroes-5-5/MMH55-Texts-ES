@@ -1,0 +1,1 @@
+﻿Clase: Encantador<br>Especialización: Mentor Gremlin<br><br><body_bright>Todos los Gremlins y sus mejoras en el ejército de Héroes ganan +1 a su Ataque y Defensa por cada 2 niveles del Héroe, comenzando en el primer nivel.<br><color_default> Comienza con Ofensiva Básica.

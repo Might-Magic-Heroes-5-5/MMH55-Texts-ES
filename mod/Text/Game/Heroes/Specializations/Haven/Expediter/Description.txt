@@ -1,0 +1,1 @@
+﻿Ejemplar: El héroe comienza con +2 Conocimiento y el efecto del hechizo Prisa aumenta en un 0,15% por cada nivel de héroe.

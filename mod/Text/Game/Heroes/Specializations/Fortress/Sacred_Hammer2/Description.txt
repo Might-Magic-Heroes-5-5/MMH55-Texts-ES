@@ -1,0 +1,1 @@
+﻿Martillo Sagrado: Cada vez que el Héroe lanza un hechizo de magia de Luz sobre una criatura aliada, existe la posibilidad de que el hechizo Poder Justo se lance sobre la unidad afectada. La probabilidad es 40%+Nivel*1%.

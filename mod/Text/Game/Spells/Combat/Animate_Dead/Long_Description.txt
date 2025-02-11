@@ -1,0 +1,1 @@
+﻿Reanima a las criaturas vivientes temporalmente. Las criaturas no muertas y los elementales vuelven permanentemente. No funciona en unidades mecanicas.

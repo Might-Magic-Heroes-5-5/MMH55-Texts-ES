@@ -1,0 +1,1 @@
+﻿Clase: Conjurador<br>Especialización: Gran Visir<br><br><body_bright> Al comienzo del Combate, el héroe lanza Vampirismo sobre un grupo aliado de Djinns y sus mejoras sin costo de mana, el talento Mente Veloz no tiene efecto en este heroe.<br><color_default>Comienza con Magia Oscura Básica.

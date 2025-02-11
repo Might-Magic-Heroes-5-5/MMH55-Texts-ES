@@ -1,0 +1,1 @@
+﻿Varita de <value=spell_name>

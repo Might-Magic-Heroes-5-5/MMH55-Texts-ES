@@ -1,0 +1,1 @@
+﻿Maestro de los elementos: cada vez que muere un grupo aliada, un grupo de elementales entra en Combate al lado del Héroe. El número de elementales aumenta según el nivel del Héroe. Además, los hechizos Invocar Elementales e Invocar Fénix lanzados por el Héroe son más poderosos, pero el Héroe comienza con solo un Poder Mágico y un Conocimiento.

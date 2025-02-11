@@ -1,0 +1,5 @@
+﻿+1 Defensa<br>
++1 Poder Mágico<br><br>
+Una cantidad de criaturas de nivel 5 nativas resucitarán después del Combate, la cantidad de criaturas resucitadas es igual a 30% + 1% por Conocimiento del Héroe (Redondeado hacia abajo)o alternativamente 130 + 10*C de la salud perdida (el calculo que de mas unidades). La resurrección cuesta 12 maná.Las criaturas no muertas, mecánicas y elementales no pueden ser resucitadas. 
+<br><color=purple>Prendas del Santo <color=default><br>
+El costo de maná de la resurrección se reducirá en -2 por artefacto (3/7)
