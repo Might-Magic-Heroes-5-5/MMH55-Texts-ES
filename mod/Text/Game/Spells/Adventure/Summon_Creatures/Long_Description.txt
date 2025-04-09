@@ -1,1 +1,1 @@
-﻿Teletransporta criaturas desde la ciudad más cercana al héroe por el precio de 1 maná por criatura.<color_default><br> Este hechizo requiere nivel 5 para ser aprendido. No se requiere ninguna habilidad mágica.
+﻿Teletransporta criaturas desde la ciudad más cercana hasta las filas del héroe al coste de 1 Maná por criatura.<br><color_default>Este hechizo necesita nivel 5 para ser aprendido. No se requiere ninguna habilidad mágica.

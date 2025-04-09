@@ -1,1 +1,1 @@
-﻿<color=green><value=num> <value=upgtype>s criaturas han sido resucitadas.
+﻿<color=green><value=num> unidades '<value=upgtype>' resucitadas.

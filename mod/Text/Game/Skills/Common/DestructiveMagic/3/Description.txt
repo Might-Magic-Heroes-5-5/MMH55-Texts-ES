@@ -1,1 +1,1 @@
-﻿Le permite al Héroe aprender hechizos de Magia Destructiva del quinto círculo y otorga el máximo poder a la Magia Destructiva.
+﻿Permite al héroe aprender los hechizos de Magia Destructiva del 5.º Círculo y ofrece el máximo poder a la Magia Destructiva.

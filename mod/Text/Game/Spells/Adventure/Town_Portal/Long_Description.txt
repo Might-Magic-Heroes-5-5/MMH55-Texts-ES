@@ -1,1 +1,1 @@
-﻿Transporta al Héroe a la ciudad aliada más cercana - todos los puntos de movimiento se perderán.<br>(Requiere un Héroe de nivel 15. No requiere ninguna habilidad mágica)
+﻿Transporta al héroe y a su ejército a la ciudad aliada más cercana.<color_default><br>Este hechizo necesita un nivel de héroe 10 para ser aprendido. No se requiere ninguna habilidad mágica.

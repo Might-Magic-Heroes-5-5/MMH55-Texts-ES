@@ -1,1 +1,1 @@
-﻿Clase: Mago Rúnico<br>Especialización: Maestro Runico<br><br><body_bright>Con cada nivel, el Héroe puede aprender espontáneamente un hechizo rúnico más. La probabilidad es del 25%.
+﻿Clase: Mago de las Runas<br>Dote: Maestro de las Runas<br><br><body_bright>Con cada incremento de nivel, el héroe puede aprender espontáneamente otro hechizo más de las Runas. La probabilidad es del 25%.

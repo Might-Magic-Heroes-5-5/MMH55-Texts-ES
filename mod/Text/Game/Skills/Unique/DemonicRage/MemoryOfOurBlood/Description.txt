@@ -1,1 +1,1 @@
-﻿Todas las criaturas de Bastión en el ejército bárbaro obtienen aleatoriamente entre 50 y 100 puntos de ira al comienzo del Combate.
+﻿Todas las criaturas de Bastión del ejército del héroe obtienen al azar entre 50 y 100 puntos de rabia al principio del combate.<br><color_default>La bonificación en puntos de rabia es un múltiplo de 10, entre 50 y 100.

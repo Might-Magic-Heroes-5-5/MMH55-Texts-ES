@@ -1,1 +1,1 @@
-﻿Las tropas obtienen el doble de puntos de Ira de los Gritos de Guerra utilizados por el Héroe (pero solo un 50% más para el Grito de Guerra, "Llamada de sangre").
+﻿El héroe aprende Reclamo de Sangre como Grito de Guerra y todas sus tropas bárbaras ganan un 50% más de Rabia por los Gritos de Guerra usados en la batalla.

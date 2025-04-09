@@ -1,1 +1,1 @@
-﻿Destruye la armadura de varios grupos enemigos, reduciendo su defensa y causa 10*Poder Magico Daño. Se puede lanzar varias veces en un sólo objetivo, pero la defensa no irá por debajo de cero.
+﻿Destruye la armadura de los pelotones enemigos seleccionados, reduciendo su Defensa e infligiendo daño mágico leve no-elemental.<br><color_default>El daño es igual a 10(P.Hechizo). El efecto de múltiples lanzamientos es cumulativo, pero la Defensa nunca será inferior a cero.

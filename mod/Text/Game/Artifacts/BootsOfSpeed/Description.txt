@@ -1,2 +1,2 @@
-﻿+25 % de puntos de movimiento sobre tierra<br><br>
-<color=red>Horma Ajustada<br><color_default>El Héroe pierde 750 puntos de movimiento al quitarse este artefacto.
+﻿+15% al Movimiento del héroe por tierra<br><br>
+<color=red>Prieto y Ceñido<br><color_default>El héroe pierde 500 puntos de movimiento al desequiparse este artefacto.

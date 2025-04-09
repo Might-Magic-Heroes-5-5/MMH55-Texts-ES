@@ -1,1 +1,1 @@
-﻿Permite al Héroe crear equipos de criatura del tercer nivel.
+﻿Habilidad de Aventura: Permite al héroe crear Mini-artifactos del tercer nivel para las criaturas.

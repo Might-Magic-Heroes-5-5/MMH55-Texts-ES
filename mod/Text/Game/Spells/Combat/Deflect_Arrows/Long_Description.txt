@@ -1,1 +1,1 @@
-﻿Crea un escudo mágico alrededor del objetivo que reduce el daño a distancia entrante.
+﻿Crea un escudo mágico sobre la unidad seleccionada que reduce el daño recibido por ataques a distancia.

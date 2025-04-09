@@ -1,1 +1,1 @@
-﻿Disidente: El Héroe comienza con +1 Ataque y -1 Defensa, adeamas la Iniciativa de todas las criaturas en el ejército del Héroe se incrementa en un 2.5% + 0.25% por nivel.
+﻿Temerario: El héroe empieza con +1 Ataque y -1 Defensa y la Iniciativa de todas las criaturas del ejército del héroe aumenta +2.5%, y +0.25% adicional por nivel.

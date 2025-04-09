@@ -1,1 +1,1 @@
-﻿<h1> Opciones Modo Ajedrez
+﻿<h1> Opciones del Modo Ajedrez

@@ -1,1 +1,1 @@
-﻿Una vieja bruja te da la bienvenida y está interesada en tu búsqueda. Cree que ya sabes bastante, pero a cambio de <value=gold> de oro está dispuesta a enseñarte <value=mastery> <value=skill>. ¿Aceptas?
+﻿Una anciana bruja te da la bienvenida y está interesada en tu causa. Considera que ya has aprendido bastante en tus viajes, pero a cambio de <value=gold> está dispuesta a enseñarte <value=skill> <value=mastery>. ¿Aceptas?

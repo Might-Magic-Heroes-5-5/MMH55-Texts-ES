@@ -1,1 +1,1 @@
-﻿Un Héroe con la habilidad Artífice puede crear artefactos para encantar criaturas aliadas. Estos artefactos se guardan en una bolsa especial. Solo las criaturas de la Academia pueden ser encantadas de esta manera.
+﻿Los héroes con la habilidad Artífice pueden crear objetos para encantar a las criaturas aliadas. Dichos objetos se guardan en una bolsa especial. Solo se puede encantar de esta manera a las criaturas de Academia.

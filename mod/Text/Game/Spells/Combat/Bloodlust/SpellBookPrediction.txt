@@ -1,1 +1,1 @@
-﻿Aumenta el ataque en <value=enchant> por <value=duration> turnos.
+﻿Aumenta el Ataque +<value=enchant> por <value=duration> turnos.

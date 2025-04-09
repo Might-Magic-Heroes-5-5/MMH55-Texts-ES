@@ -1,1 +1,1 @@
-﻿<color_default>+<value=damage>% Daño de Contrataque
+﻿<color_default>+<value=daño>% daño de contragolpe

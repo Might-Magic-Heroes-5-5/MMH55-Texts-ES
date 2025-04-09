@@ -1,4 +1,4 @@
-﻿+1 Poder Mágico<br><br>
-Resucita una cantidad de criaturas nativas de nivel 2 después del Combate, la cantidad es igual al 30 % + 1 % Conocimiento del Héroe (redondeado hacia abajo)o alternativamente 30 + 10*C de la salud perdida (el calculo que de mas unidades). La resurrección requiere 7 maná. <color_default>Las criaturas no muertas, mecánicas y elementales no pueden resucitar.
+﻿+1 Potencia de Hechizo<br><br>
+Revive un porcentaje de criaturas nativas de Tipo 2 tras el combate.<br><color_default>El porcentaje es igual al 30+(K)% de todas las bajas, o alternativamente 30+10(K) puntos de vida perdidos, lo que reviva más criaturas.<br>K = Conocimiento del Héroe.<br><br>La resurrección requiere 7 Maná. No tiene efecto en criaturas mecánicas, no muertas ni elementales.<br>
 <br><color=purple>Prendas del Santo<color_default><br>
--2 Coste de maná de resurrección por artefacto (3/7) 
+-2 al coste de Maná de cada artefacto de resurrección (3/7)

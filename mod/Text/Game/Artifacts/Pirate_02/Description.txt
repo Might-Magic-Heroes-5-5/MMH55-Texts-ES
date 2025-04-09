@@ -1,7 +1,7 @@
 ﻿+1 Ataque<br>
-+1 Defensa<br>
-+100-300 de oro saqueado después de cada batalla<br><br><color=purple>
-Conjunto Pirata<color_default><br>
++1 Defensa<br><br>
+Gana un botín de 100–300 Oro tras cada batalla.<br><br><color=purple>
+Indumentaria Pirata<color_default><br>
 +6 Ataque (3/6)<br>
 +12 Ataque (6/6)<br>
-*La bonificación se aplica después de cerrar el inventario.
+<br>*La bonificación del conjunto se aplica tras cerrar el Inventario.

@@ -1,1 +1,1 @@
-﻿El Héroe recibe la habilidad de Combate especial para alentar a sus tropas en el campo de batalla, haciendo que sus turnos lleguen más rápido. El valor de iniciativa del objetivo se incrementa en 0.4, limitado a 1.
+﻿El héroe recibe la habilidad especial de combate de animar a sus tropas en el campo de batalla, haciendo que sus turnos sean más frecuentes. El valor ATB del objetivo aumenta en 0.4, hasta un máximo de 1. El valor ATB del héroe se restablece a 0.1 tras su uso.

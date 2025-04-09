@@ -1,1 +1,1 @@
-﻿El Héroe bárbaro se mueve hacia atrás a lo largo de la barra de iniciativa un 30% menos de lo habitual mientras ataca.
+﻿El héroe bárbaro se moverá hacia atrás en la barra de iniciativa un 30% menos de lo habitual cuando ataque.

@@ -1,6 +1,6 @@
 ﻿+7 Conocimiento<br>
-+500 puntos de movimiento después de cada batalla naval<br><br><color=purple>
-Conjunto pirata<color_default><br>
++500 Puntos de Movimiento tras cada batalla en mar<br><br><color=purple>
+Indumentaria Pirata<color_default><br>
 +6 Ataque (3/6)<br>
 +12 Ataque (6/6)<br>
-*La bonificación se aplica después de cerrar el inventario.
+<br>*La bonificación del conjunto se aplica tras cerrar el Inventario.

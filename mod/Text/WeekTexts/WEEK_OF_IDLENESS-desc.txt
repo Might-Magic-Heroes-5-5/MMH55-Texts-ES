@@ -1,1 +1,1 @@
-﻿Durante las batallas, la iniciativa de todas las criaturas de las facciones Santuario, Silvanos y Academia se reducen en un 5%.
+﻿La Iniciativa de todas las criaturas de Santuario, Silvanas y Academia se reduce -5% durante las batallas.

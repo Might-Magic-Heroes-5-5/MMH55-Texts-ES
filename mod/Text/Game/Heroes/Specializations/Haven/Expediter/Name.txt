@@ -1,1 +1,1 @@
-﻿Clase: Caballero<br>Especialización: Ejemplar<br><br><body_bright>El héroe comienza con +2 Conocimiento y el efecto del hechizo Prisa aumenta en un 0,15% por cada nivel de héroe.<br><color_default>Comienza con Magia de Luz Básica.
+﻿Clase: Cruzado<br>Dote: Parangón<br><br><body_bright>El héroe empieza con +2 Conocimiento y el efecto del hechizo Rapidez aumenta +0.15% por cada nivel del héroe.<br><br><color_default>Empieza con<br>Magia de la Luz Básica.

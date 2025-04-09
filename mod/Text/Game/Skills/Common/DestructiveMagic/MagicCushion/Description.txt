@@ -1,1 +1,1 @@
-﻿Aumenta la suerte del Heroe en 1 y el daño infligido por hechizos enemigos se reduce en un 20%.
+﻿Aumenta la Suerte del héroe +1 permanentemente y concede +20% de Resistencia Mágica a todas sus tropas.<br><color_default>La resistencia mágica disminuye el daño provocado a tus criaturas por ataques mágicos.

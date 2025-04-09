@@ -1,5 +1,5 @@
-﻿-1 Suerte<br>
-Niega las penalizaciones de rango para todas las unidades aliadas.
+﻿Reduce -50% la penalización de alcance de todos los tiradores aliados.<br>
+Aumenta +1 el Daño de todos los Saeteros Silvanos aliados.<br><br><color=purple>
 Sueño del Arquero<color_default><br>
 +1 Suerte (2/2)<br>
-*La bonificación  se aplica después de cerrar el inventario.
+<br>*La bonificación del conjunto se aplica tras cerrar el Inventario.

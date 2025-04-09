@@ -1,4 +1,4 @@
-﻿<color=yellow>Modo predeterminado<color_default><br>
-* Los jugadores de IA no son aliados, pero su agresión mutua cae en dificultades más altas.
-* Los Héroes de IA pueden huir del Combate.
-* Los Encuentros tienen un 10% de crecimiento en partidas sin jugadores IA
+﻿<color=yellow>Modo Estándar<color_default><br>
+* Los jugadores de IA no son aliados pero su agresión mutua cae en dificultades superiores.
+* Los héroes de IA pueden huír del combate.
+* Las Zonas de Batalla tienen +10% crecimiento en partidas sin IA.

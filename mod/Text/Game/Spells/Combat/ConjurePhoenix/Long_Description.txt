@@ -1,1 +1,1 @@
-﻿Invoca a un Fénix en el campo de batalla para luchar por el Héroe. Solo un fénix puede ser invocado a la vez. Ataque, Defensa, salud, Iniciativa y Velocidad del Fénix dependen del Poder Mágico del lanzador. El Fénix es inmune a la magia.
+﻿Convoca a un Fénix al campo de batalla para que combata en el bando del héroe. Sólo puede haber un Fénix en el campo de batalla.<br><br><color_default>El Ataque, Defensa, HP, Iniciativa y Velocidad del Fénix depende de la Potencia de Hechizo. El Fénix es Inmune a la Magia.

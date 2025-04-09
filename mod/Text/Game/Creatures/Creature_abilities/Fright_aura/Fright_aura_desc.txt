@@ -1,0 +1,1 @@
+﻿La moral de todos los enemigos situados en las casillas adyacentes a esta criatura se reduce -2 (no afecta a criaturas cuya moral es siempre neutral).

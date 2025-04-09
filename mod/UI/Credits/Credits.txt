@@ -4,27 +4,22 @@
 <credits_h1>Might & Magic: Heroes 5.5
 <credits_body>
 <credits_body>
-<credits_h2>Lead Designer, Programming, ARMG & Textures
+<credits_h2>Lead Designer, Programming, Skill System, Artifacts, ARMG, Adventure Map, Campaigns
 <credits_body>
 <credits_body>Magnomagus
 <credits_body>
-<credits_h2>Skillwheel, Creaturepedia, UI Improvements
-<credits_body>
-<credits_body>ThGryphn
-<credits_body>
-<credits_h2>Reference Manual, Social Media
+<credits_h2>Lead Reverse Engineering, Reference Manual, Programming, Social Media
 <credits_body>
 <credits_body>dredknight
 <credits_body>
-<credits_h2>Reverse Engineering
+<credits_h2>Skillwheel, Creaturepedia, Mixed Neutrales in Campaign, UI Improvements
 <credits_body>
-<credits_body>dredknight
+<credits_body>theGryphon
+<credits_body>
+<credits_h2>Additional Reverse Engineering
+<credits_body>
 <credits_body>Marko aka 'The way back..'
 <credits_body>Deflaktor
-<credits_body>CrazyPill
-<credits_body>BAD
-<credits_body>Indral
-<credits_body>Kronos1000
 <credits_body>Magnomagus
 <credits_body>
 <credits_h2>AI Programming
@@ -33,7 +28,40 @@
 <credits_body>
 <credits_h2>Mapmixer Utility
 <credits_body>
-<credits_body>cichy, ThGryphn
+<credits_body>theGryphon, cichy
+<credits_body>
+<credits_h2>LUA Library
+<credits_body>
+<credits_body>RedHeavenHero
+<credits_body>
+<credits_h2>Additional Models and Textures
+<credits_body>
+<credits_body>Zobr
+<credits_body>Manulli
+<credits_body>Zahar
+<credits_body>Narron
+<credits_body>
+<credits_h2>NCF Compatibility
+<credits_body>
+<credits_body>dredknight
+<credits_body>Psatkha
+<credits_body>
+<credits_h2>UHM Compatibility
+<credits_body>
+<credits_body>Gryw
+<credits_body>
+<credits_h2>Inspirational Scripts
+<credits_body>
+<credits_body>PvP
+<credits_body>Prome7eus
+<credits_body>
+<credits_h2>Additional Text
+<credits_body>
+<credits_body>Krisys
+<credits_body>
+<credits_h2>Additional Interface Textures
+<credits_body>
+<credits_body>Cepheus
 <credits_body>
 <credits_h2>New Logo
 <credits_body>
@@ -43,45 +71,15 @@
 <credits_body>
 <credits_body>Skeggy
 <credits_body>
-<credits_h2>Ladder Website, Ladder Maps
-<credits_body>
-<credits_body>Bulya
-<credits_body>Frogo
-<credits_body>
-<credits_h2>NCF Compatibility
-<credits_body>
-<credits_body>dredknight
-<credits_body>Psatkha
-<credits_body>
-<credits_h2>H5-HOF Campaign Port
-<credits_body>
-<credits_body>Sfidanza
-<credits_body>Magnomagus
-<credits_body>
-<credits_h2>Inspirational Scripts
-<credits_body>
-<credits_body>PvP
-<credits_body>Prome7eus
-<credits_body>Alexoff
-<credits_body>
-<credits_h2>Additional Interface Textures
-<credits_body>
-<credits_body>Cepheus
-<credits_body>
-<credits_h2>Additional XML files
-<credits_body>
-<credits_body>Alcibiades
-<credits_body>fiur
-<credits_body>
-<credits_h2>Trailer Movies
-<credits_body>
-<credits_body>Belisarius
-<credits_body>
 <credits_h2>Translations
 <credits_body>
+<credits_body>Deintegro
 <credits_body>KjeraD
+<credits_body>Cohopx
 <credits_body>Uraabk
 <credits_body>Serega
+<credits_body>zepPeh
+<credits_body>Devr
 <credits_body>Antalyan
 <credits_body>dabuthegreat
 <credits_body>Mathieu Couespel
@@ -89,11 +87,36 @@
 <credits_body>Mario
 <credits_body>Evine
 <credits_body>Ak00129
-<credits_body>zepPeh
+<credits_body>
+<credits_h2>Ladder Website
+<credits_body>
+<credits_body>Bulya
+<credits_body>Frogo
 <credits_body>
 <credits_h2>Special Thanks
 <credits_body>
+<credits_body>Gendbend
+<credits_body>Kalich
+<credits_body>R33VS
+<credits_body>Maxik
+<credits_body>Engels
 <credits_body>xuxo
+<credits_body>Gidoza
+<credits_body>Sfidanza
+<credits_body>CrazyPill
+<credits_body>BAD
+<credits_body>Indral
+<credits_body>Kronos1000
+<credits_body>Alexoff
+<credits_body>Belisarius
+<credits_body>Alcibiades
+<credits_body>fiur
+<credits_body>
+<credits_body>
+<credits_body>
+<credits_body>
+<credits_body>
+<credits_body>
 <credits_body>
 <credits_h1>Tribes of the East
 <credits_body>
@@ -119,7 +142,7 @@
 <credits_body>
 <credits_body>
 <credits_h1>Production
-<credits_h2>Third party Manager
+<credits_h2>Third party Manáger
 <credits_body>Bertrand Chaverot
 <credits_body>
 <credits_h2>Executive producer
@@ -159,7 +182,7 @@
 <credits_body>Adrian Smith
 <credits_body>
 <credits_h2>Special Thanks
-<credits_body>Richard Dansky
+<credits_body>RicDifícil Dansky
 <credits_body>
 <credits_h1>Marketing
 <credits_h2>Marketing game manager
@@ -190,7 +213,7 @@
 <credits_h2>US Marketing Director
 <credits_body>Hélène Juguet
 <credits_body>
-<credits_h2>US Group Manager
+<credits_h2>US Group Manáger
 <credits_body>Karen Conroe
 <credits_body>
 <credits_h2>US Senior Brand manager
@@ -199,7 +222,7 @@
 <credits_h2>US Brand manager
 <credits_body>Nate Mordo
 <credits_body>
-<credits_h2>EMEA Group PR Manager
+<credits_h2>EMEA Group PR Manáger
 <credits_body>Stéphane Vallet
 <credits_body>
 <credits_h2>EMEA PR specialist
@@ -278,7 +301,7 @@
 <credits_body>Marie-Anne Boutet
 <credits_body>Mylène Joret-Bohe
 <credits_body>
-<credits_h2>Cost control
+<credits_h2>Coste control
 <credits_body>Asmaa Rouissi
 <credits_body>Béatrice Pagot
 <credits_body>
@@ -305,10 +328,10 @@
 <credits_h2>US Production coordinator
 <credits_body>Alison Slavin
 <credits_body>
-<credits_h2>US Manager, manufacturing
+<credits_h2>US Manáger, manufacturing
 <credits_body>Tony Silveira
 <credits_body>
-<credits_h2>US Manager, logistics
+<credits_h2>US Manáger, logistics
 <credits_body>Toni Alves
 <credits_body>
 <credits_h2>US VP, operations
@@ -373,7 +396,7 @@
 <credits_body>Peter Renaday
 <credits_body>Michael McConnahie
 <credits_body>Quinton Flynn
-<credits_body>Richard Epcar
+<credits_body>RicDifícil Epcar
 <credits_body>Sarah Sido
 <credits_body>Steve Blum
 <credits_body>Wendee Lee
@@ -394,7 +417,7 @@
 <credits_body>Translation and tests
 <credits_body>Words of Magic
 <credits_body>
-<credits_h2>Voice Project Manager
+<credits_h2>Voice Project Manáger
 <credits_body>Laurent Rigal
 <credits_body>
 <credits_h2>Sound Engineers
@@ -532,7 +555,7 @@
 <credits_body>Isabel-Biara: María José Nieto
 <credits_body>Godric: Juan A. Gálvez
 <credits_body>Ylaya: Conchi López
-<credits_body>Tieru: José Padilla
+<credits_body>Nivelu: José Padilla
 <credits_body>Hangvul: José Padilla
 <credits_body>Demon Sovereing: Pablo Adam
 <credits_body>Zehir: Juan Logar
@@ -544,22 +567,22 @@
 <credits_body>
 <credits_h1>Ubisoft
 <credits_body> 
-<credits_h2>QA Manager
+<credits_h2>QA Manáger
 <credits_body>Marius Tudorel Potirniche
 <credits_body> 
 <credits_h2>Lead Tester
 <credits_body>Liviu Galateanu
 <credits_body> 
-<credits_h2>Platform Specialist Manager
+<credits_h2>Platform Specialist Manáger
 <credits_body>Mircea Nutu
 <credits_body> 
 <credits_h2>Platform Specialist
 <credits_body>Ionut Preda
 <credits_body> 
-<credits_h2>Data Manager
+<credits_h2>Data Manáger
 <credits_body>Marius Mardale
 <credits_body> 
-<credits_h2>Hardware Manager
+<credits_h2>Difícilware Manáger
 <credits_body>Bogdan Maniosu
 <credits_body> 
 <credits_h1>Revo Solutions
@@ -589,7 +612,7 @@
 <credits_body>Mihai “Gushteru” Glaveanu
 <credits_body>Mihail Gröling
 <credits_body> 
-<credits_h2>Hardware Specialist
+<credits_h2>Difícilware Specialist
 <credits_body>Constantin Schohterus
 <credits_body>
 <credits_body>

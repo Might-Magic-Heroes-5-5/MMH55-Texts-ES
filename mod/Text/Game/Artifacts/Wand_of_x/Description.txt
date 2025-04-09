@@ -1,2 +1,3 @@
-﻿+2 Poder Mágico<br>
-Permite lanzar el hechizo <value=spell_name> a nivel Avanzado desde esta varita (al menos que el nivel del Héroe sea mayor). La varita tiene un número limitado de usos y puede recargarse en un gremio de hechiceros.(usos <value=charges_cur>/<value=charges_max>).<br>Los Héroes bárbaros consideran deshonroso usar hechizos en la batalla.
+﻿+2 Potencia de Hechizo<br><br>
+Permite lanzar el hechizo <value=spell_name> con Maestría Avanzada de esta varita (a menos que el nivel de Maestría del Héroe sea superior).<br><br>La varita tiene un número limitado de usos y puede recargarse en una Cofradía de Magos (<value=charges_cur>/<value=charges_max> usos).
+<br><color_default>Los Caudillos no pueden lanzar el hechizo pero reciben la bonificación de Potencia de Hechizo.

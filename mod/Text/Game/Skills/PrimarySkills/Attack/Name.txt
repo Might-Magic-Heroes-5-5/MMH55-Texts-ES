@@ -1,1 +1,1 @@
-﻿Habilidad Primaria: Ataque
+﻿Atributo Principal: Ataque

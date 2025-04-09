@@ -1,1 +1,1 @@
-﻿Todas las unidades amistosas que se encuentran adyacentes a esta criatura nunca tendrán una moral negativa.
+﻿Todos los pelotones aliados que se encuentren en las casillas adyacentes no podrán tener moral negativa.

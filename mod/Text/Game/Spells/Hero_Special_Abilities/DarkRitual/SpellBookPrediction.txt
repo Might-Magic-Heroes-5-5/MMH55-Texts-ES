@@ -1,1 +1,1 @@
-﻿La especialización mística te permite obtener <value=extra_mana> maná más allá del límite máximo de maná normal.
+﻿La especialización Mística permite al héroe ganar <value=extra_mana> maná por encima del nivel de maná máximo.

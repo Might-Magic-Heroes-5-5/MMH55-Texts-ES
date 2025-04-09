@@ -1,1 +1,1 @@
-﻿Aumenta el daño infligido por tus criaturas en Combate cuerpo a cuerpo en un 15%.
+﻿Aumenta +15% el daño infligido por tus criaturas en combate cuerpo a cuerpo.

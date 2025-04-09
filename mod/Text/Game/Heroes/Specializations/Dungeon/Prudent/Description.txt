@@ -1,1 +1,1 @@
-﻿Intimidar: Las unidades enemigas tienen una penalización a la Iniciativa, dependiendo del nivel del Héroe. La Iniciativa Enemiga se reduce en un 2% + 0.2% por nivel.
+﻿Intimidar: Las unidades enemigas sufren una penalización a la iniciativa, según el nivel del héroe. La Iniciativa del enemigo se reduce -2% y -0.2% adicional por Nivel.

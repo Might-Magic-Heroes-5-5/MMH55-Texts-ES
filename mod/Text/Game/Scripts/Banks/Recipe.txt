@@ -1,1 +1,1 @@
-﻿<color=yellow>Encontraste una receta misteriosa.
+﻿<color=yellow>Has encontrado una Receta Misteriosa.

@@ -1,5 +1,5 @@
-﻿+2 Poder Mágico<br>
-+2 Conocimiento<br>
--50% a la cantidad de elementales convocados por Héroes enemigos<br>
--50% Puntos de vida a Enjambre, Fenix y Barreras invocados por enemigos<br>
-Otorga la habilidad Desterrar.
+﻿+2 Potencia de Hechizo<br>
++2 Conocimiento<br><br>
+Reduce a la mitad la cantidad de elementales convocados por el héroe enemigo.<br><br>
+Reduce a la mitad la Salud del Fénix, Barrera de Cuchillas y Avispero enemigo convocado.<br><br>
+Concede la habilidad Desterrar.

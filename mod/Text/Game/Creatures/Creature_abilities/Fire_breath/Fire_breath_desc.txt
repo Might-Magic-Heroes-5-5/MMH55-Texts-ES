@@ -1,1 +1,1 @@
-﻿Durante el ataque, esta criatura inflige daño completo no solo al objetivo, sino también a cualquier otra unidad (aliada o enemiga) que se encuentre directamente detrás de él.
+﻿Durante el ataque, la criatura daña no sólo al objetivo, sino también a cualquier otra unidad situada directamente detras de éste.

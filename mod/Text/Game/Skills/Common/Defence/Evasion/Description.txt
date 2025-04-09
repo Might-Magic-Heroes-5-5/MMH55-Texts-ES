@@ -1,1 +1,1 @@
-﻿Reduce el Daño recibido por ataques a distancia en 15%
+﻿Disminuye un 15% el daño provocado a tus criaturas en ataques a distancia.

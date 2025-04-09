@@ -1,1 +1,1 @@
-﻿<color=yellow>Suplemento (Jugador 4)
+﻿<color=yellow>Proveedor (Jugador 4)

@@ -1,1 +1,1 @@
-﻿Guardia Fronterizo<br><br><body_bright>El Héroe tiene una bonificación a su defensa (+1 de defensa por cada 2 niveles) si las peleas están a un día de una ciudad propia.
+﻿Guardia Fronterizo<br><br><body_bright>El héroe gana +1 a la Defensa por cada 2 niveles en combates a un día de distancia de su ciudad.

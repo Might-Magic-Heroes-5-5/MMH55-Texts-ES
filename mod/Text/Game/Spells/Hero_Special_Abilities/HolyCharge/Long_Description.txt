@@ -1,1 +1,1 @@
-﻿Protege a la criatura seleccionada por el Héroe contra cualquier daño cuerpo a cuerpo.
+﻿Habilidad especial de combate que protege a la criatura elegida contra cualquier daño, infligiendo daño directo a cualquer enemigo que ataque a esta criatura.<br><br><color_default>El ataque del héroe es 3 niveles más potente de lo habitual. El valor ATB del héroe se restaura a 0.25 tras escoger al objetivo.

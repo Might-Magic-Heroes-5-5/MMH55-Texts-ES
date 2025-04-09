@@ -1,1 +1,1 @@
-﻿Clase: Pícaro<br>Especialización: Místico<br><br><body_bright>El héroe comienza con +1 de suerte y pierde menos puntos de movimiento cuando usa la habilidad Ritual arcano. El coste de movimiento se reduce en 2 por cada punto de maná recuperado..<br><color_default>Comienza con Magia Destructiva Básica.
+﻿Clase: Truhán<br>Dote: Místico<br><br><body_bright>El héroe empieza con +1 Suerte y pierde menos puntos de movimiento al usar Ritual Arcano. Cada punto de maná costará 2 puntos de movimiento menos.<br><br><color_default>Empieza con<br>Magia Destructiva Básica.

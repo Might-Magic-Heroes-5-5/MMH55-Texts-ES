@@ -1,1 +1,1 @@
-﻿<color=yellow>Tu maná se recupero con una poción!
+﻿<color=yellow>La poción restaura tu maná al completo.

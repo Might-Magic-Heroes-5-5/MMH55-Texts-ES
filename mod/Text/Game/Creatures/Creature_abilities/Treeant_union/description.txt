@@ -1,1 +1,1 @@
-﻿Una vez por Combate esta criatura puede curar y resucitarse a si mismo y un grupo de Treants(Habilidad Activable). el grupo objetivo recive 5 puntos de Vida por Dryada, y el grupo de Dryadas es curado 30 puntos por Treant.
+﻿Una vez por combate, esta criatura puede curar y resucitarse a sí misma y al pelotón de Árbores objetivo (habilidad activable). El pelotón objetivo recive 5 puntos de vida por Dríada, y a cambio el pelotón de Dríadas restaura 30 puntos de vida por cada Árbor.

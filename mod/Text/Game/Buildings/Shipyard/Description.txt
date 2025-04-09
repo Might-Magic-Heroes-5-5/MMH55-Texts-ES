@@ -1,1 +1,1 @@
-﻿Construye barcos para atravesar el mar. El movimiento sobre el agua cuesta solo 75 puntos por Casilla.
+﻿Construye embarcaciones para cruzar el mar. El coste de movimiento por mar es solo 75 puntos por casilla.

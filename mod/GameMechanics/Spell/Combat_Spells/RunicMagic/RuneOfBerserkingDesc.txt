@@ -1,0 +1,1 @@
+﻿Durante un turno la criatura golpeará con tanta ferocidad, que no sufrirá contragolpe del enemigo.

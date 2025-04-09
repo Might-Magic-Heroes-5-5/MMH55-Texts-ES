@@ -1,4 +1,4 @@
 ﻿+3 Moral<br>
 +3 Suerte<br>
-Otorga la habilidad de volar e ignorar completamente las penalizaciones de terreno<br><br><color=red>
-Levitando<color_default><br>Las habilidades de logística y búsqueda de caminos no tienen efecto.
+Confiere al héroe la capacidad de volar por encima del terreno, ignorando las penalizaciones por completo. El coste de movimiento por casilla se reduce en 25 (excepto viajando por camino).<br><br><color=red>
+Levitación<color_default><br>Las habilidades de Logística y Rastrear no tendrán efecto.

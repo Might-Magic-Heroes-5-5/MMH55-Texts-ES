@@ -1,9 +1,11 @@
-﻿Querido jugador.
+﻿Querido Jugador,
 
-Este mensaje aparecerá solo una vez para asegurarse de que no se encuentre con ningún problema si planea jugar todas las campañas de Héroes 5.5.
+Bienvenido a la nueva revisión de campaña de Might & Magic: Heroes 5.5. Por favor, ten en cuenta lo siguiente para evitar encontrarte con incidencias durante el transcurso de todas las misiones:
 
-1. La nueva IA utilizada por Héroes 5.5 se programó en un código fuente anterior que no era 100% compatible con los scripts utilizados por los mapas de campaña del juego oficial. Desde RC9a se han ajustado muchos scripts para permitir que los mapas funcionen correctamente, pero todavía se han informado algunos errores en la 2ª campaña de Hammers of Fate (campaña de Wulfstan) para los que no se han encontrado soluciones. Por lo tanto, se recomienda jugar esta campaña con el archivo MMH55_Utility.exe o MMH55_Utility_64.exe. No es necesario jugar todas las campañas con estos archivos .exe ya que la IA se ralentizaría innecesariamente. Puede cambiar entre los archivos .exe entre cada misión si se encuentra con algún problema, no tendrá ningún impacto en los juegos guardados.
+1. Ejecuta el juego siempre desde MMH55.exe o MMH55_64.exe, no uses el steam launcher; cargará el .exe erróneo y causa bugs de IA.
 
-2. Las campañas no admiten 8 habilidades secundarias y fueron diseñadas sin Gobernancia y la conversión de ciudad / vivienda, por lo tanto, las conversiones pueden no funcionar siempre correctamente y algunos mapas pueden ser más difíciles o más fáciles. Es posible desactivar estas funciones editando o eliminando (temporalmente) el MMH55_Settings.pak de la carpeta de datos.
+2. Todos los artefactos equipados se guardarán para la siguiente misión, excepto artefactos de movimiento, manuscritos, bolsas de oro, varitas, pergaminos y la lágrima de asha. Los artefactos que no estén equipados se perderán.
 
-3. Se recomienda jugar las campañas en dificultad normal o difícil, ya que será más difícil que en el juego original porque los Héroes ya no tienen especializaciones de mucho poder. Imposible no fue probado y puede ser realmente imposible.
+3. El límite de nivel de los héroes es mayor. El tamaño del campo de batalla por defecto es 14x12 en vez de 12x10 y los pelotones neutrales tendrán criaturas mixtas en todas las misiones.
+
+4. Puedes comprar pociones de maná y de movimiento en los puestos de comercio. Las adiciones del "Advanzed RMG" como Conversión de Ciudad, Gobierno, Portón Paralelo y Control de Mina están desactivadas al entrar en conflicto con la visión original y los objetivos del juego.

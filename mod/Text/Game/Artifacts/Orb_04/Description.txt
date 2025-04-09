@@ -1,1 +1,5 @@
-﻿+25 % de daño a Hechizos de Hielo<br><br>Una cantidad de elementales de agua pueden ser revividos tras el Combate. La cantidad es 30% + 1%*C de todas las muertes o alternativamente 130 + 10*C de la salud perdida (el calculo que de mas unidades). La resurreccion requiere 10 de mana<color_default>C = Conocimiento del Heroe.<br><br><color=orange>Elementales de Agua<color_default><br>Lanza este artefacto a una fuente de la fortuna e invocará un grupo de elementales de agua. El tamaño del grupo es igual a 4*cantidad de semanas pasadas.
+﻿Aumenta +25% el daño de los hechizos basados en el Hielo.<br>
+
+Permite resucitar una cantidad de Elementales de Agua tras el combate. La resurección requiere 10 Maná.<color_default> La cantidad es igual al 30+(K)% de las bajas o 130+10(K) puntos de vida perdidos, lo que resulte en más criaturas.<br>K = Conocimiento del Héroe
+
+<color=orange>Elementales de Agua<color_default><br>Tira este artefacto a una Fuente de la Fortuna para convocar un pelotón de Elementales de Agua. El tamaño del pelotón será igual a 4 veces las semanas transcurridas.

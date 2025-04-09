@@ -1,1 +1,1 @@
-﻿Aumenta la cantidad de experiencia ganada por el Héroe en + 15%
+﻿Aumenta en un 15% la experiencia obtenida por el Héroe.

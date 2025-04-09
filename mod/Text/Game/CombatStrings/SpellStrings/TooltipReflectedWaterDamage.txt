@@ -1,1 +1,1 @@
-﻿<color_default>Reflect <value=damage>% Daño de Agua a atacantes Cuerpo a cuerpo
+﻿<color_default>Refleja <value=daño>% daño por hielo a atacantes cuerpo a cuerpo

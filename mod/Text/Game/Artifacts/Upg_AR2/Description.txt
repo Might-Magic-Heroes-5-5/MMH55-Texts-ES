@@ -1,2 +1,2 @@
-﻿+7 Defensa<br>
--2 Coste de maná a cualquier artefacto de resurrección
+﻿+7 Defensa<br><br>
+Reduce -2 el coste de Maná de todos los artefactos de resurrección equipados.

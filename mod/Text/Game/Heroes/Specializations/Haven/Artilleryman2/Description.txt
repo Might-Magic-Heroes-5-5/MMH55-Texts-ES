@@ -1,1 +1,1 @@
-﻿Ingeniero de Asedio: La Balista recibe +1 a su ataque por cada nivel del Héroe. La probabilidad de que la Catapulta golpeé la pared aumenta un 2% por cada nivel del Héroe.
+﻿Ingeniero Maestro: La Balista recibe +1 a su Ataque por cada nivel del héroe. La tasa de acierto de la Catapulta aumenta +2% por cada nivel del héroe.

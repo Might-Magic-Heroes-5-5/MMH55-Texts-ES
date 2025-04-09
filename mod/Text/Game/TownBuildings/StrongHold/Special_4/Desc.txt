@@ -1,2 +1,5 @@
-﻿Caciques obtienen 50 puntos de ira al inicio del Combate. Chamanes y Santeras obtienen +1 al conocimiento permanentemente (acumulativo con múltiples ciudades).<br><br>
-<color=0099FF>Gobernancia<color_default><br>Otorga al Gobernador +2 al Ataque. 
+﻿Proporciona +50 puntos de Rabia al ejército de los Caudillos al comienzo del combate. Los Chamanes y Brujas ganan +1 Conocimiento permanentemente.<br><br>
+
+Cumulativo con múltiples ciudades.<br><br>
+
+<color=0099FF>Gobierno<color_default><br>Concede +2 Ataque al Gobernador de esta ciudad.

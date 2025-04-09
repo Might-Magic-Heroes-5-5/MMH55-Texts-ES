@@ -1,1 +1,1 @@
-﻿El Héroe aprende el Hechizo Flecha Eldrica y hechizos de Magia de la Luz del Héroe son 2 veces más difíciles de disipar. Los hechizos opuestos (como Lentitud contra Rapidez) aplicados por un enemigo a las criaturas del Héroe tienen un 50% de probabilidad de fallar.
+﻿El héroe aprende el hechizo Ceguera, y ahora el hechizo Fuerza Divina hace a la criatura objetivo inmune a Debilidad. La regeneración de maná del héroe aumenta en +6.

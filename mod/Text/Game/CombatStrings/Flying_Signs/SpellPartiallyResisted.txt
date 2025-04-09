@@ -1,1 +1,1 @@
-﻿<combat_flying_signs><color_negative>Resistido parcialmente!
+﻿<combat_flying_signs><color_negative>¡Resistió parcialmente!

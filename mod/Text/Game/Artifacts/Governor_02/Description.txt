@@ -1,7 +1,10 @@
-﻿+6 Conocimiento si está equipado<br>
-+Conocimiento/2 recursos aleatorios por día<br><color_default>
-si el recurso aleatorio es oro la cantidad se multiplica por 1000)<br><br><color=orange>
-Fénix<color_default><br>
-Lanza este artefacto en una Fuente de la Fortuna y convocará un grupo de Fénix. El tamaño del grupo es igual a 2*cantidad de semanas pasadas.<br><br><color=yellow>
-Mochila<color_default><br>
-Los recursos también se obtienen cuando el artefacto está en la mochila, pero la funcionalidad está limitada a un artefacto por Héroe.
+﻿+6 Conocimiento si está equipada<br><br>
+
+Genera una cantidad aleatoria de recursos al día, igual a la mitad del Conocimiento del Héroe.<br>
+<color_default>Si el recurso aleatorio es Oro la cantidad es multiplicada por 1000.<br><br>
+
+<color=orange>Fénix<color_default><br>
+Arroja este artefacto en una Fuente de la Fortuna para convocar un pelotón de Fénix. El tamaño del pelotón es igual a 2 veces las semanas transcurridas.<br><br>
+
+<color=yellow>...de bolsillo<color_default><br>
+Este artefacto funciona desde el inventario del héroe, pero la funcionalidad está limitada a un artefacto por héroe.

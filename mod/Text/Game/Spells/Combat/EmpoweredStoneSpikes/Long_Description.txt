@@ -1,1 +1,1 @@
-﻿Inflige daño de tierra a todas las criaturas en el área objetivo (una cruz de 5 casillas).
+﻿Inflige daño por tierra a las criaturas que se encuentren en una cruz de 5 casillas.

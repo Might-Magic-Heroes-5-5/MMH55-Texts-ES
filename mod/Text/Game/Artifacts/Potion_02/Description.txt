@@ -1,1 +1,1 @@
-﻿Otorga al Héroe 2500 puntos de movimiento adicionales al día siguiente (después de que el Héroe los haya agotado, se restaurarán a 2500).<br><br><color=blue>Consumible<color_default><br>La poción desaparecerá después de su uso, guárdala en la mochila hasta que lo necesite.
+﻿Añade +2500 puntos de movimiento adicionales al día siguiente de equiparse (después de gastar los puntos de movimiento, se restauran a 2500).<br><br><color=FF2626FF>Consumible<color_default><br>La poción desaparecerá tras su uso, guárdala en el inventario hasta que la necesites.

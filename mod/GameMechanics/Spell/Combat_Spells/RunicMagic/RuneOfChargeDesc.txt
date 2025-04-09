@@ -1,0 +1,1 @@
+﻿La velocidad de la criatura aumenta +3 hasta el final del turno.

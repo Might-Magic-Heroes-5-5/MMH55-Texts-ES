@@ -1,1 +1,1 @@
-﻿El mapa RMG ha fallado en cargar, este error ocurren porque 'RMGmap'esta configurada como "True" bajo 'sRMGProps' en las propiedades del map mientras este no es completamente nuevo, para arreglar este problema configura esto como "false" en el editor de mapas.
+﻿RMG Map no pudo cargar, este error ocurre porque 'RMGmap' está configurado como true bajo 'sRMGProps' en la lista de propiedades del mapa a pesar de que el mapa ha sido modificado. Para arreglar este error configúralo como false en el editor de mapas y envía una copia del mapa al resto de jugadores.

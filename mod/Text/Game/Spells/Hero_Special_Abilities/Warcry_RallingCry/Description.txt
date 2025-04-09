@@ -1,1 +1,1 @@
-﻿Aumenta la moral de todas las criaturas en el ejército durante 3 turnos (según el nivel del Héroe) y otorga puntos de ira adicionales a las criaturas Orcas (la bonificación de moral no funciona en unidades no muertas, elementales ni mecánicas).
+﻿Aumenta la Moral de todas las criaturas del ejército y concede una cantidad enorme de Rabia a los Orcos.<br><br>Aumenta +1 la Moral del ejército, y +1 adicional por cada 20 niveles del héroe. No tiene efecto en criaturas no-muertas, elementales ni mecánicas.

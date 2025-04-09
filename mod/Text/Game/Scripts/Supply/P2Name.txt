@@ -1,1 +1,1 @@
-﻿<color=blue>Suplemento (Jugador 2)
+﻿<color=FF2626FF>Proveedor (Jugador 2)

@@ -1,1 +1,1 @@
-﻿Aumenta la velocidad de movimiento del Héroe en el mar en un 25%.
+﻿Talento de Aventura: El héroe recibe refuerzos de tropas nativas de Tipo 4 en vez de Tipo 3, siguiendo la mísma fórmula que Logística Experta. Aumenta +50% la velocidad de movimiento del héroe por mar.

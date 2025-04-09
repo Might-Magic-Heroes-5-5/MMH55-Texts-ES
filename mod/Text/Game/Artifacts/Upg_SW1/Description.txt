@@ -1,2 +1,2 @@
-﻿+3 Poder Mágico<br>
-+8% Resistencia Mágica
+﻿+3 Potencia de Hechizo<br>
++8% Negación Mágica

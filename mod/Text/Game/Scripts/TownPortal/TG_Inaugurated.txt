@@ -1,2 +1,1 @@
-﻿<color=yellow>¡El Gobernador ha llegado!
-
+﻿<color=yellow>¡Se ha instaurado al Gobernador!

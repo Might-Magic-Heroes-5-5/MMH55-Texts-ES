@@ -1,1 +1,1 @@
-﻿El héroe obtiene +4 de Defensa y todas las criaturas bajo su control reciben 50% de daño de todos los hechizos de fuego y son inmunes a la reduccion de armadura de Maestro del fuego.
+﻿El héroe obtiene +4 Defensa y las criaturas bajo el control del héroe recibirán solamente un 50% de daño de todos los ataques de fuego, y serán inmunes a los efectos de dañar armadura del talento Maestro del Fuego.

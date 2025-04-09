@@ -1,2 +1,1 @@
-﻿Una cantidad de criaturas nativas de nivel 5 y 6 resucitarán después del Combate, la cantidad de criaturas resucitadas es igual al 15 % + 1 % Conocimiento del Héroe. La resurrección requiere 6 maná por nivel.<color_default><br>
-Las criaturas no muertas, mecánicas y elementales no pueden resucitar.
+﻿Resucita un porcentaje de criaturas nativas de Tipo 2 tras el combate. El porcentaje es igual al 30+10(Conocimiento) de todos los puntos de vida perdidos. La resurrección requiere 6 Maná.<color_default> Las criaturas mecánicas, no-muertas y elementales no pueden ser resucitadas.<br><br><color=red>Medicinal<br><color_default>Este artefacto solo funciona si el héroe tiene el talento de Rituales de Sangre.

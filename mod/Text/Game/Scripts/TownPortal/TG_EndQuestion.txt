@@ -1,11 +1,11 @@
 ﻿-----------------------------------------------------------------------------
-RENUNCIA DE GOBERNADOR
+DIMISIÓN DE GOBERNADOR
 -----------------------------------------------------------------------------
 
-El Héroe establecerá su trabajo como gobernador de esta ciudad, perderá todos los bonos relacionados y recuperará todos los puntos de movimiento fuera del radio de la ciudad.
+El héroe abandonará su servicio como gobernador de esta ciudad, rindiendo todas las bonificaciones relativas al puesto y recuperando su libertad de movimiento fuera de las inmediaciones de la ciudad.
 
-Está bien para la renuncia anticipada: <value=fine>
+Sobrecargo por dimisión prematura: <value=fine>
 
-OK = Retirar Gobernador
-Cancelar = Mantener Gobernador
+Aceptar = Dimitir como Gobernador
+Cancelar = Seguir como Gobernador
 

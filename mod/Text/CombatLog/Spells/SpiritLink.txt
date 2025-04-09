@@ -1,1 +1,1 @@
-﻿<value=target_color>Enlace Espiritual:<body_bright> <value=source> su dolor otorga <value=damage> mana a <value=target>
+﻿<value=target_color>Marca del Nigromante:<body_bright> el sufrimiento del <value=source> confiere <value=damage> de mana a <value=target>

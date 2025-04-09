@@ -1,1 +1,1 @@
-﻿Todos los hechizos que existen se escribirán en el libro de hechizos del Héroe, y el Héroe podrá lanzarlos a nivel experto.
+﻿Todos los hechizos en existencia se escribirán en el libro de hechizos del héroe y podrá lanzarlos en nivel experto.

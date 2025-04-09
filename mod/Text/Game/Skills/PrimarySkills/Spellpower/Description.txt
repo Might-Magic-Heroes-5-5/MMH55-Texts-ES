@@ -1,1 +1,1 @@
-﻿El Poder Mágico del Héroe mejora la efectividad (duración, daño, etc.) de los hechizos lanzados por el Héroe; la relación exacta depende del hechizo.
+﻿El atributo de Potencia de Hechizo aumenta la efectividad (duración, daño, etc.) de los hechizos del héroe; la relación exacta es única para cada hechizo.

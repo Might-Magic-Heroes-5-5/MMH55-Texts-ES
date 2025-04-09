@@ -1,1 +1,1 @@
-﻿Viajero Temporal: El lanzador transforma el tiempo continuo , alterando el orden de las acciones de las criaturas al comienzo del Combate. La intensidad de la transformación depende del nivel del Héroe.
+﻿Manipulador Temporal: El héroe transforma el continuo del tiempo local, cambiando el orden de las acciones de las criaturas al inicio de la batalla. La intensidad de la transformación depende del nivel del héroe.

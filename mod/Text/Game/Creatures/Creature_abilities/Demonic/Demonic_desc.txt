@@ -1,1 +1,1 @@
-﻿Esta criatura no se ve afectada por la habilidad Disparo en cadena y es vulnerable al hechizo Palabra de Luz.
+﻿Esta criatura pertenece al infierno. No es afectada por Disparo en Cadena pero es vulnerable al hechizo Palabra de Luz.

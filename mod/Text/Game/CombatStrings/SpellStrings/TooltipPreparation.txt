@@ -1,1 +1,1 @@
-﻿<br><color_default>Contrataca antes de ser atacado
+﻿<br><color_default>Contragolpear antes del ataque enemigo

@@ -1,1 +1,1 @@
-﻿El terremoto causa gran daño a todos los muros y torres e la ciudad y durante un asedio, tambien causa poco a todas las unidades igual a20 + (2 * Spellpower).
+﻿Inflige daño severo a los muros de la ciudad durante un asedio, y daño físico leve a todas las criaturas (aliadas o enemigas) incluso usado fuera de un combate de asedio.<br><color_default>El daño a las criaturas es 20+2(P.Hechizo).

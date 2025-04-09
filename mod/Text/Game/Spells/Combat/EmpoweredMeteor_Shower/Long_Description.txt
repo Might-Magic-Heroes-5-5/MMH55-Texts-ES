@@ -1,1 +1,1 @@
-﻿Inflige daño masivo de tierra a todas las criaturas en el área objetivo.
+﻿Inflige daño por tierra masivo a todas las criaturas de la zona objetivo.

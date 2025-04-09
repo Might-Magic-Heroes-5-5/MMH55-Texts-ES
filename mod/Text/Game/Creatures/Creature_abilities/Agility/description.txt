@@ -1,1 +1,1 @@
-﻿Hasta el próximo turno, esta criatura gana un bonificador de Defensa +2 por cada ficha que recorre.
+﻿Hasta el siguiente turno, esta criatura obtiene un bonificador +2 a la Defensa por cada casilla recorrida.

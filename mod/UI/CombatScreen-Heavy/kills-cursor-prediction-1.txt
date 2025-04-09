@@ -1,2 +1,2 @@
-﻿Daño: <color=green><value=damage><color=white><br>
+﻿Daño: <color=green><value=Daño><color=white><br>
 Muertes: <color=red><value=kills><color=white>

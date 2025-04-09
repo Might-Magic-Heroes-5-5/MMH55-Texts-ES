@@ -1,1 +1,1 @@
-﻿La runa Formadragon aumenta la moral de la criatura objetivo +2 por 2 turnos después de lanzar una Runa sobre él.
+﻿El héroe aprende la Runa de Forma de Dragón. Además, usar una runa sobre una criatura aliada aumentará +2 su Moral durante dos turnos.

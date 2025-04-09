@@ -1,1 +1,1 @@
-﻿Hero gana +2 al Conocimiento y otro +2 al Conocimiento en el nivel 20. El Héroe también adquiere aleatoriamente un hechizo dañino del 1er al 3er círculo que todavía no está en el libro de hechizos.
+﻿El héroe gana +2 al Conocimiento y lo continuará aumentando en +1 cada 10 niveles. Además, adquiere un hechizo de daño al azar del 1er al 3er círculo que no figure ya en su libro de hechizos.

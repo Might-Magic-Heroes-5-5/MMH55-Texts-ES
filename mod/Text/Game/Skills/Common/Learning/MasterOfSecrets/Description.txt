@@ -1,1 +1,1 @@
-﻿El Héroe gana +2 Poder mágico y al comienzo de cada semana se unirán al ejército del héroe Djinns y sus mejoras, la cantidad es igual a 0.2 * nivel de héroe.
+﻿El héroe gana +2 Potencia de Hechizo y al principio de cada semana se unirá a su ejército una cantidad de Djinns, Sultanes Djinn o Visires Djinn igual a 0.33(Nivel), si ya hay alguna de estas criaturas presente.

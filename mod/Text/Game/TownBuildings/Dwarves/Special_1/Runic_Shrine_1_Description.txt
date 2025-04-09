@@ -1,2 +1,2 @@
-﻿Permite a un Héroe visitante aprender runas mágicas del primer y segundo círculo rúnico.<br><br>
-<color=0099FF>Gobernancia<color_default><br>Concede al Gobernador de esta ciudad un +1 de bonificación de Conocimiento.
+﻿Permite que un héroe visitante aprenda las Runas del 1er y 2.º Círculo, y aumenta +1 la Potencia de Hechizo de todos los héroes Enanos que posean la habilidad Inscripción de Runas.<br><color_default>No cumulativo con múltiples ciudades.<br><br>
+<color=0099FF>Gobierno<color_default><br>Concede +1 Conocimiento al Gobernador de la Ciudad.

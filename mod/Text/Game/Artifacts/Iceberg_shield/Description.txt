@@ -1,2 +1,2 @@
 ﻿+4 Defensa<br>
--40 % de daño recibido de hechizos de Fuego enemigos
++40% Resistencia Mágica contra hechizos enemigos basados en el Fuego.

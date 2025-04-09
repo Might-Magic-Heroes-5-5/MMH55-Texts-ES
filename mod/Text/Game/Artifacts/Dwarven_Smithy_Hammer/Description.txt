@@ -1,2 +1,2 @@
 ﻿+2 Defensa<br>
--20 % de daño recibido de hechizos de Fuego enemigos
+-20% al Daño de los hechizos enemigos basados en el Fuego.

@@ -1,22 +1,22 @@
 ﻿-------------------------------------------------------------------------------
-CONTRATO DE GOBERNANCIA
+CONTRATO DE GOBIERNO
 -------------------------------------------------------------------------------
 
 Beneficios: 
 
--El Héroe gana una cantidad de experiencia diaria dependiendo del nivel de la ciudad y el nivel del Héroe.
--Las viviendas de la ciudad recibirán un % de reclutas adicionales cada semana, el % es igual al nivel del Héroe, si el nivel del Héroe es demasiado bajo no se recibirán criaturas adicionales.
--El Héroe obtendrá varios bonos exclusivos de los edificios de la ciudad.
--Si la ciudad tiene una cofradía de magos de nivel 5, el Héroe puede usar la habilidad Pórtico a Ciudad y teletransportarse a esta ciudad, el Héroe no puede dejar su puesto y teletransportarse a otras ciudades.
--Si el Héroe tiene algún artefacto Insignia de la Legión, las tropas se agregarán a las viviendas de la ciudad y la cantidad se calculará como si el Héroe tuviera 5 de conocimiento más.
+-El héroe recibe una cantidad diaria de experiencia según el nivel de la ciudad y el suyo propio.
+-Los enclaves de la ciudad reciben un porcentaje de criaturas adicionales cada semana, igual al nivel del héroe. Si el nivel del héroe es muy bajo no habrá criaturas adicionales.
+-El héroe ganará bonificaciones exclusivas de varios edificios de la ciudad.
+-Si la ciudad tiene una cofradía de magos de nivel 5, el héroe puede usar el hechizo Portón de Ciudad para teleportarse de vuelta a esta ciudad. No se le permite abandonar el puesto y no podrá teleportarse a otras ciudades.
+-Si el héroe tiene algún artefacto de las Galas de la Legión, las tropas irán directamente a los enclaves de la ciudad y la cantidad será calculada como si el héroe tuviera 5 puntos más de Conocimiento.
 
 Obligaciones:
 
--El Héroe debe permanecer dentro de un radio de 50 casillas alrededor de esta ciudad. Fuera de este radio, el Héroe perderá más y más puntos de movimiento cuanto más vaya, también se eliminarán los bonos otorgados por la ciudad. Los gobernadores inferiores al nivel 5 también pierden algunos puntos de movimiento cuando están cerca de la ciudad.
--El Héroe no puede usar más de 10 cristales de sangre de dragón, el exceso de cristales se volverá funcional después de la renuncia.
--El Héroe solo puede renunciar al contrato cuando se encuentre en la puerta de esta ciudad. El Héroe está obligado a gobernar esta ciudad durante al menos un mes, si el Héroe decide renunciar antes debe pagar una multa a los habitantes de la ciudad igual a la cantidad de días que no están en el cargo * su nivel * 100.
+-El héroe debe limitarse un radio de 50 casillas alrededor de esta Ciudad. Fuera de esta zona, el héroe perderá más y más puntos de movimiento cuanto más se aleje, asi como todos los beneficios concedidos por la ciudad. Los Gobernadores de nivel 5 o menos también perderán algo de movimiento cerca de la ciudad.
+-El héroe no podrá hacer uso de más de 10 Cristales de Sangre de Dragón, los que tenga en exceso se activarán una vez dimita.
+-El héroe solo podrá rescindir el contrato estando frente a las puertas de la ciudad. El héroe estará obligado a gobernar esta ciudad durante un mes. Si decide dimitir antes, deberá pagar una multa a los habitantes de la ciudad igual a 100 veces su nivel por cada día restante de su mandato.
 
 -------------------------------------------------------------------------------
 
-OK = Firmar el contrato
+Aceptar = Firmar el Contrato
 Cancelar = Rechazar

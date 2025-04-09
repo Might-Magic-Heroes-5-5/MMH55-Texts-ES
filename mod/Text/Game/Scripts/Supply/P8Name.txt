@@ -1,1 +1,1 @@
-﻿<color=8B4513>Suplemento (Jugador 8)
+﻿<color=8B4513>Proveedor (Jugador 8)

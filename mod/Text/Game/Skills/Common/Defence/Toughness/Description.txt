@@ -1,1 +1,1 @@
-﻿El Heroe adquiere el artefacto Combat Aid Kit y Aumenta los Puntos de Vida de todas tus criaturas en 2.<color_default><br>Los Heroes de Necropolis no obtienen el artefacto.
+﻿El héroe obtiene el artefacto Botiquín de Combate y aumenta en 2 los puntos de vida de todas las criaturas de su ejército permanentemente.<br><color_default>Los héroes de Necropolis solo obtienen la bonificación de HP.

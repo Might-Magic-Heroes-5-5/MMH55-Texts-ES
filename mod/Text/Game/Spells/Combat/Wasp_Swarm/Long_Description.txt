@@ -1,1 +1,1 @@
-﻿Invoca un enjambre de insectos que infligen daño mágico a la criatura enemiga seleccionada. La criatura se distraerá y su turno se retrasará un 0.2,0.25,0.3 or 0.4, según el nivel de maestría. <br><color_default> El hechizo no funciona en unidades no muertas, elementales y mecánicas.
+﻿Convoca una nube de insectos que distrae y causa daño a la criatura enemiga seleccionada.<br><br><color_default>Reduce -0.2/0.25/0.3/0.4 el valor ATB del objetivo con maestría 0/1/2/3 en Magia de la Convocación, respectivamente. No tiene efecto en unidades no-muertas, elementales ni mecánicas.

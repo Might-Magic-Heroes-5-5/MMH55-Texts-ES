@@ -1,1 +1,1 @@
-﻿Permite al Héroe crear equipos de criatura del primer nivel.
+﻿Habilidad de Aventura: Permite al héroe crear Mini-artifactos del primer nivel para las criaturas.

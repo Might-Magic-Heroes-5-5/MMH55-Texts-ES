@@ -1,1 +1,1 @@
-﻿Todas las tropas que protegen esta ciudad obtienen un bonificador de +1 a su Suerte.
+﻿Todas las tropas que protegen esta ciudad obtienen una bonificación +1 a su Suerte.

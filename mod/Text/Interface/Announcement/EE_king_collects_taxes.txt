@@ -1,1 +1,1 @@
-﻿El Rey recolectó <value=number> de oro en impuestos
+﻿El Rey recolecta <value=number> monedas de oro de tu fortuna como impuestos

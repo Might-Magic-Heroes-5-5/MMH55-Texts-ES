@@ -1,6 +1,6 @@
-﻿+50 puntos de movimiento después de cada batalla en tierra<br><br><color=default>
-El Heroe no pierde puntos de moviemiento por entrar en Combate, no se acumula con otros bonos similares<br><br><color=purple>
-Conjunto Pirata<color_default><br>
+﻿+50 puntos de movimiento tras cada batalla en tierra<br><color_default>
+El héroe no gastará puntos de movimiento por entrar en combate. Esto no es acumulable con los talentos Arrebatar o Saqueador.<br><br><color=purple>
+Indumentaria Pirata<color_default><br>
 +6 Ataque (3/6)<br>
 +12 Ataque (6/6)<br>
-*La bonificación se aplica después de cerrar el inventario.
+<br>*La bonificación del conjunto se aplica tras cerrar el Inventario.

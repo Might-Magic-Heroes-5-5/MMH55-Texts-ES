@@ -1,1 +1,1 @@
-﻿<color=yellow>¡Ganaste la habilidad de convertir ciudades!
+﻿<color=yellow>¡Has ganado la habilidad de Convertir Ciudades!

@@ -1,1 +1,1 @@
-﻿Mueren las criaturas en todas las guarniciones. Ninguna criatura crece en numero.
+﻿Mueren las criaturas en todos los enclaves. No hay crecimiento de criaturas.

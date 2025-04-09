@@ -1,2 +1,1 @@
-﻿-1 Moral a las criaturas enemigas<br>
--1 Suerte a las criaturas enemigas
+﻿Reduce -1 la Moral y la Suerte de las criaturas enemigas.

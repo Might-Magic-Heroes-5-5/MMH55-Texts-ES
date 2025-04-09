@@ -1,1 +1,1 @@
-﻿<color=green>Al disloverse tu gema <value=num> <value=upgtype>s son invocados!
+﻿<color=green>¡Al disolverse tu Gema se convocan <value=num> <value=upgtype>!

@@ -1,1 +1,1 @@
-﻿Disminuye el daño infligido a tus criaturas en Combate cuerpo a cuerpo en un 20%. Aumenta la curacion de la tienda de primeros auxilios en 40 PS.
+﻿Disminuye un 20% el daño provocado a tus criaturas en combate cuerpo a cuerpo. La Tienda de Primeros Auxilios aumenta su poder de curación en +40HP.

@@ -1,2 +1,2 @@
-﻿<color_default>Mejora de la Cabina de Cazadores.<br>
-<color_bright>La Choza de Cazadores te permite reclutar Cazadores y sus mejoras
+﻿<color_default>Una mejora de las Cabañas de Cazadores.<br>
+<color_bright>El Refugio de Cazadores te permite reclutar Maestros Cazadores y Saeteros Silvanos.

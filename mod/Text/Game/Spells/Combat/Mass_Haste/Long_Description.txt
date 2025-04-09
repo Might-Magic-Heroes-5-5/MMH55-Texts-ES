@@ -1,1 +1,1 @@
-﻿Hace que todas las unidades aliadas actúen con más frecuencia en Combate. Si cualquier objetivo está bajo la influencia del hechizo Lentitud, persistira el hechizo con el Poder Mágico superior.
+﻿Hace que todas las unidades amigas actúen con mayor frecuencia en el combate. Si el objetivo tiene el efecto del hechizo Retardar, ambos hechizos seguirán activos y la diferencia de poder de los lanzadores determinará el resultado.

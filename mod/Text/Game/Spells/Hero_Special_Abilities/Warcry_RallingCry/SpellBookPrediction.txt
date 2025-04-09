@@ -1,1 +1,1 @@
-﻿Aumenta la Moral en <value=enchant>.<br>Aumenta la Ira del ejercito en <value=army_rp>.
+﻿Aumenta la Rabia del ejército +<value=army_rp>.<br>Aumenta la Moral +<value=enchant>.

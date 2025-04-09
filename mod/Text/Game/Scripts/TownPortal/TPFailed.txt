@@ -1,1 +1,1 @@
-﻿<color=red>¡Pórtico a la Ciudad ha fallado!, asegurate que hay espacio en la guarnición.
+﻿<color=red>¡Portón de Ciudad a fallado! Asegurate de que hay espacio en la guarnición.

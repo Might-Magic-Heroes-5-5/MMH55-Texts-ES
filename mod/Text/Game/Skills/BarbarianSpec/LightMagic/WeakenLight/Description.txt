@@ -1,2 +1,1 @@
-﻿Si un enemigo lanza cualquier hechizo de Magia de la Luz, su Poder Mágico se considera un 30% inferior a lo normal.<br><br><color=orange>Don de Malassa<color_default><br>
-El Héroe aumenta su favor con el Dragón Dios de las Tinieblas y aumenta su Conocimiento por 2.
+﻿La Potencia de Hechizo del héroe aumenta en 2 y si alguien lanza un conjuro de Magia de la Luz, su Potencia de Hechizo se considera un 15% inferior a la normal.

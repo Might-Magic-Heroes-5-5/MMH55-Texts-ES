@@ -1,1 +1,1 @@
-﻿Al atacar unidades Vivientes, esta criatura drena 30% del daño causado y lo usa para restaurar puntos de vida, e incluso revivir criaturas caídas.
+﻿Cuando ataca a las unidades enemigas, esta criatura puede drenar su salud y utilizarla para restaurar la suya propia o incluso para resucitar a algunas de las criaturas muertas. La cantidad de puntos de vida absorvidos es igual al 30% del daño infligido.

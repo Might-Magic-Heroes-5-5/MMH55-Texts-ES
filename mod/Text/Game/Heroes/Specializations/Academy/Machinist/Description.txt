@@ -1,1 +1,1 @@
-﻿Artesano de Gólems: Todos los Golems de Hierro y sus mejoras en el ejército del Héroe pueden actuar inmediatamente al comienzo del Combate, ademas ganan +1 en su Ataque y Defensa por cada 2 niveles del Héroe, comenzando en el primer nivel.
+﻿Fabricante Golem: Todos los Golems de Hierro, Golems de Acero y Golems Magnéticos del ejército del héroe podrán actuar de inmediato al comenzar el combate. Todos los Golems del ejército del héroe ganan también +1 a su Ataque y Defensa por cada dos niveles del héroe.

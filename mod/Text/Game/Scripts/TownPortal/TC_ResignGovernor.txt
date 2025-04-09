@@ -1,1 +1,1 @@
-﻿<color=yellow>¡Debes despedir al Gobernador de la ciudad antes!
+﻿<color=yellow>¡El gobernador de esta ciudad debe dimitir primero!

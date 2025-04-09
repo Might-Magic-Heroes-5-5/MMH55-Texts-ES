@@ -1,1 +1,1 @@
-﻿La habilidad Imbuir Flecha ahora también afectará a la balista. Todos los disparos de balista llevarán los encantamientos del Héroe y, por lo tanto, consumirán su maná. 
+﻿El talento Imbuir Flecha afecta ahora también a la Balista. Todos los disparos de la Balista llevarán los encantamientos del héroe y por lo tanto reducirán su Maná.

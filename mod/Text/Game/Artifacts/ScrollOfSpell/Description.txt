@@ -1,2 +1,3 @@
 ﻿+2 Conocimiento<br>
-Permite lanzar el hechizo <value=spell_name> a un nivel de maestría Avanzado desde este pergamino (al menos que el nivel de maestría del Héroe sea mayor).
+Permite usar el hechizo <value=spell_name>.
+<br><color_default>Los Caudillos no podrán lanzar el hechizo pero reciben la bonificación de Conocimiento.

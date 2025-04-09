@@ -1,1 +1,1 @@
-﻿Esto regula cuántos edificios de actualización se colocan en las zonas del tesoro y su valor, Reequilibrado desde RC15, ajústelo más bajo para que sea más difícil encontrar artefactos raros o más alto para lo contrario.
+﻿Esto regula cuantos de edificios de mejoras habrá en las zonas de tesoro e indirectamente el valor de los artefactos. Reajustado desde el parche RC15, configuralo más bajo para que sea más difícil encontrar artefactos poco comunes o más alto para lo contrario.

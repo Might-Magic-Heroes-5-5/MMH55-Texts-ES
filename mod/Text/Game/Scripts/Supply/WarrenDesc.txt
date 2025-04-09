@@ -1,1 +1,1 @@
-﻿Otorga al jugador una cantidad aleatoria (3-7) de un recurso aleatorio cada semana. El tipo de recurso nunca es madera u oro.
+﻿Concede al jugador una cantidad aleatoria (3-7) de un recurso al azar cada semana. El recurso aleatorio nunca será ni Madera ni Oro.

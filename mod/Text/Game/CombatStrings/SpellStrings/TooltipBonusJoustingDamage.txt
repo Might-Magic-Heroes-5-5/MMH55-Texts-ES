@@ -1,1 +1,1 @@
-﻿<color_default>+<value=damage>% Daño de justa
+﻿<color_default>+<value=daño>% daño de Justa

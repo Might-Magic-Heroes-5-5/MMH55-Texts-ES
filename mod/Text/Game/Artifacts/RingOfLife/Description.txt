@@ -1,1 +1,1 @@
-﻿+2 Puntos de vida máximos para todas las criaturas aliadas
+﻿Aumenta +2 los puntos de vida de todas las criaturas aliadas.

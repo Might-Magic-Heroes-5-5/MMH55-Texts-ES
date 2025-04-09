@@ -1,1 +1,1 @@
-﻿Clase: Caballero de la Muerte<br>Especialización: Princesa Vampira<br><br><body_bright>Todos los Vampiros y sus mejoras en el ejército del Héroe ganan +1 a su Ataque y Defensa por cada 2 niveles, comenzando en el primer nivel.<br><color_default>Comienza con Ofensiva Avanzada.
+﻿Clase: Caballero de la Muerte<br>Dote: Princesa Vampiro<br><br><body_bright>Todos los Vampiros, Maestros Vampiro y Príncipes Vampiro del ejército del héroe ganan +1 a su Ataque y Defensa por cada dos niveles del héroe.<br><br><color_default>Empieza con<br>Ofensiva Avanzada.

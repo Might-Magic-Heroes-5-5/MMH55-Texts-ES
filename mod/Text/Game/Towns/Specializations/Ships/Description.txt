@@ -1,1 +1,1 @@
-﻿El astillero de la ciudad construye barcos por la mitad del costo estándar (500 oro + 5 madera).
+﻿El Astillero de la ciudad hace barcos por la mitad del coste habitual (500 Oro + 5 Madera).

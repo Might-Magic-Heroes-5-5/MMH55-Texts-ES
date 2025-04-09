@@ -1,2 +1,2 @@
-﻿+2 Poder Mágico<br>
-+2 maná por día si está equipado siempre
+﻿+2 Potencia de Hechizo<br>
++2 Maná por día equipado sin interrupción

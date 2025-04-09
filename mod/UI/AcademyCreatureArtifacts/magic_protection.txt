@@ -1,1 +1,1 @@
-﻿+ <value=val>% Daño Magico reducido
+﻿+ <value=val>% a la resistencia mágica.

@@ -1,3 +1,3 @@
-﻿Permite lanzar hechizos de Magia de la Luz sin restricciones.<br><br><color=orange>
+﻿Permite usar todos los hechizos de Magia de la Luz, independientemente de la habilidad que se tenga en esta escuela.<br><br><color=orange>
 Misión<color_default><br>
-Lleva los 4 tomos a un Mentor para recibir una recompensa única.
+Trae los 4 Tomos a un Mentor de Memoria y recibe una recompensa excepcional.

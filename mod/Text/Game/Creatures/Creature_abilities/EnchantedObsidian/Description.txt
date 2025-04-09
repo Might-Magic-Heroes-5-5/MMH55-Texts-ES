@@ -1,1 +1,1 @@
-﻿Esta criatura es inmune a Magia Elemental (no a daño magico fisico). Cualquier hechizo que inflija daño mágico cura un 25% de su daño en la salud (con resurrección).
+﻿Esta criatura es completamente inmune a todo tipo de magia, excepto a la que inflige daño directo. Se sanará el 25% de daño de cualquier hechizo que cause daño mágico (con resurrección).

@@ -1,1 +1,1 @@
-﻿Cuando esta criatura ataca a un enemigo, el hechizo Melancolía (sin nivel) se lanza automáticamente sobre el objetivo.
+﻿Cuando esta criatura ataca a un enemigo, le aplica automáticamente el hechizo Tristeza (sin maestría).

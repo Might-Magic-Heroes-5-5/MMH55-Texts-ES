@@ -1,1 +1,1 @@
-﻿Se duplica el coste de hechizos.
+﻿Los hechizos cuestan el doble de maná.

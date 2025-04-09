@@ -1,1 +1,1 @@
-﻿La mitad de las criaturas en todas las barracas mueren (el mínimo restante es uno). Solo la mitad del crecimiento para todas las criaturas.
+﻿Mueren la mitad de las criaturas en todas los enclaves (quedará al menos una). Sólo habrá la mitad de crecimiento para todas las criaturas.

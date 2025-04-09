@@ -1,0 +1,1 @@
+﻿Disipa todos los efectos negativos impuestos a la criatura (sólo los que se puedan disipar de forma básica).

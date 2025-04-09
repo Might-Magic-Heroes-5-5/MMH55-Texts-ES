@@ -1,1 +1,1 @@
-﻿Mostrar\Ocultar Interfaz de Combate
+﻿Ver\Ocultar UI de Combate

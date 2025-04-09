@@ -1,1 +1,1 @@
-﻿<color=red>No hay ciudades con una Cofradía de Nivel 5, o ya están ocupadas.
+﻿<color=red>No hay ciudad con Cofradía de Magos nivel 5 o están ocupadas.

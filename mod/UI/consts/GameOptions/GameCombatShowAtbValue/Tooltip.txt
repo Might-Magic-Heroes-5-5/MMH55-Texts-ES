@@ -1,1 +1,1 @@
-﻿If selected, the 'Active Time Battle' value is shown for each unit on the bar in combat. When the ATB value of a unit reaches 1, it will act in combat. ATB values can be manipulated in combat with abilities.
+﻿Muestra el valor de 'Active Time Battle – Tiempo Activo de Batalla' para cada unidad en la barra de iniciativa. Una unidad toma acción en combate cuando su valor ATB llega a 1, y este valor puede ser manipulado mediante diferentes habilidades.

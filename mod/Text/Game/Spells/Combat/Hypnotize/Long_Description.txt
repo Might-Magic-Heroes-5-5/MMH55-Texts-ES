@@ -1,1 +1,1 @@
-﻿Le da al Héroe control temporal sobre la unidad enemiga seleccionada. La unidad bajo este hechizo no puede contraatacar (se requiere un nivel experto para obtener control sobre criaturas de nivel 7).<br><color_default>El hechizo no funciona en unidades no muertas, elementales y mecánicas.
+﻿Permite al héroe controlar temporalmente la unidad enemiga seleccionada. La unidad hipnotizada no puede contragolpear.<br><br><color_default>Se necesita Magia de la Convocación Experta para controlar criaturas de Tipo 7. No tiene efecto en unidades no-muertas, mecánicas ni elementales.

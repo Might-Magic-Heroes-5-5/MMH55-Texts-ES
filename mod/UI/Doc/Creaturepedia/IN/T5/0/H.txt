@@ -1,1 +1,1 @@
-﻿Infierno<br>Nivel 5<br>Criatura Base
+﻿Inferno<br>Tipo 5<br>Criatura Base

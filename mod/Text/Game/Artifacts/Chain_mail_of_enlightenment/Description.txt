@@ -1,4 +1,4 @@
-﻿+3 Poder Mágico<br>
-+20 % de ganancia de experiencia<br><br>
-<color=purple>Vestimenta del Entendimiento<color_default><br>
-El Héroe recibe una cantidad de experiencia todos los días por usar tanto el Turbante como la Cota de Malla. La cantidad es igual a la cantidad de días pasados * 10.
+﻿+3 Potencia de Hechizo<br><br>
+Aumenta +20% toda la experiencia que adquiera el héroe.<br><br>
+<color=purple>Vestimenta de Ilustración<color_default><br>
+Recibe experiencia cada día igual a 10 veces los días transcurridos. (2/2)

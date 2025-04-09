@@ -1,1 +1,1 @@
-﻿La Criatura lanza un Relámpago que causa daño mágico igual a (40 * Tamaño del grupo). Puede ser usado a pesar de tener unidades enemigas adyacentes.
+﻿La criatura dispara un rayo que causa daño mágico al objetivo seleccionado igual a 40 veces el tamaño del pelotón de Titanes. Se puede utilizar para atacar a distancia incluso cuando el pelotón está envuelto en combate cuerpo a cuerpo.

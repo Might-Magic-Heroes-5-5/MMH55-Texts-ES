@@ -1,1 +1,1 @@
-﻿Una vez por Combate, esta criatura puede atacar a cualquier enemigo seleccionado en el campo y someterlo a "Marca de fuego" (habilidad activable).
+﻿Una vez por combate, esta criatura puede atacar a cualquier enemigo seleccionado del campo de batalla, infligiendo su daño normal sin penalización por distancia y colocándole una "Marca de Fuego" (habilidad activable).

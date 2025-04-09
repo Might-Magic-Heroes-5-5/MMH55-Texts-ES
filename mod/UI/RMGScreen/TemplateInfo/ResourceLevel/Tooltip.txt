@@ -1,1 +1,1 @@
-﻿Esto regula la cantidad de de recursos libres en las áreas iniciales de los jugadores.
+﻿Esto ajusta la cantidad de pilas de recursos alrededor de la zona de inicio de los jugadores.

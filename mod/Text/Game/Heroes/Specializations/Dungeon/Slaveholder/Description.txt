@@ -1,1 +1,1 @@
-﻿General Minotauro:Todos los Minotauros y sus mejoras en el ejército del Héroe ganan +1 a su Ataque y Defensa por cada 2 niveles, comenzando en el primer nivel, ademas podran actuar inmediatamente al inicio del Combate
+﻿Capitán Minotauro: Todos los Minotauros, Guardianes Minotauro y Capataces Minotauro del ejército del héroe podrán actuar de inmediato al comenzar el combate. Todos los Minotauros del ejército del héroe ganan también +1 a su Ataque y Defensa por cada dos niveles del héroe.

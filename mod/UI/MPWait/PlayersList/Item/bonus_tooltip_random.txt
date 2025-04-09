@@ -1,8 +1,8 @@
 ﻿<br><color=white>Importante: <color_default>
-Iniciar el mapa en esta dificultad dara una dificultada aleatoria
-<br><color=white>Bono de Inicio: <color_default>
-Sin importar que modo eligas, los heroes iniciales recibiran un artefacto adicional y un bono de criaturas,los heroes de la taberna tendran menos unidades.
+Esto es solo un texto de ayuda; NO empieces la partida en esta configuración o el modo será aleatorio!
+<br><color=white>Bonificación Inicial: <color_default>
+Indistintamente de qué modo escojas ahora, los héroes iniciales siempre reciben criaturas adicionales y un artefacto menor al azar. Los héroes de la Taberna tienen menos tropas.
 <br><color=white>Escenarios: <color_default>
-Los escenarios solo se pueden jugar en el modo Casual o Predeterminado, si seleccionas Violento o Pesadilla el juego retornara a Predeterminado. Convertir Ciudad, Gobernancia y Control de minas estaran desabilitados.
-<br><color=white>Multijugador: <color_default><br>
-En juegos sin jugadores IA, el modo sera Predeterminado, mapas ARMG recien creados no funcionan en Silla Caliente ni en Lan sin activacion de Scripts. (Usar la aplicacion Mapmixer incluida para arreglar)
+Los escenarios solo se pueden jugar en modo Casual o Estándar, si eliges Brutal o Pesadilla la partida empezará en modo Estándar. La Conversión de Ciudad, Gobierno y Control de Mina siempre está desactivado en estos mapas.
+<br><color=white>Multijugador: <color_default>
+En partidas sin IA, se revertirá a modo Estándar. Los nuevos mapas de ARMG que generes no funcionarán en Hotseat o Red local si no activas previamente los scripts del mapa (para esto, usa el programa mapmixer que encontrarás en el directorio del juego).

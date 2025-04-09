@@ -1,2 +1,1 @@
-﻿Permite el control manual de la catapulta y la catapulta obtiene un disparo adicional.El Heroe tambien recibe los beneficios del carro de munición<br><color_default>
-Restaura el carro de munición después de la batalla si fue destruido. Los puntos de vida de la catapulta y del carro de munición se duplican por 3.
+﻿Permite el control manual de la Catapulta. La catapulta gana un disparo extra. El héroe también recibirá la bonificación al Ataque que el Carro de Munición concede a las unidades a distancia.<br><color_default>Si el Carro de Munición ha sido destruido, será restaurado tras la batalla. Triplica los puntos de vida de la Catapulta y el Carro de Munición.

@@ -1,1 +1,1 @@
-﻿Permite actualizar una Runa previamente colocada (seleccionada al azar si es que hay muchas) en la criatura seleccionada. El Héroe pasa un turno completo para refrescar una Runa. Una vez refrescado en una criatura, la Runa vuelve a estar disponible al costo normal.
+﻿El héroe aprende la Runa del Berserker y obtiene la habilidad de restaurar al azar el efecto de una Runa colocada anteriormente sobre una criatura. Esto consume solo la mitad del turno del héroe. Tras restaurarse, la Runa vuelve a estar disponible al coste habitual.

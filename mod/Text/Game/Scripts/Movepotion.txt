@@ -1,1 +1,1 @@
-﻿<color=yellow>El efecto de tu poción de energía comienza a hacer efecto!
+﻿<color=yellow>¡Tu poción de movimiento empieza a hacer efecto!

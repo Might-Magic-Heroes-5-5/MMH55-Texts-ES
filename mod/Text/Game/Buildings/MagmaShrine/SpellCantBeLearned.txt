@@ -1,1 +1,1 @@
-﻿El hechizo Runico <value=spell> no puede ser aprendido. Se necesita <value=skill>.
+﻿El hechizo de las Runas <value=spell> no puede ser aprendido. Se necesita <value=skill>.

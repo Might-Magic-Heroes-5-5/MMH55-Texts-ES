@@ -1,1 +1,1 @@
-﻿(Mano izquierda) Aumenta el ataque del Héroe en +5.
+﻿(Mano izquierda) Aumenta el Ataque del héroe +5.

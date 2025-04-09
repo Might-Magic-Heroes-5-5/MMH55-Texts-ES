@@ -1,1 +1,1 @@
-﻿<color_default>+<value=proof>% Resistencia Magica
+﻿<color_default>+<value=proof>% resistencia mágica

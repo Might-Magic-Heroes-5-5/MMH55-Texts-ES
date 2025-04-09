@@ -1,8 +1,8 @@
-﻿+1 a todas las Habilidades Primarias<br>
-+100 puntos de movimiento después de cada batalla en tierra<br><br><color=purple>
-Armadura del Héroe olvidado<color_default><br>
-+1 a todas las Habilidades Primarias (2/4)<br>
-+2 a todas las Habilidades Primarias (4/4)<br>
-*La bonificación se aplica después de cerrar el inventario.<br><br><color=orange>
+﻿+1 a todos los Atributos Principales<br>
++100 puntos de Movimiento después de cada batalla en tierra<br><br><color=purple>
+Armadura del Héroe Olvidado<color_default><br>
++1 a todos los Atributos Principales (2/4)<br>
++2 a todos los Atributos Principales (4/4)<br>
+<br>*La bonificación del conjunto se aplica tras cerrar el Inventario.<br><br><color=orange>
 Misión<color_default><br>
-Lleva las 4 piezas de la armadura del Héroe olvidado a un comerciante de artefactos y recibe una recompensa única.
+Trae las 4 piezas del Armadura del Héroe Olvidado a un Mercader de Artefactos y recibe una recompensa excepcional.

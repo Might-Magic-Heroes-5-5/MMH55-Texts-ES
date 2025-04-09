@@ -1,1 +1,1 @@
-﻿Clase: Brujo<br>Especialización: Catalizador<br><br><body_bright>El coste de maná de los hechizos Potenciados se reduce en un 20% + 0.25% por nivel del Héroe.<br><color_default>Comienza con Magia Destructiva Básica.
+﻿Clase: Brujo<br>Dote: Catalizador<br><br><body_bright>El coste de maná de los hechizos reforzados se reduce en -20% y -0.25% adicional por cada nivel del héroe.<br><br><color_default>Empieza con<br>Magia Destructiva Básica.

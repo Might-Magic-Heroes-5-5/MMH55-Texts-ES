@@ -1,1 +1,1 @@
-﻿<color=yellow>¡Esta misión ya ha sido completada!
+﻿<color=yellow>¡Has completado esta misión!

@@ -1,1 +1,1 @@
-﻿Debilita la ofensiva de la unidad enemiga objetivo. Si el objetivo está bajo la influencia del hechizo Fuerza Justa persistira el hechizo con el Poder Mágico superior.
+﻿Reduce el Ataque de todas las unidades enemigas en una cantidad proporcional a la Potencia de Hechizo. Si el objetivo tiene el efecto del hechizo Fuerza Justa, ambos efectos se mantienen y la diferencia de poder de los lanzadores determinará el resultado.

@@ -1,1 +1,1 @@
-﻿El Héroe gana +2 Poder Mágico y regenera 6 maná adicionales cada día. El Héroe también aprende un nuevo hechizo aleatorio de nivel 1-3, para el cual tiene los requisitos previos de habilidad.
+﻿El héroe gana +2 a la Potencia de Hechizo y la continuará incrementando en +1 por cada 10 niveles. Recibe también un nuevo hechizo al azar del 1er al 3er círculo, para el cual reúne los requsitos.

@@ -1,1 +1,1 @@
-﻿Reduce la velocidad de todas las criaturas enemigas en -1.
+﻿Disminuye en -1 la velocidad de las criaturas enemigas.

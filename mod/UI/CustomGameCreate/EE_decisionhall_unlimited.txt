@@ -1,1 +1,1 @@
-﻿<value_name>Salón de la Decisión: <value_value>nunca
+﻿<value_name>Pabellon de Decisión: <value_value>nunca

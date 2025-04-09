@@ -1,4 +1,4 @@
-﻿Los campos de entrenamiento para mejorar criaturas se han cerrado permanentemente, pero el intendente todavía está dispuesto a darte un entrenamiento de Combate Avanzado.
- 
-OK = +2 Attack
-Cancel = +2 Defense
+﻿El campo de instrucción para mejorar las criaturas ha sido clausurado permanentemente, pero el Maestro de Armas está dispuesto a mejorar tu entrenamiento de combate.
+
+Aceptar = +2 Ataque
+Cancelar = +2 Defensa

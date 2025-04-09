@@ -1,1 +1,1 @@
-﻿<color=yellow>Has liberado <value=num> prisioneros (<value=upgtype>s).
+﻿<color=yellow>Has liberado <value=num> prisioneros (<value=upgtype>).

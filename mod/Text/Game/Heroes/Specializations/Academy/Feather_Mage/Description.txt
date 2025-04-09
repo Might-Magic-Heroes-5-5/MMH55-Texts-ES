@@ -1,1 +1,1 @@
-﻿Portavoz del viento: los turnos del Héroe son más rápidos en Combate según el nivel del Héroe. La iniciativa del Héroe se convertirá en 11.5 + 0.025 * nivel de Héroe (en lugar de 11).
+﻿Oradora de los Vientos: Los turnos del héroe llegan antes en combate dependiendo de su nivel. La Iniciativa del héroe aumenta hasta exactamente 11.5 +0.025(Nivel), en vez de 11.

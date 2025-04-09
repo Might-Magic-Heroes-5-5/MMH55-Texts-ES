@@ -1,1 +1,1 @@
-﻿<color=yellow><value=name> añadido al libro de hechizos.
+﻿<color=yellow><value=name> se añade al libro de hechizos.

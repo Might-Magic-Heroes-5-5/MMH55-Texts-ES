@@ -1,1 +1,1 @@
-﻿Mano de Hierro<br><br><body_bright>Los disparos de Balista bajo el mando del Héroe tienen un efecto de bola de fuego. el Daño es igual a 24*Poder, donde el poder es igual a -2.33 + Nivel de herore/5 redondeado arriba. Las habilidades del Héroe (como Maestro de llamas) no se tienen en cuenta.
+﻿Doncella de Hierro: Los tiros de la Balista obtienen el efecto de bola de fuego. El daño de la Bola de Fuego es igual a 8 por cada nivel del héroe, comenzando a partir del nivel 8. Los talentos del héroe —como Maestro del Fuego— no se tendrán en cuenta.

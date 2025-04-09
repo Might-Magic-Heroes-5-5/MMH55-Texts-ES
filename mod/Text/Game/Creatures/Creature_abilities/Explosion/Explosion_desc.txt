@@ -1,1 +1,1 @@
-﻿Esta criatura lanza el hechizo Bola de Fuego a su alrededor, dañando todas las criaturas circundantes excepto a sí mismo, el daño es igual al Poder Mágico del grupo * 40.
+﻿La criatura lanza el hechizo Bola de Fuego a todas las criaturas a su alrededor, pero no se daña a sí misma. El daño infligido por la Bola de Fuego es igual a 24 veces el tamaño del pelotón. Capacidad activable.

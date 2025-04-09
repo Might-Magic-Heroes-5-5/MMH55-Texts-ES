@@ -1,1 +1,1 @@
-﻿Hay más jugadores humanos en el mapa. ¿Te gustaría unirte a ellos contra los jugadores de la IA? (¡Siempre presione Cancelar si este mapa tiene su propia configuración de equipo!)
+﻿Hay otros jugadores humanos en este mapa. ¿Quieres aliarte con ellos y jugar contra la IA? (Escoge Cancelar siempre que el mapa tenga su propia configuración de equipos!)

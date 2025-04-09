@@ -1,1 +1,1 @@
-﻿<color=yellow>Poder Mágico incrementado.
+﻿<color=yellow>Potencia de Hechizo aumentada.

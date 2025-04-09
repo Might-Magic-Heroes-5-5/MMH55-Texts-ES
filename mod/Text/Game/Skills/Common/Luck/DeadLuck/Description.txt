@@ -1,1 +1,1 @@
-﻿El Héroe aprende el hechizo Melancolía y la Suerte de todas las tropas enemigas en Combate se reduce en 1.
+﻿El héroe aprende el hechizo Tristeza y la Suerte de todas las tropas enemigas en combate se reduce -1.<br><color_default>Los Caudillos no aprenden el hechizo Tristeza.

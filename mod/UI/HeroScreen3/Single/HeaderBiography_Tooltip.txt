@@ -1,1 +1,1 @@
-﻿La Clase del Héroe y su especialización, que representa su glorioso pasado.
+﻿Aquí se muestra la clase del héroe y su dote, así como su biografía, describiendo su glorioso pasado.

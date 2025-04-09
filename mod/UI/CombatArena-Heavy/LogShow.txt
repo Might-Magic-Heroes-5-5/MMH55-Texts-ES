@@ -1,1 +1,1 @@
-﻿Mostrar registro del Combate <hotkey=input_switch_atb_log>.
+﻿Ver Registro de Combate <hotkey=input_switch_atb_log>.

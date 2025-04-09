@@ -1,1 +1,1 @@
-﻿<color=yellow>¡Los guardias del templo han destruido el portal!
+﻿<color=yellow>¡Los Guardianes del Templo han destruido el portal!

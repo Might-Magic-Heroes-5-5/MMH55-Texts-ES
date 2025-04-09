@@ -1,1 +1,1 @@
-﻿<color=yellow> La bruja cree que ya sabes demasiado. 
+﻿<color=yellow>La bruja cree que ya has aprendido demasiado.

@@ -1,1 +1,1 @@
-﻿Clase: Mago Rúnico<br>Especialización: Artista Rúnico<br><br><body_bright>Las probabilidades de éxito con la Runa Fina se incrementan en + 1% para cada nivel del Héroe.<br><color_default>Comienza con magia de Invocación Básica.
+﻿Clase: Mago de las Runas<br>Dote: Prodigio<br><br><body_bright>El héroe empieza con +1 Conocimiento y aprende una habilidad primaria al azar cada 6 niveles.<br><br><color_default>Empieza con<br>Magia de la Convocación Básica.

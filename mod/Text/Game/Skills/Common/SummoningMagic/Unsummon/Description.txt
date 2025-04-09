@@ -1,1 +1,1 @@
-﻿Habilidad de Combate especial. Inflige mucho daño a todos los grupos convocados o invocados, igual a 120+  (40 * Nivel Heroe), La habilidad cuesta 20 de maná y restablece el valor ATB del héroe a 0.24 tras su uso.
+﻿El héroe obtiene +2 Potencia de Hechizo y la habilidad especial de combate para hacer daño masivo a todas las tropas convocadas e invocadas, igual a 120 + 40(Nivel). Esta habilidad cuesta 20 Maná y restaura el valor ATB del héroe a 0.24 tras su uso.

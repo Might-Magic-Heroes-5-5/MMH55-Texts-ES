@@ -1,1 +1,1 @@
-﻿+10 % de iniciativa a todas las criaturas aliadas y maquinas de guerra.
+﻿Aumenta +10% la Iniciativa de todas las unidades.

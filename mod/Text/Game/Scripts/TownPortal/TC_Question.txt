@@ -1,1 +1,1 @@
-﻿¿Quieres convertir esta ciudad?<br>Costo = Oro: <value=gold>, Madera: <value=wood>, Mineral: <value=ore>, Mercurio: <value=mercury>, Cristal: <value=crystal>, Azufre: <value=crystal>,Gemas: <value=gem><br><br>ADVERTENICA: ¡Retira las unidades de la guarnición o morirán!
+﻿¿Deseas convertir esta ciudad?<br>Costes = Oro: <value=gold>, Madera: <value=wood>, Mineral: <value=ore>, Mercurio: <value=mercury>, Cristal: <value=crystal>, Azufre: <value=sulphur>, Gemas: <value=gem><br><br>ATENCIÓN: ¡Mueve las tropas de la guarnición o serán eliminadas!

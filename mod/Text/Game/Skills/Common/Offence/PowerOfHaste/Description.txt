@@ -1,1 +1,1 @@
-﻿El Héroe adquiere el hechizo Rapidez Masiva en el nivel Experto <br><color_default>La iniciativa del Héroe se reinicia a 0.24 después de lanzar cualquier hechizo masivo, independientemente del nivel de Hechicería.
+﻿El héroe adquiere el hechizo Rapidez Masiva a nivel Avanzado.<br><color_default>El valor ATB del héroe se restaura a 0.24 tras lanzar cualquier Hechizo Masivo sin importar el nivel de Hechicería.

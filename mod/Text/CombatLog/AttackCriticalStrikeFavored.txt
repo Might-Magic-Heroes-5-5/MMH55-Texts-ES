@@ -1,1 +1,1 @@
-﻿<value=source_color><value=source> golpea a su enemigo favorito <value=target> con un golpe crítico:<value=font> <value=damage> daño realizado (<value=dead> muertos).
+﻿<value=source_color><value=source> ataca a su enemigo favorito <value=target> y le asesta un Golpe Crítico:<value=font> Causa <value=damage> puntos de daño (<value=dead> muerte/s).

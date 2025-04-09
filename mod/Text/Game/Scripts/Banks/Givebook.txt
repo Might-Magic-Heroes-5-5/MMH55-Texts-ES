@@ -1,1 +1,1 @@
-﻿<color=yellow>Encontraste un Libro de Habilidad.
+﻿<color=yellow>Has encontrado un Manuscrito.

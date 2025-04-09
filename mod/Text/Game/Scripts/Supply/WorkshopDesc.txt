@@ -1,1 +1,1 @@
-﻿Vende Máquinas de Guerra y otorga al jugador una cantidad aleatoria (3-7) de madera cada semana.
+﻿Vende Máquinas de Guerra y concede al jugador una cantidad aleatoria (3-7) de Madera cada semana.

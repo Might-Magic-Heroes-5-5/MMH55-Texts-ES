@@ -1,1 +1,1 @@
-﻿Las habilidades del Héroe, tanto las disponibles desde el inicio del juego hasta las aprendidas durante el juego.
+﻿La habilidad determinante de la clase del héroe y sus talentos aprendidos durante la partida.

@@ -1,1 +1,1 @@
-﻿Encierra a la criatura objetivo con un escudo de energía mágica que en parte drena todo el daño recibido hasta que se destruye. La eficacia depende del Poder Mágico y se puede lograr la invulnerabilidad completa si el lanzador tiene 60.
+﻿Envuelve al pelotón objetivo con un escudo mágico que reduce parte del daño recibido hasta agotar su capacidad.<br><color_default>La efectiviad de la reducción depende de la Potencia de Hechizo; con 60 P.Hechizo el escudo absorverá el 100% del daño recibido.

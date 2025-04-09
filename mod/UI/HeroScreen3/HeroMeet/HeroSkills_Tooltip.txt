@@ -1,1 +1,1 @@
-﻿Las habilidades del Héroe: las disponibles desde el principio y las aprendidas durante el juego. Afecta habilidades disponibles.
+﻿Las habilidades del héroe, tanto las disponibles desde el inicio del juego como las aprendidas durante el juego, influyen sobre los talentos disponibles.

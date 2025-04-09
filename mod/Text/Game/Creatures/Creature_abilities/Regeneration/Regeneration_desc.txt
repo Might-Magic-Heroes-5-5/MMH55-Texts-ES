@@ -1,1 +1,1 @@
-﻿Esta criatura restaura %15 de los puntos salud del grupo. Esta cantidad es determinada por batalla no por turno.
+﻿Esta criatura restaurará el 15% de la salud total del pelotón durante el combate. La cantidad es por combate, no por turno, y la criatura dejará de recibir puntos de vida una vez se haya agotado la regeneración.

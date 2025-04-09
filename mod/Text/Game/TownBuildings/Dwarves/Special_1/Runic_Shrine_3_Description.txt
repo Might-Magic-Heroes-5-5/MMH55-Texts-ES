@@ -1,3 +1,3 @@
-﻿<color_default>Una mejora del Santuario Rúnico Nivel 2.<br>
-<color_bright>Permite a un Héroe visitante aprender runas mágicas del quinto círculo rúnico.<br><br>
-<color=0099FF>Gobernancia<color_default><br>Concede al Gobernador de esta ciudad un +3 de bonificación de Conocimiento.
+﻿<color_default>Una mejora del Sagrario de las Runas de nivel dos.<br>
+<color_bright>Permite que un héroe visitante aprenda las Runas del 5.º círculo, y aumenta +3 la Potencia de Hechizo de todos los héroes Enanos que posean la habilidad Inscripción de Runas.<br><color_default>No cumulativo con múltiples ciudades.<br><br>
+<color=0099FF>Gobierno<color_default><br>Concede +3 Conocimiento al Gobernador de la Ciudad.

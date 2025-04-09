@@ -1,1 +1,1 @@
-﻿El ritual te ha recompensado con <value=num> Momias.
+﻿El ritual ha convocado <value=num> Momias.

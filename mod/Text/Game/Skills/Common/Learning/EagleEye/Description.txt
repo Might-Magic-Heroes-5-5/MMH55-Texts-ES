@@ -1,1 +1,1 @@
-﻿Permite al Héroe aprender hechizos desconocidos utilizados por un Héroe o criatura enemiga en Combate, siempre que se cumplan todos los requisitos previos para aprender el hechizo y para ver el contenido del inventario enemigo.
+﻿Permite al héroe aprender un hechizo desconocido —para el que cumple todos los requisitos— cuando un héroe o criatura contrincante lo usa en combate, además de ver el contenido del inventario del enemigo.

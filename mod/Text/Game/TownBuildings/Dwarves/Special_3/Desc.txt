@@ -1,1 +1,1 @@
-﻿El Puesto de Guardia te permite agregar unidades adicionales directamente al campo de batalla cuando defiendes a la ciudad y otorga +1 Defensaa las unidades Enanas.
+﻿Este edificio añade un pelotón adicional de Defensores direcamente al campo de batalla durante un asedio, y aumenta +1 la Defensa de todos los héroes Enanos.<br><color_default>La bonificación de defensa es cumulativa con otras ciudades. La cantidad de Defensores será igual a 4(Nivel de Ciudad)*(mes).

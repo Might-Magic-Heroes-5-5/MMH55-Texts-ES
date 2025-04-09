@@ -1,1 +1,1 @@
-﻿Inflige una plaga en el enemigo, que recibe daño de la tierra cada vez que realiza una acción.<br><color_default>El hechizo no funciona en unidades no muertas, elementales y mecánicas.
+﻿Pudre a un pelotón enemigo objetivo, de manera que cada vez que esté a punto de realizar una acción recibirá daño por tierra.<br><br><color_default>No tiene efecto en unidades no-muertas, elementales ni mecánicas.

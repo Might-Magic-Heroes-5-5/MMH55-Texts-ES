@@ -1,2 +1,2 @@
 ﻿+2 Defensa<br>
--40 % de daño recibido de hechizos Aire enemigos
++40% Resistencia Mágica contra los hechizos enemigos basados en el Aire.

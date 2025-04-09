@@ -1,5 +1,6 @@
 ﻿<color=red>Modo Pesadilla<color_default><br>
-* Los Héroes de IA no pueden ser saqueados.
-* Todos los jugadores de IA se unirán contra los jugadores humanos, el tiempo de cálculo de IA se reduce en mapas con múltiples jugadores de IA.
-* Los Héroes de IA nunca huyen del Combate y luchan hasta la muerte.
-* Los Encuentros tienen un crecimiento de +10%.
+* No puedes saquear los artefactos de los héroes de IA.
+* Todos los jugadores de IA se unirán en contra del jugador humano, reduce el tiempo de cálculo de la IA en mapas con múltiples jugadores de IA.
+* Si hay múltiples jugadores humanos, formarán equipo contra la IA.
+* Los héroes de IA nunca huyen de un combate y lucharán hasta la muerte.
+* Las Zonas de Batalla tienen +10% crecimiento.

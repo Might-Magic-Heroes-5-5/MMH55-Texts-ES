@@ -1,1 +1,1 @@
-﻿Se ha aprendido el hechizo Runico <value=spell>.
+﻿Se ha aprendido el hechizo de las Runas <value=spell>.

@@ -1,1 +1,1 @@
-﻿Revela áreas del mapa dentro de un cierto radio de los Ojos del Hechizero.
+﻿Muestra áreas del mapa que estén a un radio determinado de los Ojos de los Magos.

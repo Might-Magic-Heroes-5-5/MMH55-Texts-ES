@@ -1,1 +1,2 @@
-﻿El Silo de Recursos te proporciona un Cristal adicional cada día.
+﻿<color_default>Una mejora del Mercado.<br>
+<color_bright>El Silo de Recursos te da +1 Cristal adicional cada día.

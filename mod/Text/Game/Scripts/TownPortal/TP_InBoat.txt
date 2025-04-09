@@ -1,1 +1,1 @@
-﻿<color=red>No es posible teletransportarse desde un Barco!
+﻿<color=red>¡No puedes teletransportarte desde el barco!

@@ -1,1 +1,1 @@
-﻿Esta criatura inflige daño a todos los enemigos que se encuentran cerca de su objetivo, el daño infligido por tal ataque se comparte equitativamente entre los objetivos. El efecto no funciona en Contrataques.
+﻿Esta criatura hace daño a todos los enemigos que se encuentran cerca de su objetivo, repartiendo el daño de ese ataque por igual entre las unidades alcanzadas. Esta habilidad no tiene efecto en los contragolpes.

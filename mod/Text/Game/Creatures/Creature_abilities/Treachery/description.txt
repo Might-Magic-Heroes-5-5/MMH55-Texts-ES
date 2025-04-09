@@ -1,1 +1,1 @@
-﻿Si el número de estas criaturas cae por debajo del 20 por ciento de su número original, cambian de bando.
+﻿Si el número de unidades de este pelotón cae por debajo del 20% de las criaturas originales, traicionarán a su ejercito y cambiarán de bando.

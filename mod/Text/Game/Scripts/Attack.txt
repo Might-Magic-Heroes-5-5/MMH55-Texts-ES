@@ -1,1 +1,1 @@
-﻿<color=yellow>Ataque incrementado.
+﻿<color=yellow>Ataque aumentado.

@@ -1,3 +1,3 @@
 ﻿+2 Ataque<br>
 +2000 Experiencia<br><br>
-<color=7F38EC>Libro de habilidades<color_default><br>El Héroe necesita algo de tiempo para estudiar este objeto y obtener permanentemente el conocimiento que contiene. A principios de la próxima semana, el artículo desaparece de la mochila y la bonificación se aplica de forma permanente.
+<color=7F38EC>Manuscrito<color_default><br>El héroe necesita un tiempo para estudiar este objeto y adquirir permanentemente el conocimiento que contiene. Al comienzo de la siguiente semana el objeto desaparece del inventario y la bonificación se aplica permanentemente.

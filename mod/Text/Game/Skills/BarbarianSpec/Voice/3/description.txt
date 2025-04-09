@@ -1,1 +1,1 @@
-﻿El uso de una habilidad activada de la categoría Warcry retrasa el próximo turno del Héroe un 33% menos.
+﻿El uso de una habilidad activable de la categoría Gritos de Guerra retrasará el siguiente turno del héroe un 33% menos. Si el héroe tiene el talento Empatía, la moral se reduce en -3.<br><color_default>La iniciativa base del héroe es 10 y se incrementará exactamente hasta 15 mientras se usen Gritos de Guerra.

@@ -1,1 +1,1 @@
-﻿Borra los efectos mágicos positivos y negativos del objetivo y lo vuelve inmune a los efectos de hechizos mágicos. Este hechizo se puede lanzar sobre enemigos y amigos.
+﻿Elimina los efectos mágicos positivos y negativos del pelotón escogido y lo hace inmune a futuros hechizos. Este hechizo puede lanzarse tanto en pelotones aliados como enemigos.

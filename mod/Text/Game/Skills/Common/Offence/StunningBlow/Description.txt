@@ -1,1 +1,1 @@
-﻿Cada ataque del Héroe estándar mueve al objetivo hacia atrás a lo largo de la barra de iniciativa por un momento. El valor de inciativa del objetivo se reduce en 0.25.
+﻿Todos los ataques directos del héroe hacen retroceder a su objetivo en la barra ATB. El valor ATB del objetivo se reduce -0.2.

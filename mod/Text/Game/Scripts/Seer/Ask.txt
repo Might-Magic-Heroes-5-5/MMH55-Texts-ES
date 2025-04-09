@@ -1,1 +1,1 @@
-﻿¡Traeme <value=qty> <value=type> y serás recompensado!
+﻿¡Tráeme <value=qty> <value=type> y serás magníficamente recompensado!

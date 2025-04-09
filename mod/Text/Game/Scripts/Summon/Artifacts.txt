@@ -1,1 +1,1 @@
-﻿Bienvenido al Templo de la Invocación, ¿Le gustaría ofrecer Recursos (OK) o Artefactos (Cancelar)?
+﻿Bienvenido al Templo de Convocación, ¿Quieres hacer una ofrenda de Recursos (Aceptar) o de Artefactos (Cancelar)?

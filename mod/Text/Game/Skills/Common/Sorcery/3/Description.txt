@@ -1,1 +1,1 @@
-﻿El intervalo entre 2 lanzamientos de hechizos consecutivos se reduce en un 24%. Los hechizos masivos no se ven afectados. <br><color_default> La iniciativa base del Héroe es 11 y se ha aumentado al equivalente de exactamente 14.5 mientras se lanzan los hechizos.
+﻿El intervalo entre el lanzamiento de hechizos se reduce un 24%. No tiene efecto sobre Hechizos Masivos.<br><color_default>La iniciativa base del héroe es 11 y se incrementa exactamente a 14.5 mientras esté utilizando hechizos.

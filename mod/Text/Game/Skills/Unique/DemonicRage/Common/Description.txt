@@ -1,1 +1,1 @@
-﻿Permite que las criaturas de Bastión en el ejército del Héroe se enfurezcan mientras luchan. La Ira de Sangre resultante les otorga bonificaciones de Combate apropiadas.
+﻿Permite a las criaturas de Bastión del ejército del héroe entrar en cólera al luchar, obteniendo distintas bonificaciones de combate según su nivel de Rabia Sangrienta.

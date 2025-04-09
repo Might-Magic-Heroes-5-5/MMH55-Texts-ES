@@ -1,1 +1,1 @@
-﻿ARMG ahora crea búsquedas del obelisco por sí mismo.
+﻿El ARMG ahora crea la Misión Obelisco por su cuenta.

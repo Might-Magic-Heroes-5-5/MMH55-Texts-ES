@@ -1,1 +1,1 @@
-﻿Las murallas de la ciudad son un 50% más difíciles de destruir y todos los héroes enanos ganan 1000 de experiencia al estudiar esta magnífica construcción. (Acumulable con varias ciudades y requiere visitar la ciudad).
+﻿Los muros de la ciudad son 50% más difíciles de destruir y todos los héroes Enanos visitantes ganan +1000 Experiencia al estudiar esta extraordinaria construcción.<br><color_default>Cumulativo con otras ciudades.

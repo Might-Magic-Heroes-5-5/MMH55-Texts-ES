@@ -1,1 +1,1 @@
-﻿<color=red>Intentas interactuar, pero nada sucede!
+﻿<color=red>Intentas interactuar, pero no ocurre nada.

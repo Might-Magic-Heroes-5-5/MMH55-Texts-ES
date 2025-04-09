@@ -1,1 +1,1 @@
-﻿<color=yellow>¡Ya puedes usar el hechizo Pórtico a Ciudad!
+﻿<color=yellow>¡Ya puedes usar el hechizo Portal de Ciudad!

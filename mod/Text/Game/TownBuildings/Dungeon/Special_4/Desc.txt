@@ -1,1 +1,1 @@
-﻿Vende artefactos y aumenta ligeramente los ingresos diarios de oro por cada artefacto comprado, el aumento es igual a 25, 50 o 100 para artefactos menores, mayores y reliquias respectivamente.
+﻿Vende artefactos y aumenta ligeramente el ingreso de oro diario por cada artefacto comprado. El aumento es igual a 25/50/100 para artefactos menores, artefactos y relquias, respectivamente.

@@ -1,1 +1,1 @@
-﻿<color=red>¡Otro héroe está visitando la ciudad!
+﻿<color=red>¡Hay otro héroe visitando la ciudad!

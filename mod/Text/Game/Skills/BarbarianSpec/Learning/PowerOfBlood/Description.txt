@@ -1,1 +1,1 @@
-﻿Cada vez que una criatura en el ejército del Héroe obtiene Ira, obtiene un 50% más que de costumbre. Sin embargo, si una criatura pierde Ira, también pierde un 50% más que la cantidad habitual.
+﻿El héroe aprende Reclamo de Sangre como Grito de Guerra y cada vez que una criatura del ejército del héroe incremente su Rabia, esta ganará un 33% más de Rabia de lo habitual. Pero, si la criatura pierde Rabia, también perderá un 33% más de Rabia de lo habitual.

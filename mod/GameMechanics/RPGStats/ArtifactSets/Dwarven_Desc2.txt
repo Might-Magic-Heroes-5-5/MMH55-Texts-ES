@@ -1,1 +1,1 @@
-﻿Otorga + 40% de resistencia mágica adicional a todas las criaturas en el ejército del Héroe.
+﻿Proporciona +40% adicional de Resistencia Mágica a todas las criaturas del ejército del héroe.

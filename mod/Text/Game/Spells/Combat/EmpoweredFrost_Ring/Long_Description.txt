@@ -1,1 +1,1 @@
-﻿Inflinge daño de hielo a todas las unidades que rodean el punto objetivo.
+﻿Inflige daño por hielo a todas las unidades alrededor de la zona objetivo.

@@ -1,3 +1,8 @@
-﻿Otorga a los Jefes un talismán que les permite usar hechizos de Aventuras. Santeras y Chamanes pueden aprender hechizos de aventura espontáneamente y ganan +2 de defensa (no se acumula con múltiples ciudades)<br><br>
-<color=green>Pórtico a Ciudad<color_default><br>Permite a todos los Héroes teletransportarse a esta ciudad desde cualquier lugar del mapa (requiere el Salón de la Fuerza)<br><br>
-<color=0099FF>Gobernancia<color_default><br>Otorga al Gobernador de la ciudad +2 a su Poder Mágico.
+﻿Proporciona a los Caudillos un Talismán que les permite lanzar hechizos de Aventura. Los Chamanes y Brujas podrán aprender hechizos de Aventura espontáneamente y ganan +2 Defensa.<br>
+
+<color_default>No cumulativo con otras ciudades.<br><br>
+
+<color=green>Portal de Ciudad<color_default><br>Permite a todos los héroes teletransportarse a esta ciudad desde cualquier sitio del mapa.<br>
+<color_default>El Pabellon del Poder deberá estar construido para poder teletransportarse a esta ciudad.<br><br>
+
+<color=0099FF>Gobierno<color_default><br>Concede al Gobernador<br>+2 Potencia de Hechizo.

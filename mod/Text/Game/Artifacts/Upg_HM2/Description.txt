@@ -1,4 +1,4 @@
-﻿+12 conocimiento<br>
-+Nivel^4 Experiencia cuando se equipa por primera vez<br>
-Otorga a las criaturas aliadas inmunidad a hipnotizar<br><br><color_default>
-(Por ejemplo 810000 de experiencia en el nivel 30)
+﻿+12 Conocimiento<br>
++N^4 Experiencia cuando se equipa por primera vez<br><br>
+Las unidades aliadas obtienen Inmunidad a Hipnosis<br><color_default>
+N = Nivel del Héroe, por ejemplo 810000 experiencia al nivel 30.

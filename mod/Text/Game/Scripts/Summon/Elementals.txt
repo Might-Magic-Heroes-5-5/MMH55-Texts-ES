@@ -1,1 +1,1 @@
-﻿El Orbe se ha disuelto en la Fuente te ha recompensado con <value=num> Elementales.
+﻿La Fuente Mágica disuelve el Orbe y convoca <value=num> elementales.

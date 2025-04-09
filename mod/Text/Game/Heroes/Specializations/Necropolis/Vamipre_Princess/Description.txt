@@ -1,1 +1,1 @@
-﻿Princesa Vampira: Todos los Vampiros y sus mejoras en el ejército del Héroe ganan +1 en su Ataque y Defensa por cada 2 niveles del Héroe, comenzando en el primer nivel.
+﻿Princesa Vampiro: Todos los Vampiros, Maestros Vampiro y Príncipes Vampiro del ejército del héroe ganan +1 a su Ataque y Defensa por cada dos niveles del héroe.

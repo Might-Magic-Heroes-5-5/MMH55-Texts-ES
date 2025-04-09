@@ -1,1 +1,1 @@
-﻿Le permite ajustar cuánto tiempo tarda hasta que aparece el Salón de la Decisión.
+﻿Permite ajustar cuanto tardará el Pabellon de Decisión en aparecer.

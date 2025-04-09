@@ -1,1 +1,1 @@
-﻿Señora del Bosque: El Heroe obtiene +2 Defensa, Los  Treants y sus mejoras pueden actuar inmediatamente al principio del Combate.
+﻿Guardiana del Bosque: El héroe empieza con +2 Defensa permanente y todos los Árbores, Árbores Centenarios y Árbores Salvajes del ejército del héroe podrán actuar de inmediato al comenzar el combate.

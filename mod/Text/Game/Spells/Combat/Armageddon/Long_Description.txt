@@ -1,1 +1,1 @@
-﻿Inflige daño de fuego masivo a todas las criaturas y máquinas de guerra en el campo de batalla y daño físico local en el punto de impacto.<br><color_default>La fórmula de daño para el daño físico adicional es la misma que para un Relampago.
+﻿Inflige daño masivo por fuego a todas las unidades del campo de batalla, y daño físico adicional en la zona centro del impacto.<br><br><color_default>El daño físico adicional es equivalente al hechizo Rayo.

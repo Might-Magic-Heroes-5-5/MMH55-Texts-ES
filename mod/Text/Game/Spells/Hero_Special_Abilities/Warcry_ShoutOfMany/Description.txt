@@ -1,1 +1,1 @@
-﻿El enemigo seleccionado recibe un daño mágico igual al número de criaturas en el ejército del Héroe * 0.7. Además, todas las criaturas Orcas en el ejército del Héroe ganan puntos adicionales a su furia.
+﻿El héroe canaliza la ira de todas las criaturas de su ejército sobre una unidad enemiga, infligiendo daño mágico sobre el objetivo y aumentando los puntos de Rabia de su ejército.<br><br>El daño es igual a 0.8(Nº de criaturas del ejército del héroe), y es susceptible a la negación y resistencia mágica, pero no puede ser reflejado por Espejo Mágico.

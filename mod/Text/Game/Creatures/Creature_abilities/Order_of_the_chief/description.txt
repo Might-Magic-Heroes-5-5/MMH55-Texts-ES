@@ -1,1 +1,1 @@
-﻿Esta criatura puede acelerar el turno de la unidad aliada elegida por  0.01*tamaño del gurpo actual, pero no más de 0.6, mientras inflige daño igual al tamaño del grupo al objetivo (habilidad activada).
+﻿Esta criatura puede adelantar el turno de la unidad amiga escogida incrementando su ATB en una cantidad igual al Tamaño del pelotón / 100, hasta un máximo de 0.6. La criatura objetivo sufrirá daño igual al tamaño del pelotón (habilidad activable).

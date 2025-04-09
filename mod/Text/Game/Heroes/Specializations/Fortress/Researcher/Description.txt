@@ -1,1 +1,1 @@
-﻿Maestro Runico: Con cada subida de nivel, el Héroe puede aprender espontáneamente un Hechizo Rúnico extra. La probabilidad es del 25%.
+﻿Maestro de las Runas: Con cada incremento de nivel, el héroe puede aprender espontáneamente otro hechizo más de las Runas. La probabilidad es del 25%.

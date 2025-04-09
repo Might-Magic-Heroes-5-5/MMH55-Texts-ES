@@ -1,1 +1,4 @@
-﻿Eleva la moral del Héroe para la próxima batalla.<br><color_default>Algunos artefactos se pueden sacrificar aquí.
+﻿+1 Moral
++400 Puntos de Movimiento
+
+<color_default>Aqui se pueden sacrificar algunos artefactos.

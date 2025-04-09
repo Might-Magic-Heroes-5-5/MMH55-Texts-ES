@@ -1,1 +1,1 @@
-﻿Esta ventana muestra información sobre los principales atributos del Héroe y su ejército.  Aquí puedes reorganizar las criaturas
+﻿Esta ventana muestra la información sobre los principales atributos del héroe y su ejército. Aquí puedes reorganizar a las criaturas del ejército y conocer sus características.

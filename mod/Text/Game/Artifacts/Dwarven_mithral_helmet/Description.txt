@@ -1,8 +1,8 @@
 ﻿+3 Defensa<br>
-+3 Conocimiento<br>
-Otorga a las criaturas aliadas inmunidad a la Ceguera<br>
++3 Conocimiento<br><br>
+Las unidades aliadas obtienen Inmunidad a Ceguera.<br>
 <br><color=purple>
-Armadura de reyes enanos<color_default><br>
+Armadura de los Reyes Enanos<color_default><br>
 +4 Defensa (2/4)<br>
 +8 Defensa (4/4)<br>
-*La bonificación se aplica después de cerrar el inventario.
+<br>*La bonificación del conjunto se aplica tras cerrar el Inventario.

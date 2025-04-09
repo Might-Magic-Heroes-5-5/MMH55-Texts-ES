@@ -1,1 +1,1 @@
-﻿Le otorga al Objetivo <value=target_rp> Puntos de ira.
+﻿Aumenta la Rabia del objetivo +<value=target_rp> puntos.

@@ -1,1 +1,1 @@
-﻿El Silo de Recursos produce un mineral extra por día.
+﻿El Silo de Recursos produce +1 Mineral adicional al día.

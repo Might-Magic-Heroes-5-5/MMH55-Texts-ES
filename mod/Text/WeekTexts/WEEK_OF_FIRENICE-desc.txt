@@ -1,1 +1,1 @@
-﻿Durante las batallas el daño causado por hechizos de fuego y hielo aumenta en un 10%.
+﻿Los hechizos de fuego y hielo causan +10% de daño durante las batallas.

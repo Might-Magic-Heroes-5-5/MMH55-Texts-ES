@@ -1,1 +1,1 @@
-﻿Los ataques de esta criatura crean una Nube de Muerte al rededor de su objetivo (3x3 casillas). la Nube de la muerte inflige la mitad del daño a todas las criaturas vivientes que esten cubiertas por ella.
+﻿Los disparos de esta criatura propagan una Nube de Muerte alrededor del objetivo, infligiendo 50% de daño adicional a todas las criaturas vivas dentro de la zona de impacto (3x3 casillas).

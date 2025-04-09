@@ -1,1 +1,1 @@
-﻿Enfurecido<br><color_default>+1 Ataque por grupo aliado<br>perdido en Combate
+﻿Enfurecer<br><color_default>+1 Ataque por pelotón<br>aliado caído

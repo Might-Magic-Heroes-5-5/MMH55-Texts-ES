@@ -1,1 +1,1 @@
-﻿Aumenta la iniciativa de todas las máquinas de guerra en +2.
+﻿Aumenta en +2 la Iniciativa de todas las máquinas de guerra.

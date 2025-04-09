@@ -1,1 +1,1 @@
-﻿Concede la experiencia de Héroe 5000 y otras 5000 por cada maestro de sueño visitado.
+﻿Concede al héroe 5000 experiencia multiplicada por la cantidad de Profesores de Sueños que el héroe haya visitado.

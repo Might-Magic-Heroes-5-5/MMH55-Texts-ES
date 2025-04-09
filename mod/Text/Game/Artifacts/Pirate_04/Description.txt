@@ -1,7 +1,6 @@
-﻿+1 Ataque<br>
-+50 % de probabilidad de saquear un recurso aleatorio después de cada batalla<br>
-<br><color=purple>
-Conjunto pirata<color_default><br>
+﻿+1 Ataque<br><br>
+Concede un 50% de posibilidades de ganar un recurso aleatorio como botín tras cada batalla.<br><br><color=purple>
+Indumentaria Pirata<color_default><br>
 +6 Ataque (3/6)<br>
 +12 Ataque (6/6)<br>
-*La bonificaciónse aplica después de cerrar el inventario.
+<br>*La bonificación del conjunto se aplica tras cerrar el Inventario.

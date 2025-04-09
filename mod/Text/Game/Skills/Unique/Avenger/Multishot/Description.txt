@@ -1,1 +1,1 @@
-﻿Otorga al Héroe la capacidad de atacar a todas las criaturas enemigas que están presentes en su lista de enemigos favoritos a la vez. El daño infligido a cada objetivo es mayor que el daño directo normal del Héroe, con un bonificador de +3 a su nivel para calcular el daño.
+﻿Confiere al héroe la capacidad de atacar simultaneamente a todas las criaturas enemigas presentes en su lista de enemigos favoritos.<br><color_default>El daño infligido a cada objetivo es 3 niveles menos potente de lo habitual.

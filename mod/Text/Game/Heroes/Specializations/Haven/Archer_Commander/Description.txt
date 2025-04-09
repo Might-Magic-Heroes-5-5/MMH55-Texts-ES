@@ -1,1 +1,1 @@
-﻿Arquero Comandante: todos los arqueros, tiradores y ballesteros del ejército del Héroe ganan +1 en su ataque y defensa por cada 2 niveles del Héroe, comenzando en el primer nivel.
+﻿Capitán de Arqueros: Todos los Arqueros, Ballesteros y Francotiradores del ejército del héroe ganan +1 a su Ataque y Defensa por cada dos niveles del héroe.

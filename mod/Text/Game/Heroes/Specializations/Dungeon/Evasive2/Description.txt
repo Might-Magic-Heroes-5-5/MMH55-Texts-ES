@@ -1,1 +1,1 @@
-﻿Sentinela: El ejército del Héroe sufre menos daño de los ataques distantes, la reducción del daño de alcance es del 15% + 0.5% por nivel de Héroe.
+﻿Baile de Llamas: El ejército del héroe sufre menos bajas por ataques a distancia. Reduce 15+0.5(Nivel)% el daño a distancia recibido.

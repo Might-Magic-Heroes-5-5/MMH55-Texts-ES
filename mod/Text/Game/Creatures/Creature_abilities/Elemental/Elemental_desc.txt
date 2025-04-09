@@ -1,1 +1,1 @@
-﻿Esta criatura no está viva y no puede ser afectada por - moral ni magia de Veneno, la Ceguera o la Mente. Tampoco puede ser resucitado o curado con la Tienda de Primeros Auxilios.
+﻿Esta criatura no esta viva, y no puede verse afectada por la Moral ni por magia relacionada con Veneno, Ceguera o la Mente. Tampoco puede ser resucitada o curada con la Tienda de Primeros Auxilios.

@@ -1,4 +1,4 @@
-﻿+4 al ataque de todos los tiradores aliados y les otorga munición ilimitada<br><br><color=purple>
+﻿+4 Ataque y munición ilimitada a todos los tiradores aliados<br><br><color=purple>
 Sueño del Arquero<color_default><br>
 +1 Suerte (2/2)<br>
-*La bonificación  se aplica después de cerrar el inventario.
+<br>*La bonificación del conjunto se aplica tras cerrar el Inventario.

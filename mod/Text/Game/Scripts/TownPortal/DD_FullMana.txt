@@ -1,1 +1,1 @@
-﻿<color=red>El Hero tiene todo su Mana!
+﻿<color=red>¡Maná al completo!

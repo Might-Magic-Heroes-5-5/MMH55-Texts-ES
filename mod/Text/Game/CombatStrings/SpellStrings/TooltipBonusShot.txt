@@ -1,1 +1,1 @@
-﻿<color_default>+1 Disparo
+﻿<color_default>+1 tiro

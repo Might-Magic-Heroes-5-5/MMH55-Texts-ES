@@ -1,1 +1,1 @@
-﻿Gana mana igual a (sqrt(dmg+6))/12
+﻿(1 - 318) = 1 Maná<br>(319 - 894) = 2 Maná<br>(895 - 1758) = 3 Maná

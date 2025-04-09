@@ -1,1 +1,1 @@
-﻿<color=yellow>Ya has visitado este Obelisco, y encontraste <value=amount> de <value=total>!
+﻿<color=yellow>Ya has descifrado este Obelisco. ¡Has encontrado <value=amount> de <value=total>!

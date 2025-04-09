@@ -1,1 +1,1 @@
-﻿El daño hecho por las tropas del Héroe en contragolpes se incrementa en un 30%.
+﻿El daño de los contragolpes de las tropas del héroe aumenta un 20%.

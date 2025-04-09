@@ -1,1 +1,1 @@
-﻿La balista bajo el mando del Héroe ignora la defensa del enemigo e inflige daño de fuego adicional igual a 2* el nivel de Héroe. Una balista destruida será restaurada en el ejército del Héroe después del Combate.
+﻿La Balista bajo las órdenes del héroe ignora el 50% de la defensa del enemigo, e inflige daño adicional por fuego igual al nivel del héroe en cada tiro. La balista será restituida al ejército del héroe tras el combate si es destruida.

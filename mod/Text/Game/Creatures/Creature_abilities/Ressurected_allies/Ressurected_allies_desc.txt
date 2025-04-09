@@ -1,1 +1,1 @@
-﻿Esta criatura puede resucitar un grupo aliado durante el Combate, desde que el cuerpo objetivo este en una casilla vacia (Habilidad Activable). Los puntos de vida recuperados son igual a 80* tamaño de grupo.
+﻿La criatura puede resucitar un pelotón aliado asesinado una vez por combate, siempre que la ubicación en la que murió el pelotón no esté ocupada por otra criatura (habilidad activable). La resurrección restaura puntos de vida igual a 80 veces el tamaño del pelotón.

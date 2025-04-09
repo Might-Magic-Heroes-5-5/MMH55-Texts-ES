@@ -1,4 +1,5 @@
-﻿<color_bright>Permite a un Héroe visitante aprender los hechizos que se guardan en su interior. Agrega 2 hechizos del quinto círculo.<br><br>
-<color=green>Pórtico a Ciudad<color_default><br>Permite a todos los Héroes teletransportarse a esta ciudad desde cualquier lugar del mapa<br><br>
-<color=orange>Momias<color_default><br>Este edificio puede convocar Momias y agregarlas a la guarnición de la ciudad todas las semanas. La cantidad de momias invocadas depende de la cantidad de cristales de sangre de dragón que los Héroes hayan recolectado (A) y el nivel de experiencia de esos Héroes (B). Formula = Raíz(sum(A*B))/18 * (2+Nivel Cofradía). La cantidad es cero si no se recolectan cristales.<br><br>
-<color=0099FF>Gobernancia<color_default><br>Otorga al Gobernador de la ciudad +5 a su Poder Mágico.
+﻿<color_default>Una mejora de la Cofradía de Magos de nivel cuatro.<br>
+<color_bright>Permite que el héroe visitante aprenda los hechizos que contiene. Añade 2 hechizos del 5º Círculo.<br><br>
+<color=orange>Momias<color_default><br>
+Los Cristales de Sangre de Dragón permiten a este edificio convocar Momias a la guarnición de la ciudad cada semana. La cantidad depende del número de Cristales de Sangre de Dragón (A) y el nivel (B) de cada héroe... y de la sumatoria del producto de ambos (Z=sum[A*B]).<br> Fórmula = 8(sqrt(Z)/30). El valor de Z no podrá exceder 600.<br><br>
+<color=0099FF>Gobierno<color_default><br>Concede al Gobernador<br>+5 Potencia de Hechizo.

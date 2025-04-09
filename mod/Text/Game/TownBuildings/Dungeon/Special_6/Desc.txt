@@ -1,1 +1,1 @@
-﻿Aumenta el Conocimiento de todos los Heroes de Mazmorra (acumulativo con múltiples ciudades).
+﻿Aumenta +1 el Conocimiento de todos los héroes de Mazmorra que visiten esta ciudad.<br><color_default>Cumulativo con múltiples ciudades.

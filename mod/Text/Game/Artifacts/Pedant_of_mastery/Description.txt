@@ -1,2 +1,2 @@
 ﻿+4 Ataque<br>
-+4 Poder Mágico
++4 Potencia de Hechizo

@@ -1,3 +1,2 @@
 ﻿+7 Defensa<br>
--5% Iniciativa a criaturas aliadas<br><br><color_default>
-Los valores de iniciativa no son redondeados y pueden resultar en valores decimales.
+Reduce -5% la Iniciativa de las criaturas del ejército del héroe.

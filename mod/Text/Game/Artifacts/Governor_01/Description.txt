@@ -1,2 +1,2 @@
-﻿+3 Conocimiento<br>
-+5 % de crecimiento de la ciudad cuando lo equipa el gobernador
+﻿+3 Conocimiento<br><br>
+Aumenta +5% el Crecimiento de las criaturas de la ciudad si está equipada por el Gobernador.

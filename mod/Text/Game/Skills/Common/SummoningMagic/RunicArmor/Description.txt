@@ -1,1 +1,1 @@
-﻿El Héroe recibe el hechizo Armadura Arcana y +10 Poder Mágico al lanzarlo.
+﻿El héroe lanza todos los hechizos del rayo con +4 Potencia de Hechizo efectiva.

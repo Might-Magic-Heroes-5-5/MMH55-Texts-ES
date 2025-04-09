@@ -1,1 +1,1 @@
-﻿-40% Daño recibido de hechizos de tierra enemigos
+﻿Aumenta +40% la Resistencia Mágica contra los hechizos enemigos basados en la Tierra.

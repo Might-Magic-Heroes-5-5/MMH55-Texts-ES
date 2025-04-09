@@ -1,1 +1,1 @@
-﻿La Cornucopia se ha disuelto y la Fuente te ha recompensado con <value=num> fénix.
+﻿La Fuente Mágica disuelve la Cornucopia y convoca <value=num> Fénixes.

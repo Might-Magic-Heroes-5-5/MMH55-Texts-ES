@@ -1,1 +1,1 @@
-﻿ Domador de Wyverns: Todos Wyverns y sus mejoras pueden actuar inmediatamente al comenzar el Combate, ademas todos los Wyverns en el ejercito del Héroe ganan +2 a sus puntos de vida por cada nivel del Héroe, comenzando en el primer nivel
+﻿Domador de Wyverns: Todos los Wyverns, Wyverns Inmundos y Paokais del ejército del héroe podrán actuar de inmediato al comenzar el combate.<br><br>Todas estas criaturas del ejército del héroe ganan también +2 Puntos de Vida por cada nivel del héroe.

@@ -1,2 +1,2 @@
-﻿<color_default>Mejora para el Mercado.<br>
-<color_bright>El Silo de Recursos te proporciona un azufre adicional cada día.
+﻿<color_default>Una mejora del Mercado.<br>
+<color_bright>El Silo de Recursos te da +1 Azufre adicional cada día.

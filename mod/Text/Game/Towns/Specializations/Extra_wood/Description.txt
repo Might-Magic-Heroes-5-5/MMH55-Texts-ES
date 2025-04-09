@@ -1,1 +1,1 @@
-﻿El Silo de Recursos produce una madera extra por día.
+﻿El Silo de Recursos produce +1 Madera adicional al día.

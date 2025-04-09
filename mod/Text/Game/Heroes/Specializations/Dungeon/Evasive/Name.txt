@@ -1,1 +1,1 @@
-﻿Clase: Brujo<br>Especialización: Danzarin Sombrio<br><br><body_bright>Se sufre menos daño de los ataques a distancia, la reducción de daño es 15% + 0.5% por nivel del Héroe.<br><color_default>Comienza con Magia Destructiva Básica.
+﻿Clase: Brujo<br>Dote: Baile de Sombras<br><br><body_bright>El ejército del héroe sufre menos bajas por ataques a distancia. Reduce 15+0.5(Nivel)% el daño a distancia recibido.<br><br><color_default>Empieza con<br>Magia Destructiva Básica.

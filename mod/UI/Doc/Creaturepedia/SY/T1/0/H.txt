@@ -1,1 +1,1 @@
-﻿Silvanos<br>Nivel 1<br>Criatura Base
+﻿Silvanos<br>Tipo 1<br>Criatura Base

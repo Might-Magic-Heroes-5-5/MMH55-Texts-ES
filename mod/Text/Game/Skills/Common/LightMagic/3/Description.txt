@@ -1,1 +1,1 @@
-﻿Permite al héroe aprender hechizos Magia de la Luz del quinto círculo y ofrece la máxima potencia a la Magia de la Luz.La tienda de primeros auxilios puede curar venenos y purgar hechizos de nivel 3.
+﻿Permite al héroe aprender hechizos Magia de la Luz del 5.º Círculo y ofrece la máxima potencia a la Magia de la Luz. La Tienda de Primeros Auxilios curará el veneno y purgará hechizos del 3er Círculo.

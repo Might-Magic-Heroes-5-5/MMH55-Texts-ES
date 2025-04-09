@@ -1,1 +1,1 @@
-﻿Todas las criaturas infernales gastan solo el 50% de su turno si usan la habilidad de invocación (en lugar del 75%).
+﻿Todas las criaturas infernales gastan solo el 50% de su turno al usar su habilidad de invocación (en vez del 75%).

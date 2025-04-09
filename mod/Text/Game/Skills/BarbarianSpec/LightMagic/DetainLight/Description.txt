@@ -1,2 +1,1 @@
-﻿Si un enemigo lanza cualquier hechizo de Magia de la Luz, su siguiente turno se retrasa un 30% más de lo normal. <br><br><color=orange>Favor de Malassa<color_default><br>
-El Héroe aumenta su favor con el Dragón Dios de la Oscuridad y aumenta su Poder Mágico en 2.
+﻿El Conocimiento del héroe aumenta en 2 y si alguien lanza un conjuro de Magia de la Luz, su siguiente turno se retarda un 15% más de lo habitual.

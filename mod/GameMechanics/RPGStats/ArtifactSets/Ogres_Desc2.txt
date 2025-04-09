@@ -1,1 +1,1 @@
-﻿Aumenta el Ataque de todas las criaturas en el ejército de Héroes en +3 y sus Puntos de Vida en +2.
+﻿Aumenta el ataque de todas las criaturas del ejército del héroe +3 y sus puntos de vida +2.

@@ -1,1 +1,1 @@
-﻿Maestro de la Caza: Todos los Cazadores y sus mejoras en el ejército del Héroe ganan +1 en su Ataque y Defensa por cada 2 niveles del Héroe, comenzando en el primer nivel.
+﻿Maestro de la Caza: Todos los Cazadores, Maestros Cazadores y Saeteros Silvanos del ejército del héroe ganan +1 a su Ataque y Defensa por cada dos niveles del héroe.

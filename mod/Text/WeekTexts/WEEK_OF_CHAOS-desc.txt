@@ -1,1 +1,1 @@
-﻿Durante las batallas el daño causado por hechizos aumenta en un 10%.
+﻿El daño causado por hechizos aumenta +10% durante las batallas.

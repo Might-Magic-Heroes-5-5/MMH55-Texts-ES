@@ -1,1 +1,1 @@
-﻿Magia de las Siete Ciudades: El Héroe comienza con Magia de Invocación y su Conocimiento aumenta en +1 por cada 7 niveles, también toda la experiencia obtenida después de las batallas aumenta en 2 % por nivel de Héroe.
+﻿Magia de las Siete Ciudades: El héroe empieza con Magia de la Convocación y su Conocimiento aumenta +1 por cada 7 niveles.<br><br>Además toda la experiencia ganada en combate aumenta +2% por cada nivel del héroe.

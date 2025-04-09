@@ -1,1 +1,1 @@
-﻿Permite al Héroe levantar esqueletos arqueros en lugar de esqueletos.
+﻿Permite al Nigromante reanimar a Esqueletos Arqueros en lugar de Esqueletos.
