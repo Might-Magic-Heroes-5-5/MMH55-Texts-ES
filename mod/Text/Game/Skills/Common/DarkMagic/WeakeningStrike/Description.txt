@@ -1,1 +1,1 @@
-﻿Cualquier ataque de Héroe estándar también lanza el hechizo de Sufrimiento sobre el objetivo, como si lo hubiera lanzado el Héroe. El hechizo Sufrimiento también se agrega al libro de hechizos del Héroe.
+﻿El héroe gana +2 Conocimiento y un Corazón de la Oscuridad, un artefacto que puede usar el héroe tras la batalla para resucitar criaturas vivas caídas en combate.<br><color_default>Los héroes de las facciones de Necropolis y Academia solo ganan la bonificación de Conocimiento.

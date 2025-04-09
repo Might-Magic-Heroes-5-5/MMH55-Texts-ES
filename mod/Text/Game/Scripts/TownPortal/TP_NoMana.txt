@@ -1,1 +1,1 @@
-﻿<color=yellow>Tu Héroe no tiene suficiente maná.
+﻿<color=yellow>No hay maná suficiente.

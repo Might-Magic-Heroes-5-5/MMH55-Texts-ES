@@ -1,1 +1,1 @@
-﻿<color=yellow>Tu Defensa ha aumentado +<value=param> permanentemente.
+﻿<color=yellow>Tu Defensa aumenta +<value=param> permanentemente.

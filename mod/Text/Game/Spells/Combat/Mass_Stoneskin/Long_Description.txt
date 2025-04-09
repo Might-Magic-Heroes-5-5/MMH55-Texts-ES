@@ -1,1 +1,1 @@
-﻿Aumenta la defensa de la unidad aliada seleccionada. El Poder Mágico determinan la duración del efecto.
+﻿Aumenta la Defensa de todas las unidades amigas.<br><br><color_default>La Potencia de Hechizo determina la duración del efecto.

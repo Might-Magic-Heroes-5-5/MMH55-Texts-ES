@@ -1,2 +1,2 @@
-﻿Revela un hechizo extra de cada círculo del en Gremio de Magos.<br><br>
-<color=0099FF>Gobernancia<color_default><br>Concede al Gobernador de esta ciudad un +2 de bonificación de Conocimiento.
+﻿Añade 1 hechizo adicional a cada círculo de la Cofradía de Magos.<br><br>
+<color=0099FF>Gobierno<color_default><br>Concede +2 Conocimiento al Gobernador de esta ciudad.

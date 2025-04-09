@@ -1,2 +1,2 @@
-﻿+4 a todas las Habilidades Primarias<br>
-Los costos de Pórtico a Ciudad se ignoran cuando está equipado 
+﻿+4 a todos los Atributos Principales<br>
+El hechizo Portal a Ciudad no tiene coste alguno.

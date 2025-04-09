@@ -1,0 +1,2 @@
+﻿Selecciona la resolución de pantalla admitida por tu tarjeta gráfica y por tu monitor (cuanto mayor sea el valor, mejor será la calidad pero menor el rendimiento).
+Esta opción no funciona en modo ventana. Si el desplegable tiene valores en blanco, regresa al menú principal (donde seleccionas "Opciones") y vuelve a esta configuración.

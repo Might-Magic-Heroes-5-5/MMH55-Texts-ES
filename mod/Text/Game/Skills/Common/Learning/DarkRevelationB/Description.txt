@@ -1,1 +1,1 @@
-﻿El Héroe gana +1 en cada habilidad primaria y califica para subir de nivel adicional.
+﻿El héroe obtiene +2 Conocimiento, gana un nivel de experiencia adicional y de ahora en adelante un grupo de Exterminadores, Ejecutores o Verdugos se unirán a las filas del héroe siempre que ya haya algunas de estas criaturas en su ejército. La cantidad es igual a Conocimiento/3 + 1. <br><color_default>No se unirá ninguna criatura si existe una Bruja 'contendiente' con el talento Lider Cultista.

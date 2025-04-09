@@ -1,1 +1,1 @@
-﻿Le permite otorgarle a la IA un descuento en todas las compras durante un número limitado de días. Esto no está deshabilitado con la configuración de juego casual.
+﻿Te permite conceder a la IA un descuento en todas sus adquisiciones durante un número de días. Esto no está deshabilitado en el nivel casual de dificultad.

@@ -1,1 +1,1 @@
-﻿Aumenta el daño infligido por las tropas del Héroe en los contragoples. Permite al Caballero actualizar las tropas humanas a la siguiente unidad más alta. Solo funciona dentro de las ciudades Santuario donde se ha construido la instalación de Campo de Entrenamiento.
+﻿Aumenta el daño de los contragolpes de las tropas del héroe. Permite a los héroes de Santuario ascender el nivel de sus tropas. Solo funciona en ciudades con Campo de Instrucción.

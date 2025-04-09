@@ -1,1 +1,1 @@
-﻿Comandante de Centauros:Centauros y sus mejoras en el ejército del Héroe ganan +1 a su ataque y defensa por cada 2 niveles del Héroe, comenzando en el primer nivel. Además, obtienen + 0,25% de su iniciativa inicial por cada nivel del Héroe.
+﻿Capitán de Centauros: Todos los Centauros, Nómadas Centauro e Incursores Centauro del ejército del héroe ganan +1 a su Ataque y Defensa por cada dos niveles del héroe.<br><br>Además, todas estas criaturas aumentan +1% su Iniciativa al principio del combate por cada 4 niveles del héroe.

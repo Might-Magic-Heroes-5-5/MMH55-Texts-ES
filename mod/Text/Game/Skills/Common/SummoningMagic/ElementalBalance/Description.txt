@@ -1,2 +1,1 @@
-﻿Cada vez que el enemigo invoca elementales, el Héroe invoca inmediatamente la misma cantidad de la alineación opuesta. Si se convoca a un Fénix, el Héroe invoca un clon perfecto.<br><br><color=orange>Elegido de Asha<color_default><br>
-El Héroe se convierte en el favorito de El Dios Dragón del Orden y descubre 8 Cristales de sangre de dragón.
+﻿El héroe aprende el hechizo Convocar Elementales y cada vez que el enemigo convoca elementales, el héroe convocará inmediatamente la misma cantidad de alineación contraria para luchar por su causa. Si se convoca un Fénix, el héroe atraerá un clon exacto.

@@ -1,1 +1,1 @@
-﻿Poder Magico: <value=damage>.<br>Aumenta la Ira del Ejercito en <value=army_rp>.
+﻿Daño del Hechizo: <value=damage>.<br>Aumenta la Rabia del ejército +<value=army_rp>.

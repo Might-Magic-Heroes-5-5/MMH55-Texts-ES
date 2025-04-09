@@ -1,1 +1,1 @@
-﻿Ocultar registro del Combate <hotkey=input_switch_atb_log>.
+﻿Ocultar Registro de Combate <hotkey=input_switch_atb_log>.

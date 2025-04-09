@@ -1,2 +1,1 @@
-﻿El Héroe gana 100 puntos de movimiento después de cada batalla en tierra<br><color_default>
-El Héroe tampoco pierde ningún movimiento por entrar en Combate. Esta parte de el talento no se acumula con otras o artefactos
+﻿Talento de Aventura: El héroe gana +50 puntos de movimiento después de cada batalla en tierra<br><color_default>El héroe tampoco gasta movimiento por entrar en combate. Esto no se acumula con el talento Arrebatar o con artefactos.

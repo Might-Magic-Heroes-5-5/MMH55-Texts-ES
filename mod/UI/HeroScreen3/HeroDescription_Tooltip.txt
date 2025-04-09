@@ -1,1 +1,1 @@
-﻿La clase del Héroe determina sus habilidades y atributos iniciales. El nivel del Héroe influye en sus habilidades. Alcanzar un nuevo nivel permite obtener nuevas habilidades y mejorar los atributos del Héroe
+﻿La clase del héroe determina sus habilidades y atributos iniciales. El nivel del héroe influye en sus atributos. Alcanzar un nuevo nivel permite adquirir nuevas habilidades y talentos y mejorar los atributos del héroe.

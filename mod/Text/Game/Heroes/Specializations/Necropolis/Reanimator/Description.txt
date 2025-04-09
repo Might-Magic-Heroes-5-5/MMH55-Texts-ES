@@ -1,1 +1,1 @@
-﻿Reanimador: El hechizo Levantar a los Muertos es más efectivo. El Poder Mágico de este hechizo aumenta en +1 por cada 3 niveles del Héroe, comenzando en el primer nivel.
+﻿Reanimador: El hechizo Reanimación tiene mayor efecto. La Potencia de Hechizo efectiva de este hechizo aumenta +1 por cada 3 niveles del héroe.

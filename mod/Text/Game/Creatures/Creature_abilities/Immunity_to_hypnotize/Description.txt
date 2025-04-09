@@ -1,1 +1,1 @@
-﻿Esta criatura es inmune al hechizo hipnotizar.
+﻿Esta criatura es inmune al hechizo Hipnosis.

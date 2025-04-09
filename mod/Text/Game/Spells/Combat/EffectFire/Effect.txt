@@ -1,1 +1,1 @@
-﻿Fuego<br><color_default>Atributo Defensa a la mitad
+﻿Fuego<br><color_default>-50% de Defensa

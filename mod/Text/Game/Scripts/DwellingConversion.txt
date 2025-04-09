@@ -1,1 +1,1 @@
-﻿¿Le gustaría convertir esta vivienda a su facción?<br><br>Costo:<br>Oro: <value=gold>, Madera: <value=wood>, Mineral: <value=ore>
+﻿¿Quieres convertir este enclave a tu facción?<br><br>Coste:<br>Oro: <value=gold>, Madera: <value=wood>, Mineral: <value=ore>

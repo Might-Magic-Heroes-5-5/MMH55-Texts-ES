@@ -1,3 +1,3 @@
-﻿<color_default>Mejora de la Alcaldía.<br>
-<color_bright>El Capitolio provee a tu reino con 4000 de oro por día.<br><br>
-<color=0099FF>Gobernancia<color_default><br>El Gobernador de la ciudad recibe 100 de experiencia por día.
+﻿<color_default>Una mejora de la Alcaldía.<br>
+<color_bright>El Capitolio proporciona a tu reino 4.000 monedas de oro al día.<br><br>
+<color=0099FF>Gobierno<color_default><br>El Gobernador del Capitolio gana +100 experiencia adicional cada día.

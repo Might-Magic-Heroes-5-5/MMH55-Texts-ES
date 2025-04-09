@@ -1,1 +1,1 @@
-﻿Místico:El héroe comienza con +1 de suerte y pierde menos puntos de movimiento cuando usa la habilidad Ritual arcano. El coste de movimiento se reduce en 2 por cada punto de maná recuperado.
+﻿Místico: El héroe empieza con +1 Suerte y pierde menos puntos de movimiento al usar Ritual Arcano. Cada punto de maná costará 2 puntos de movimiento menos.

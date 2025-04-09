@@ -1,1 +1,1 @@
-﻿<color=7F38EC>Suplemento (Jugador 7)
+﻿<color=7F38EC>Proveedor (Jugador 7)

@@ -1,2 +1,2 @@
-﻿Otorga la habilidad de caminar sobre el agua e ignorar completamente las penalizaciones de terreno<br><br><color=red>
-Levitando<color_default><br>Las habilidades de logística y búsqueda de caminos no tienen efecto.
+﻿Permiten al héroe caminar sobre el agua e ignorar las penalizaciones del terreno completamente. El coste de movimiento por casilla se reduce en 25 (excepto viajando por camino).<br><br><color=red>
+Levitación<color_default><br>Las habilidades de Logística y Rastrear no tendrán efecto.

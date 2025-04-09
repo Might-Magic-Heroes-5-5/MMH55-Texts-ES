@@ -1,1 +1,1 @@
-﻿El ataque y la defensa de esta criatura aumentan temporalmente en +6 si el objetivo es una criatura grande.
+﻿Si el objetivo es una Criatura Grande, el Ataque y la Defensa de esta criatura aumenta temporalmente en +6.

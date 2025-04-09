@@ -1,1 +1,1 @@
-﻿Niega la inmunidad al control mental del enemigo
+﻿Neutraliza la inmunidad del enemigo al Control Mental.

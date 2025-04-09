@@ -1,2 +1,1 @@
-﻿<color_default>Una mejora del Recinto Oscuro.<br>
-<color_bright>El Recinto Siniestro te permite reclutar Incursores Tenebrosos e Incursores Energicos.
+﻿<color_default>Una mejora del Cerco Oscuro.<br> <color_bright>El Cerco Tenebroso te permite reclutar Incursores Tenebrosos e Incursores Bríos.

@@ -1,1 +1,1 @@
-﻿Lista de las Habilidades del Héroe.
+﻿Lista de habilidades y talentos que tus héroes han adquirido durante la partida.

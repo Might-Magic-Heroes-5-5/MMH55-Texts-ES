@@ -1,1 +1,1 @@
-﻿Debes escoger 3 modificadores para jugar en modo Ajedrez
+﻿Deberás elegir tres conjuntos para jugar en el Modo Ajedrez

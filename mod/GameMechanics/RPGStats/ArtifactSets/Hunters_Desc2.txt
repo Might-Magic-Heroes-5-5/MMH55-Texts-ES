@@ -1,1 +1,1 @@
-﻿Todos los tiradores retroceden a lo largo de la barra de iniciativa un 30% menos de lo normal durante el disparo. Los Vengadores, Guardabosques, y Druidas tienen su suerte aumentada en +1.
+﻿Todos los tiradores retroceden en la barra de iniciativa un 30% menos de lo normal cuando disparan. Los Montaraces, Vengadores y Druidas aumentan su Suerte +1.

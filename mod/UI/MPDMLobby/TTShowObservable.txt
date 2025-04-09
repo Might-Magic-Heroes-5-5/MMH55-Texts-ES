@@ -1,1 +1,1 @@
-﻿Los juegos del Modo Ajedrez estan llenos, pero pueden ser espectados.
+﻿Mostrar salas de Modo Ajedrez llenas, en las que puedes unirte como expectador.

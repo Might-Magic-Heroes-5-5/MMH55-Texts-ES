@@ -1,1 +1,1 @@
-﻿La Catapulta gana un tiro extra, repartiendo 3 golpes consecutivos en un turno. El Héroe también recibe los bonos de Ataque del carro de munición que normalmente se otorgan a las unidades a distancia del ejército.
+﻿La Catapulta gana dos tiros adicionales, disparando 3 veces consecutivas. El héroe también recibirá la bonificación al Ataque que el Carro de Munición entrega a las tropas a distancia.

@@ -1,1 +1,1 @@
-﻿Clase: Guardabosques<br>Especialización: Maestro de la Caza<br><br><body_bright>Todos los Cazadores y sus mejoras en el ejército del Héroe ganan +1 a su ataque y defensa por cada 2 niveles, comenzando en el primer nivel.<br><color_default> Comienza con el talento Suerte del Soldado.
+﻿Clase: Montaráz<br>Dote: Maestro de la Caza<br><br><body_bright>Todos los Cazadores, Maestros Cazadores y Saeteros Silvanos del ejército del héroe ganan +1 a su Ataque y Defensa por cada dos niveles del héroe.<br><br><color_default>Empieza con el talento<br>Suerte del Soldado.

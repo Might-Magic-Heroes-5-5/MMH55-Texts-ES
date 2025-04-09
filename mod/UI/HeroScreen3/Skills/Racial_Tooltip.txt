@@ -1,1 +1,1 @@
-﻿Las habilidades y especializaciones iniciales del Héroe, determinadas por la clase.
+﻿Las habilidades iniciales del héroe y su Dote, determinadas por su clase.

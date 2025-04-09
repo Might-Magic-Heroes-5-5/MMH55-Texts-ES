@@ -1,1 +1,1 @@
-﻿Clase: Vengador<br>Especialización: Ira Élfica<br><br><body_bright>El héroe comienza con +1 habilidad de ataque y la aumenta aún más en +1 por cada 7 niveles.<br><color_default>Comienza con Magia Oscura Básica.
+﻿Clase: Vengador<br>Dote: Agresor<br><br><body_bright>El héroe empieza con +1 Ataque y lo seguirá aumentando +1 por cada 7 niveles.<br><br><color_default>Empieza con<br>Magia Oscura Básica.

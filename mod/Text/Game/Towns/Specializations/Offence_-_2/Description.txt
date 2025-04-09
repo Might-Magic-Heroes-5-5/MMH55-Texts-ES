@@ -1,1 +1,1 @@
-﻿Todos los enemigos que asaltan esta ciudad reciben -2 de penalización por su ataque.
+﻿Todos los enemigos que intenten tomar esta ciudad obtienen una penalización -2 a su Ataque.

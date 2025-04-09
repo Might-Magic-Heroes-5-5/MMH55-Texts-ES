@@ -1,1 +1,1 @@
-﻿El Ritual ha invocado <value=num> Caballeros Malditos.
+﻿El ritual ha convocado <value=num> Caballeros de la Muerte.

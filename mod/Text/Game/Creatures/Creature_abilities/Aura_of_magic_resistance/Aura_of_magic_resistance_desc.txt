@@ -1,1 +1,1 @@
-﻿Para todas las unidades aliadas ubicadas en casillas adyacentes a la criatura, la resistencia mágica aumenta un 24%
+﻿Todas las unidades aliadas situadas en las casillas adyacentes reciben +24% Negación Mágica.

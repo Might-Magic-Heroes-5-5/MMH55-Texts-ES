@@ -1,1 +1,1 @@
-﻿Inflige daño profano a todas las criaturas vivientes en un campo de batalla excepto criaturas no muertas, elementales e infernales. (Elfos Oscuros no son inmunes)
+﻿Inflige daños impíos a todas las criaturas vivas y elementales del campo de batalla, excepto a las criaturas infernales, no-muertas, ni a los Orcos.<br><color_default>Los Elfos Oscuros no son inmunes.

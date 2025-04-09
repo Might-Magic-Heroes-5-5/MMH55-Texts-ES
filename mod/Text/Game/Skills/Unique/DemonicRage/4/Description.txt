@@ -1,1 +1,1 @@
-﻿Permite a las criaturas de Bastión en el ejército del Héroe alcanzar un tercer nivel de furia mientras luchan. La Ira de Sangre resultante les otorga bonificaciones de Combate apropiadas.
+﻿Habilidad única del Bárbaro. Reduce en 25% el número de puntos que necesitan las criaturas de Bastión para alcanzar el siguiente nivel de Rabia.

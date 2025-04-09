@@ -1,1 +1,1 @@
-﻿Esta criatura puede aumentar su Ataque a expensas de su Defensa, tomando la mitad de los puntos de esta última y añadiéndolos a la primera, que dura hasta el final del Combate, y gana una bonificación extra a su Iniciativa.
+﻿Esta criatura puede aumentar su Ataque a costa de su Defensa, tomando la mitad de los puntos de Defensa y añadiéndolos al Ataque hasta el final del combate y obteniendo una bonificación adicional a su Iniciativa.

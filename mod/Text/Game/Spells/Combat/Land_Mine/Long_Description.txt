@@ -1,1 +1,1 @@
-﻿Coloca aleatoriamente varias minas explosivas mágicas en un área seleccionada del campo de batalla. Las minas son invisibles para el enemigo.
+﻿Coloca aleatoriamente varias minas explosivas mágicas en el campo de batalla. Las minas son invisibles para el enemigo.

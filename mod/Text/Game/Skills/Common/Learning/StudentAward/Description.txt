@@ -1,1 +1,1 @@
-﻿Siendo tan entusiasta para aprender, el Héroe gana +2 Conocimiento y una bonificación de experiencia de una vez igual a 1000 + 250 por cada nivel del Héroe.
+﻿Por su empeño en los estudios, el héroe recibe +2 Conocimiento y una bonificación puntual de experiencia igual a 1000 + 250 puntos por cada nivel del héroe.

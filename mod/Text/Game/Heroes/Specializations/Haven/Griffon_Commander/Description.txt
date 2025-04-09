@@ -1,1 +1,1 @@
-﻿Entrenador de Grifos: Todos los Grifos, Grifos imperiales y Grifos de batalla en el ejército del Héroe ganan +1 a su ataque y defensa por cada 2 niveles, comenzando en el primer nivel. Los Grifos obtienen la habilidad Ataque en Picado.
+﻿Instructor Grifo: Todos los Grifos, Grifos Imperiales y Grifos de Batalla del ejército del héroe ganan +1 a su Ataque y Defensa por cada dos niveles del héroe. Los Grifos sin mejorar obtienen la habilidad Ataque en Picado.

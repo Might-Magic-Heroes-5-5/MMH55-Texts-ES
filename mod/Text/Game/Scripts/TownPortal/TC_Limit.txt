@@ -1,1 +1,1 @@
-﻿<color=yellow>El límite de conversión se ha alcanzado para esta facción.
+﻿<color=yellow>Se ha llegado al límite de conversión para esta facción.

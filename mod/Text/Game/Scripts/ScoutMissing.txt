@@ -1,7 +1,7 @@
-﻿Actualmente no hay criaturas nativas de nivel 1 en tu ejército que permitan explorar este objeto, ¿te gustaría atacar a los guardias sin explorar?
+﻿No dispones de ninguna criatura de nivel 1 en tu ejército que puedas usar de reconocimiento, ¿quieres atacar sin reconocer a la guardia?
 -------------------------------------------------------------------------------
 
-OK = Atacar
-Cancel = Irse
+Aceptar = Atacar
+Cancelar = Volver
 
 -------------------------------------------------------------------------------

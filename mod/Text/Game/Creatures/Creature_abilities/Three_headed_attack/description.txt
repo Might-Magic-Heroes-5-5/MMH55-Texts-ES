@@ -1,1 +1,1 @@
-﻿La criatura muerde a su objetivo principal infligiendo un daño total y envía una ola de fuego de 3 casillas que inflige un 75% de daño a otros oponentes en un radio de 2 casillas.
+﻿La criatura muerde a su objetivo principal, infligiendo daño completo, y emite una bocanada de fuego en tres direcciones que causa 75% de daño a otros enemigos en un radio de 2 casillas.

@@ -1,1 +1,1 @@
-﻿Duplica la regeneración de maná derivada del Conocimiento.<br><color_default> Todo otro tipo de regeneracion demana no se dobla.
+﻿Duplica la regeneración de maná concedida por el conocimiento del héroe.<br><color_default>La regeneración de maná por artefactos, habilidades o especializaciones no se duplica.

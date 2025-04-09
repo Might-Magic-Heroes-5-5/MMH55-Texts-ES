@@ -1,5 +1,5 @@
-﻿Puedes revivir <body_bright><value=allowed_count> de <value=count> <value=name><body><br>
+﻿Puedes animar <body_bright><value=allowed_count> de los <value=count> <value=name><body><br>
 
-Te costará <body_bright><value=energy_needed> puntos<body> de Energía Oscura.
+Te costará <body_bright><value=energy_needed> puntos<body> de Energía oscura.
 
-<body_bright>¿Quieres revivirlos?
+<body_bright>¿Deseas animarlos?

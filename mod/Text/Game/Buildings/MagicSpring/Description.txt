@@ -1,1 +1,1 @@
-﻿Duplica el maná máximo del Héroe una vez por semana.
+﻿Dobla el máximo de maná de un héroe una vez por semana.

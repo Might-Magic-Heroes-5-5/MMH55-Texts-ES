@@ -1,0 +1,1 @@
+﻿La criatura gana +25% de Resistencia Mágica hasta el final del combate.

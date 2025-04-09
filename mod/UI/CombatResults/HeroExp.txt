@@ -1,1 +1,1 @@
-﻿<left>Tu Héroe obtuvo <value=exp> de experiencia.
+﻿<left>Tu héroe gana <value=exp> puntos de experiencia.

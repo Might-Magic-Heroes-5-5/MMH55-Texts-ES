@@ -1,2 +1,2 @@
-﻿Permite seleccionar un enemigo favorito de los Vengadores y aumenta su Conocimiento en 1 .<br><br>
-<color=0099FF>Gobernancia<color_default><br>Otorga al Gobernador +1 Conocimiento. 
+﻿Permite a los Vengadores elegir sus enemigos favoritos y aumenta +1 el Conocimiento de todos los Vengadores.<br><br><color_default>Cumulativo con múltiples ciudades.<br><br>
+<color=0099FF>Gobierno<color_default><br>Concede +1 Conocimiento al Gobernador de esta ciudad.

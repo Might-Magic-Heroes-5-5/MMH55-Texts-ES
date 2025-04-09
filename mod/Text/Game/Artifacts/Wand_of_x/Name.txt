@@ -1,1 +1,1 @@
-﻿Varita de <value=spell_name>
+﻿Varita de<br><value=spell_name>

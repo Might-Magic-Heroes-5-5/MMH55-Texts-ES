@@ -1,1 +1,1 @@
-﻿Otorga inmunidad a los hechizos de nivel 1-<value=enchant> por <value=duration> turnos.
+﻿La criatura será inmune a los hechizos del Círculo 1 al <value=enchant> por <value=duration> turnos.

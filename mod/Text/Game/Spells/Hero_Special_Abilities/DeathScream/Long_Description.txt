@@ -1,1 +1,1 @@
-﻿Habilidad de Combate especial. Reduce temporalmente la moral, la suerte en 2 y la Iniciativa -10% de las unidades vivas enemigas.
+﻿Habilidad especial para llamar a la mismísima muerte en combate. Todas las criaturas vivas enemigas reciben -2 Moral, -2 Suerte y -10% Iniciativa.<br><color_default>La duración del efecto es de 2+0.1(Nivel) turnos. El valor ATB del héroe es restaurado a 0.15 tras el uso.

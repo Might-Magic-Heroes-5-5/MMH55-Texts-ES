@@ -1,1 +1,1 @@
-﻿<color_default>+<value=luck> Suerte, +<value=damage> Daño maximo
+﻿<color_default>+<value=luck> Suerte, +<value=daño> daño max.

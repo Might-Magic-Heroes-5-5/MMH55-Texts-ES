@@ -1,1 +1,1 @@
-﻿Reduce el Poder Mágico del enemigo en Combate por la mitad del Poder Mágico del Jefe de Guerra.
+﻿Reduce la Potencia de Hechizo enemiga en la mitad de la Potencia de Hechizo del Caudillo.

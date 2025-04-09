@@ -1,1 +1,1 @@
-﻿Cuando esta criatura ataca, también envenena el objetivo. El daño del veneno es proporcional al número de criaturas en el momento del ataque. Cada Asesino o Asechador hace 1 de daño por los siguientes 3 turnos, Cada manticora hace 8 de daño por los siguientes 3. 
+﻿Adicionalmente al daño normal, el enemigo atacado será envenenado. El efecto del veneno es proporcional al numero de criaturas presentes en el pelotón atacante en el momento del envenenamiento. Cada Asesino y Acechador inflige 1 de daño durante 3 turnos. Cada Mantícora inflige 8 de daño durante 3 turnos.

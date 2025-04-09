@@ -1,1 +1,1 @@
-﻿Clase: Guardabosques<br>Especialización: Señora del Bosque<br><br><body_bright>El Heroe obtiene +2 Defensa, Los  Treants y sus mejoras pueden actuar inmediatamente al principio del Combate<br><color_default>Comienza con Defensiva Básica.
+﻿Clase: Montaráz<br>Dote: Guardiana del Bosque<br><br><body_bright>El héroe empieza con +2 Defensa permanente y todos los Árbores, Árbores Centenarios y Árbores Salvajes del ejército del héroe podrán actuar de inmediato al comenzar el combate.<br><br><color_default>Empieza con<br>Defensa Básica.

@@ -1,1 +1,1 @@
-﻿Clase: Ingeniero<br>Especialización: Herrero de Guerra<br><br><body_bright>el Héroe comienza con +1 en la habilidad de Defensa y la aumenta en +1 por cada 7 niveles.<br><color_default>Comienza con el talento Vitalidad
+﻿Clase: Ingeniero<br>Dote: Belicísta<br><br><body_bright>El héroe empieza con +1 Defensa y la seguirá aumentando +1 por cada 7 niveles.<br><br><color_default>Empieza con el talento<br>Vitalidad.

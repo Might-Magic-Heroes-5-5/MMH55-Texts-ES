@@ -1,6 +1,8 @@
-﻿+33% de +3 Suerte
-+33% de +2 Suerte
-+33% cde -1 Suerte
-+100% de 33 Mana
+﻿Cambia tu suerte para el siguiente combate.
 
-<color_default>Algunos artefactos pueden ser disueltos aqui.
++3 Suerte (33%)
++2 Suerte (33%)
+-1 Suerte (33%)
++33 Maná
+
+<color_default>Aquí se pueden disolver algunos artefactos.

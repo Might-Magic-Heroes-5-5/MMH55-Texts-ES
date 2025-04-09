@@ -1,1 +1,1 @@
-﻿Decano: El héroe tendrá +1 de Moral y al principio de cada semana Gigantes y sus mejoras adicionales podran ser reclutados en las ciudades de Academia. La cantidad es igual a 0.04* Nivel de Héroe. No habran criaturas adicionales para reclutamiento antes de nivel 13.
+﻿Decana: El héroe tiene +1 Moral permanente y el crecimiento semanal de todos los Gigantes, Titanes y Colosos aumenta +0.04(Nivel) en las ciudades de tu reino. No habrá criaturas adicionales antes del nivel 13.

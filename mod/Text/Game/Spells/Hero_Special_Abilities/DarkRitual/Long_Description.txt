@@ -1,1 +1,1 @@
-﻿El héroe recupera el maná completo a costa de puntos de movimiento. Dependiendo de la maestría de hechicería, el héroe perderá 12, 10 u 8 puntos de movimiento por cada punto de maná recuperado. Esta habilidad solo se puede usar cuando el héroe no ha perdido ningún punto de movimiento.
+﻿El héroe recuperará todo el maná a costa de su movimiento. Según su maestría de Hechicería, el héroe perderá 14, 12 o 10 puntos de movimiento por cada punto de maná que recupere. Esta habilidad solo puede ser usada si el héroe tiene el 100% de sus puntos de movimiento.

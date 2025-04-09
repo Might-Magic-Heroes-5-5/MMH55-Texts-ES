@@ -1,1 +1,1 @@
-﻿Bebedor de Sangre:El Héroe obtiene un bonificador de ataque +1 permanente y cada tropa enemiga muerta (las tropas convocadas también) aumentan el ataque de todas las criaturas de su ejército en +1 por cada 9 niveles del Héroe.
+﻿Bebedor de Sangre: El héroe gana +1 Ataque permanente y cada tropa enemiga asesinada aumenta el Ataque de todas las criaturas de su ejército +1 por cada 9 niveles del héroe.

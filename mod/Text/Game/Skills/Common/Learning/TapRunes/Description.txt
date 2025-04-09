@@ -1,1 +1,1 @@
-﻿La runa Eterea Restaura maná igual al Conocimiento/2 (redondeado hacia abajo), cada vez que se usa una Runa.
+﻿El héroe aprende la Runa del Éter y cada vez que se use una runa el héroe recuperará Maná igual a la mitad de su Conocimiento, redondeado hacia abajo.

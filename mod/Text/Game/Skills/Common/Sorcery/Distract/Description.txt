@@ -1,1 +1,1 @@
-﻿Cada vez que el Héroe enemigo lanza un hechizo, su valor de iniciativa se reduce en 0.15.
+﻿Cada vez que el héroe enemigo lance un hechizo su valor ATB se reducirá en -0.15.

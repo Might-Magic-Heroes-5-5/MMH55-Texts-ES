@@ -1,1 +1,1 @@
-﻿<color=yellow>Ya ha configurado una red de suministro para este edificio.
+﻿<color=yellow>Ya has establecido un contrato de suministro con este edificio.

@@ -1,1 +1,1 @@
-﻿En su camino hacia el objetivo principal, esta criatura ataca a todos los enemigos en el camino, causandoles el 50% de su daño normal sin sufrir Contrataques.
+﻿De camino hasta el objetivo principal, esta criatura atacará a todos los pelotones enemigos, haciendo el 50% de su daño normal y sin recibir contragolpes.

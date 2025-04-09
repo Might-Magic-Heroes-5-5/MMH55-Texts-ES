@@ -1,1 +1,1 @@
-﻿Herida Paralizante<br>-30% Velocidad, -10% Iniciativa
+﻿Herida Incapacitante<br>-30% Velocidad, -10% Iniciativa

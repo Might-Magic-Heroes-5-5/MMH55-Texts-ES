@@ -1,2 +1,1 @@
-﻿Permite el control manual de la Tienda de Primeros Auxilios y le permite resucitar criaturas muertas. El Héroe también recibe una Maleta Medica (artefacto).<color_default><br>
-Restaura la tienda de primeros auxilios después de la batalla si fue destruida, los puntos de vida de la tienda de primeros auxilios se duplican.
+﻿Permite el control manual de la Tienda de Primeros Auxilios y ahora podrá resucitar criaturas muertas en combate.<color_default><br>Si la Tienda de Primeros Auxilios ha sido destruida, será restaurada tras la batalla. Triplica los puntos de vida de la Tienda de Primeros Auxilios.

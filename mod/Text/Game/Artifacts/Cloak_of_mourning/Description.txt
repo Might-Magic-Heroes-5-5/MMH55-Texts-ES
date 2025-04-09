@@ -1,6 +1,6 @@
-﻿-2 Moral a las criaturas enemigas<br>
--2 Suerte a las criaturas enemigas<br><br>
-<color=purple>Abrazo de la Muerte<color_default><br>
-+6 Poder Mágico (3/6)<br>
-+12 Poder Mágico (6/6)<br>
-*La bonificación se aplica después de cerrar el inventario.
+﻿-2 Defensa<br>
+Reduce -2 la Moral y la Suerte de las criaturas enemigas.<br><br>
+<color=purple>El Abrazo de la Muerte<color_default><br>
++6 Potencia de Hechizo (3/6)<br>
++12 Potencia de Hechizo (6/6)<br>
+<br>*La bonificación del conjunto se aplica tras cerrar el Inventario.

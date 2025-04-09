@@ -1,1 +1,1 @@
-﻿El Héroe aprende el hechizo Bola de Fuego y se le otorga un efecto dañino para la armadura de los hechizos Bola de Fuego, Muro de Llamas y Armagedón.<br><color_default>Las criaturas afectadas por estos hechizos sufren una penalización de defensa adicional del -50%.
+﻿El héroe aprende el hechizo Bola de Fuego, y confiere el efecto Quebrar Armadura a los hechizos Bola de Fuego, Muro de Fuego y Apocalipsis.<br><color_default>Los hechizos de fuego reducirán la Defensa enemiga a la mitad. Esta penalización dura 1 turno y no es cumulativa.

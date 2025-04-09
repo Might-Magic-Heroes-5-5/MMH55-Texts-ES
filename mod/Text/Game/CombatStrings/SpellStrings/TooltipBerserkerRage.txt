@@ -1,1 +1,1 @@
-﻿<color_default>Defensa se transformo en Ataque
+﻿<color_default>defensa remplazada por ataque

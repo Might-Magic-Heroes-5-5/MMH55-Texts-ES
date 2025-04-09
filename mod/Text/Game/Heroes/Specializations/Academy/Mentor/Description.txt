@@ -1,1 +1,1 @@
-﻿Mentor: Todos los Magos y sus mejoras en el ejército del Héroe ganan mana extra ademas de +1 Ataque y Defensa por cada 2 niveles del Héroe, comenzando en el primer nivel.
+﻿Mentor: Otorga maná adicional a todos los Magos (+1), Archimagos (+12) y Magos de Combate (+7).<br><br>Además, estas criaturas ganan +1 a su Ataque y Defensa por cada dos niveles del héroe.

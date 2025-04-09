@@ -1,1 +1,1 @@
-﻿Ejército y Estadísticas <hotkey=hero_attributes>
+﻿Ejércitos y Atributos<hotkey=hero_attributes>

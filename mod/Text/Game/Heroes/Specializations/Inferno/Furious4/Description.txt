@@ -1,1 +1,1 @@
-﻿Aura de Agilidad: La Iniciativa de todas las criaturas en el ejército del Héroe se incrementa en un 2.5% + 0.25% por nivel.
+﻿Aura de Rapidez: La Iniciativa de todas las criaturas del ejército del héroe aumenta +2.5%, y +0.25% adicional por nivel.

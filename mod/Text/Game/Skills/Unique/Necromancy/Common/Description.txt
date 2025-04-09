@@ -1,1 +1,1 @@
-﻿Permite al Héroe levantar parte de las criaturas vivientes enemigas caídas.
+﻿Permite al héroe reanimar como tropas suyas parte de las criaturas enemigas caídas.

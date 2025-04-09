@@ -1,1 +1,1 @@
-﻿<color_default>Habilidades tienen una segunda oportunidad de ocurrir
+﻿<color_default>Habilidades tienen dos oportunidades de éxito

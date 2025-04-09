@@ -1,1 +1,1 @@
-﻿Si hay una criatura con esta habilidad en el ejército del Héroe, el Héroe necesitará un 10% menos de maná para lanzar hechizos.
+﻿Si en el ejército del héroe hay alguna criatura con esta habilidad, dicho héroe necesitará un 25% menos de Maná para lanzar hechizos. La reducción del coste es redondeada hacia arriba, resultando siempre en una disminución de al menos 1 Maná.

@@ -1,1 +1,1 @@
-﻿El Héroe recibe +2 Poder Mágico de forma permanente y otro +1 Poder Mágico por cada 5 niveles de Héroe. El Héroe también obtiene una bonificación única de +100 de maná.
+﻿El héroe recibe +2 Potencia de Hechizo y continuará incrementandola en +1 por cada 5 niveles. Además, gana +4 Regeneración de Maná y una bonificación temporal de +100 Maná.

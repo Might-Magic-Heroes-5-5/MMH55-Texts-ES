@@ -1,1 +1,1 @@
-﻿<color=yellow>Encontraste un diario de aventuras.
+﻿<color=yellow>Has encontrado el Diario de un Aventurero.

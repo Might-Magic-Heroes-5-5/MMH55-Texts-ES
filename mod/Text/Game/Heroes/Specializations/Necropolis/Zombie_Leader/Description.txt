@@ -1,1 +1,1 @@
-﻿Señor de los Zombis: Todos los Zombis y sus mejoras en el ejército del héroe siempre actuarán inmediatamente al comienzo del Combate, Ademas todos los zombies y sus mejroas ganan +1 Ataque y +1 Defensa por cada 2 niveles del Heroe.
+﻿Señor de los Zombis: Todos los Zombis, Zombis Apestados y Zombis Pútridos podrán actuar de inmediato al comienzo del combate.<br><br>Además, todas estas criaturas del ejército del héroe ganan también +1 a su Ataque y Defensa por cada dos niveles del héroe.

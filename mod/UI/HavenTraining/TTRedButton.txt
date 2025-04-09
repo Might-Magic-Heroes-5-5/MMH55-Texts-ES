@@ -1,1 +1,1 @@
-﻿El entrenamiento es imposible (Se ha alcanzado el limite semanal o Recursos Insuficientes).
+﻿La instrucción es imposible (se ha llegado al límite o no hay suficientes recursos).

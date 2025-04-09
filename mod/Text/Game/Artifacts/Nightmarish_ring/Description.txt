@@ -1,1 +1,1 @@
-﻿-2 moral a las criaturas enemigas
+﻿Disminuye -2 la Moral del ejército enemigo.

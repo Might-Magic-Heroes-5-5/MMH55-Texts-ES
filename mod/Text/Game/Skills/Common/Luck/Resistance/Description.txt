@@ -1,1 +1,1 @@
-﻿Aumenta la resistencia mágica de todas las criaturas en el ejército del Héroe en un 15%. Las criaturas son más propensas a evitar la magia enemiga.
+﻿Aumenta la Negación Mágica de todas las criaturas del ejército del héroe +12%.<br><color_default>La Negación Mágica otorga la posibilidad de anular por completo un hechizo que inflija daño, a excepción de Puño Mágico, Descomposición y Vulnerabilidad.

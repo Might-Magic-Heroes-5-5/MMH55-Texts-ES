@@ -1,1 +1,1 @@
-﻿Biografía<hotkey=hero_biography>
+﻿Perfil <hotkey=hero_biography>

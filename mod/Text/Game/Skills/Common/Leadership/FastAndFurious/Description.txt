@@ -1,1 +1,1 @@
-﻿La velocidad de todas las unidades en el ejército del Héroe aumenta en 1.
+﻿La velocidad de movimiento de combate de todas las unidades del ejército del héroe aumenta en +1.

@@ -1,1 +1,1 @@
-﻿Esta criatura es más efectiva en Combate cuerpo a cuerpo y solo inflige la mitad de su daño en ataques a distancia (Mantenga presionado el botón Ctrl para enfrentarse a enemigos en cuerpo a cuerpo).
+﻿Esta criatura es más efectiva en el combate cuerpo a cuerpo y solo inflige la mitad de su daño en los ataques a distancia (Manten pulsado Ctrl para atacar cuerpo a cuerpo)

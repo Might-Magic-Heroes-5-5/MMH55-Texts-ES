@@ -1,1 +1,1 @@
-﻿El Héroe pide a las fuerzas de la naturaleza que afecten a las criaturas voladoras enemigas. La iniciativa de todos los voladores enemigos se reduce en un 2 y su Salud disminuye en 1.
+﻿El héroe invoca a las fuerzas de la naturaleza para que caigan sobre las criaturas voladoras enemigas. La Iniciativa de todas las criaturas voladoras enemigas disminuyen en -2, y su Velocidad en -1.

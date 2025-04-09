@@ -1,4 +1,4 @@
-﻿Elegir recompensa
+﻿Elige tu recompensa:
 
-OK = <value=qty_a> <value=type_a>
+Aceptar = <value=qty_a> <value=type_a>
 Cancelar = <value=qty_b> <value=type_b>

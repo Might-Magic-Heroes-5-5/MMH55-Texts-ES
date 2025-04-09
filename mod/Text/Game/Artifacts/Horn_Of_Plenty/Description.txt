@@ -1,5 +1,4 @@
-﻿+Conocimiento*75 de oro por día<br><color_default>
-(por ejemplo 1500 de oro por día por 20 de Conocimiento)<br><br><color=orange>
+﻿Aporta una cantidad diaria de Oro a tu reino igual a 75 veces el Conocimiento del héroe.<br><br><color=orange>
 Ganso Dorado<color_default><br>
-Lleva los 3 artefactos que proporcionan oro sin fin a una biblioteca arcana para obtener una recompensa única<br><br><color=yellow>
-Mochila<color_default><br>Este artefacto funciona desde la mochila, pero la funcionalidad está limitada a un artefacto por Héroe. 
+Trae los tres artefactos de Oro Interminable a una Biblioteca Arcana y recibe una recompensa excepcional.<br><br><color=yellow>
+...de bolsillo<color_default><br>Este artefacto funciona desde el inventario del héroe, pero la funcionalidad está limitada a un artefacto por héroe.

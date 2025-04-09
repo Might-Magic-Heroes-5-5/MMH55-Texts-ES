@@ -1,1 +1,1 @@
-﻿Teletransporta a la criatura aliada a otra ubicación en el campo de batalla (se requiere Maestria Experto para teletransportar criaturas a través de las murallas de la ciudad).
+﻿Teletransporta a la criatura amiga objetivo a otro lugar del campo de batalla.<br><br><color_default>Se requiere Magia de la Luz Experta para teletransportar criaturas detrás de los muros de una ciudad.

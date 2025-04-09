@@ -1,1 +1,1 @@
-﻿La habilidad Golpe de Represalia del Héroe inflige triple daño.
+﻿Aumenta +50% el daño base de Contrataque, y Maestría Marcial ahora infligirá daño triplicado.

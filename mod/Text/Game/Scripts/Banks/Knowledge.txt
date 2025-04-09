@@ -1,1 +1,1 @@
-﻿<color=yellow>Tu Sabiduía ha aumentado +<value=param> permanentemente.
+﻿<color=yellow>Tu Conocimiento aumenta +<value=param> permanentemente.

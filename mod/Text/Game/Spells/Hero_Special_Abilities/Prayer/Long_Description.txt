@@ -1,1 +1,1 @@
-﻿Habilidad de Combate especial. Aumenta temporalmente la moral, el ataque y la defensa de las unidades aliadas en 2 y la iniciativa en 10%(no funciona en muertos vivientes y mecánicos).
+﻿Habilidad especial de combate que aumenta temporalmente +2 el Ataque, Defensa y Moral de todas las tropas aliadas, así como +10% su Iniciativa.<br><br><color_default>El efecto dura 2+0.01(Nivel) turnos. El valor de ATB del héroe se restaura a 0.15 tras el uso. No tiene efecto sobre criaturas no-muertas.

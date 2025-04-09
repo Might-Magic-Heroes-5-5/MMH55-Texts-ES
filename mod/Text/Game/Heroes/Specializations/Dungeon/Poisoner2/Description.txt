@@ -1,1 +1,1 @@
-﻿Toxicologo: las unidades enemigas pueden entrar en Combate ya envenenadas, las posibilidades dependen del nivel del Héroe. Las posibilidades son 10%+Nivel*1%, para cada unidad enemiga. La protección mágica de los objetivos reduce el efecto del veneno, pero Espejo Magico no funciona.
+﻿Maestro Envenenador: Cada pelotón enemigo tiene una probabilidad del 10+(Nivel)% de empezar el combate con el efecto Descomposición.<br><br>Esto no consume maná del héroe y no puede ser reflejado por el talento Espejo Mágico, pero la resistencia mágica reduce su efecto.

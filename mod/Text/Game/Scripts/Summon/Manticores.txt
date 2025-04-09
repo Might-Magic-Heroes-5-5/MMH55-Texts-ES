@@ -1,1 +1,1 @@
-﻿El Ritual ha invocado <value=num> Mantícoras.
+﻿El ritual ha convocado <value=num> Mantícoras.

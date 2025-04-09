@@ -1,1 +1,1 @@
-﻿El Héroe adquiere el hechizo Desviar Misil Masivo e Inmunidad Magia a nivel Experto.<br><color_default> La iniciativa del Héroe se reinicia a 0.24 después de lanzar cualquier hechizo masivo, independientemente del nivel de Hechicería.
+﻿El héroe adquiere los hechizos Eludir Proyectil Masivo e Immunidad a la Magia a nivel de maestría experta.<br><color_default>El valor ATB del héroe se restaura a 0.24 tras lanzar cualquier hechizo masivo, sin importar el nivel de Hechicería.

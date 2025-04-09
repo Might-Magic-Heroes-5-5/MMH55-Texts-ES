@@ -1,1 +1,1 @@
-﻿Esta ventana muestra información sobre las habilidades basadas en la clase del Héroe y todas las habilidades secundarias aprendidas durante el juego.
+﻿Esta ventana muestra información sobre las habilidades de clase del héroe y todas las habilidades secundarias aprendiadas durante la partida.

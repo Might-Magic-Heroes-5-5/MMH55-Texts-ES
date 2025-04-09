@@ -1,1 +1,1 @@
-﻿<value=source_color><value=source> hace <value=damage> Daño a <value=target> y realentiza su turno.
+﻿<value=source_color><value=source> inflige <value=damage> de daño a <value=target> y retarda su turno.

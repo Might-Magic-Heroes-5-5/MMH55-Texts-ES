@@ -1,1 +1,1 @@
-﻿Guardián de Sheogh: El héroe comienza con +1 de Moral permanentemente y al principio de cada semana Diablos y sus mejoras adicionales podran ser reclutados en las ciudades de Infierno. La cantidad es igual a 0.04* Nivel de Héroe. No habran criaturas adicionales para reclutamiento antes de nivel 13.
+﻿Guardia de Sheogh: El héroe empieza con +1 Moral permanente y el crecimiento semanal de todos los Diablos, Archidiablos y Archidemonios aumenta +0.04(Nivel) en las ciudades de tu reino. No habrá criaturas adicionales antes del nivel 13.

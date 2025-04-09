@@ -1,1 +1,1 @@
-﻿Daga de Sylanna: El Héroe comienza con Magia de Invocación (una habilidad que los Vengadores normalmente no pueden aprender) y todas las criaturas Silvanas bajo el mando del Héroe infligen + 1% más de daño a los enemigos favoritos para cada nivel de experiencia.
+﻿Espada de Sylanna: El héroe empieza con la habilidad Magia de la Convocación —algo que los Vengadores normalmente no pueden aprender. <br><br>Además, todas las criaturas Silvanas del ejército del héroe aumentan +0.5% su daño contra los enemigos favoritos por cada nivel del héroe.

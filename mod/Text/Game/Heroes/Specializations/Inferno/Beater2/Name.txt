@@ -1,1 +1,1 @@
-﻿Clase: Picaro<br>Especialización: Azotador<br><br><body_bright>Los puntos de movimiento del Héroe se incrementan en un 5% instantáneamente y en un + 1% por cada cuatro niveles. El costo del hechizo Teleportación se reduce a la mitad.<br><color_default>Comienza con Magia Oscura Básica.
+﻿Clase: Truhán<br>Dote: Presuroso<br><br><body_bright>Los puntos de movimiento del héroe aumentan +5% y +1% adicional por cada cuatro niveles. El coste del hechizo Teletransporte se reduce a la mitad.<br><br><color_default>Empieza con<br>Magia Oscura Básica.

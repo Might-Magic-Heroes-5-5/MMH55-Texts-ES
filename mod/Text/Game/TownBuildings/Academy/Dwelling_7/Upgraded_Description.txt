@@ -1,2 +1,1 @@
-﻿<color_default>Una mejora del Coliseo de las Nubes.<br>
-<color_bright>El Coliseo de la Nube del Trueno te permite reclutar Titanes y Colosos.
+﻿<color_default>Una mejora del Coliseo de las Nubes.<br><color_bright>El Coliseo de la Tempestad te permite reclutar Titanes y Colosos.

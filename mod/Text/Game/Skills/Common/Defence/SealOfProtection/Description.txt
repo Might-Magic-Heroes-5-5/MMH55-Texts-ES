@@ -1,1 +1,1 @@
-﻿El Héroe gana +4 a la Defensa permanentemente.
+﻿El héroe gana +2 Defensa permanentemente y adquiere un Vial de Sangre Vital, un artefacto capaz de resucitar criaturas después de cada batalla.

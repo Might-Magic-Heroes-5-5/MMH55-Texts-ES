@@ -1,1 +1,1 @@
-﻿<color_default>-<value=initiative>% iniciativa, -<value=damage>% Daño
+﻿<color_default>-<value=initiative>% Iniciativa, -<value=daño>% daño

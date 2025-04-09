@@ -1,1 +1,2 @@
-﻿Elimina el borde de la ventana de juego en modo ventana.
+﻿En modo Ventana: Elimina los bordes pero no podrás reajustar el tamaño.
+En modo Pantalla Completa: Forzará modo Ventana con la resolución actual del monitor principal.

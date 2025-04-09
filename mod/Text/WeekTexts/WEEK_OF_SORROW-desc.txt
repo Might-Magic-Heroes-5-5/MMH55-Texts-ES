@@ -1,1 +1,1 @@
-﻿Durante las batallas, la moral y la suerte de todas las criaturas de las facciones de Santuario, Silvanos y Academia se reducen en -1.
+﻿La Moral y la Suerte de todas las criaturas de Santuario, Silvanas y Academia se reduce -1 durante las batallas.

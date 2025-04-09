@@ -1,1 +1,1 @@
-﻿Esta criatura puede reparar Golems y máquinas de guerra una vez por Combate (Talento Activable). La cantidad de salud recuperada es igual a la cantidad de Gremlins * 2.
+﻿Esta criatura puede reparar criaturas mecánicas aliadas (Gólems) y máquinas de guerra una vez por combate (habilidad activable). La cantidad de puntos de vida reparados es 2 por Gremlin. Esta habilidad requiere de almenos 20 Gremlins presentes en el pelotón al comienzo del combate.

@@ -1,1 +1,1 @@
-﻿Clase: Ingeniero<br>Especialización: Hoja Afilada<br><br><body_bright>Todos los Lanzeros y sus mejoras en el ejército del Héroe ganan +1 a su ataque y defensa por cada 2 niveles del Héroe, comenzando en el primer nivel.<br><color_default>Comienza con Ofensiva Básica.
+﻿Clase: Ingeniero<br>Dote: Punta Afilada<br><br><body_bright>Todos los Lanceros, Jabalineros y Arponeros del ejército del héroe ganan +1 a su Ataque y Defensa por cada dos niveles del héroe.<br><br><color_default>Empieza con el talento<br>Suerte del Soldado.

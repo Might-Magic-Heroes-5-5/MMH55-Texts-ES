@@ -1,2 +1,2 @@
 ﻿<color_default>Una mejora de la Cámara de la Ira.<br>
-<color_bright>La Cámara de la furia te permite reclutar ejecutores y señores de la guerra.
+<color_bright>La Cámara de la Rabia te permite reclutar Ejecutores y Verdugos.

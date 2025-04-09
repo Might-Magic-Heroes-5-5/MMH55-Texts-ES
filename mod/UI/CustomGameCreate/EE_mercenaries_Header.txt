@@ -1,1 +1,1 @@
-﻿<value_name>Campeones Neutrales: <value_value><value=EE_mercenaries>
+﻿<value_name>Héroes Neutrales: <value_value><value=EE_mercenaries>

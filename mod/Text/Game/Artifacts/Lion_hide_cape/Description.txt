@@ -1,5 +1,5 @@
 ﻿+2 Conocimiento<br>
-+2 Moral<br><br><color=purple>
-El espíritu del león<color_default><br>
++2 Moral<br><br>
+<color=purple>Espíritu de León<color_default><br>
 +6 Ataque (3/3)<br>
-*La bonificación se aplica después de cerrar el inventario.
+<br>*La bonificación del conjunto se aplica tras cerrar el Inventario.

@@ -1,1 +1,1 @@
-﻿Le permite ajustar la profundidad de búsqueda de la IA. Imposible es el ajuste "más inteligente" pero puede ralentizar severamente los mapas grandes, ajustarlo bajo si los turnos toman demasiado tiempo.(Para mapas XL no usar mas que "Difícil"
+﻿Te permite ajustar la anticipación estratégica de la IA. 'Imposible' es la configuración más 'inteligente' pero la ganancia es menor y puede afectar severamente al rendimiento en mapas grandes, redúcela si los turnos son muy largos. No es recomendable pasar de 'Difícil' en mapas XL.

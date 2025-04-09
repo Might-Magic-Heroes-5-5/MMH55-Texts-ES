@@ -1,1 +1,1 @@
-﻿Crea un juego Modo Ajedrez
+﻿Crear partida Modo Ajedrez

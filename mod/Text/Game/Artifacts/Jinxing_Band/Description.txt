@@ -1,1 +1,1 @@
-﻿-1 Suerte a las criaturas enemigas
+﻿Reduce -1 la Suerte de las criaturas enemigas.

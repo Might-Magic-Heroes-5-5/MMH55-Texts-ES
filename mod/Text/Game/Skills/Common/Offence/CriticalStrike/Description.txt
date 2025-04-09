@@ -1,1 +1,1 @@
-﻿El Héroe prefiere su arma en lugar de la magia. Hay un 70% de posibilidades de que el Héroe realice un golpe crítico que inflija el doble de daño al objetivo.
+﻿El héroe prefiere su arma al uso de la magia. Hay un 70% de posibilidades de que el héroe aseste un golpe crítico, infligiendo el doble de daño al objetivo.

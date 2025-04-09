@@ -1,2 +1,2 @@
-﻿<color_default>Mejora del Mercado.<br>
-<color_bright>El silo de recursos proporciona una gema por día.
+﻿<color_default>Una mejora del Mercado.<br>
+<color_bright>El Silo de Recursos te da +1 Gema adicional cada día.

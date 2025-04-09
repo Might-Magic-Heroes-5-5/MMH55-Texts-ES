@@ -1,1 +1,1 @@
-﻿Reina Liche: al comienzo de cada semana Liches y sus mejoras adicionales estarán disponibles para reclutar en todas las ciudades Necropolis de propiedad. La cantidad es igual a 0,13*nivel de Héroe. No hay criaturas adicionales disponibles antes del nivel 4.
+﻿Reina Liche: Otorga maná adicional a todos los Liches (+7), Archiliches (+6) y Maestros Liche (+14).<br><br>Además, el crecimiento semanal de todas estas criaturas aumenta +0.13(Nivel) en las ciudades de tu reino. No habrá criaturas adicionales antes del nivel 4.

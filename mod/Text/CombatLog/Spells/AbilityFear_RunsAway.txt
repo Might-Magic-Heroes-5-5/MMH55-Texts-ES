@@ -1,0 +1,1 @@
+﻿<value=target_color>Efecto de Aterrorizar:<body_bright> <value=target> huye y retarda su acción en <value=damage>% ATB.

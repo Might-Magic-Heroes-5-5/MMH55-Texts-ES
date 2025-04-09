@@ -1,1 +1,1 @@
-﻿Permite a las criaturas de Bastión en el ejército del Héroe alcanzar un tercer nivel de furia mientras luchan. La Ira Sangrienta resultante les otorga bonificaciones de Combate apropiadas.
+﻿Permite a las criaturas de Bastión del ejército del héroe alcanzar el tercer nivel de Rabia durante la batalla, adquiriendo bonificaciones en combate. La Rabia acumulada absorverá el 25% de todo el daño que reciban las tropas hasta que se agote por completo.

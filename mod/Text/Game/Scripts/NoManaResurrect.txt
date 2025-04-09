@@ -1,1 +1,1 @@
-﻿<color=red>No hay maná para revivir criaturas.
+﻿<color=red>Maná insuficiente para resucitar criaturas.

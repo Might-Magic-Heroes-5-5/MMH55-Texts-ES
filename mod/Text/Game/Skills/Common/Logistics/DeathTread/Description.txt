@@ -1,1 +1,1 @@
-﻿Todas las tropas del Héroe obtienen +3 de velocidad durante el asedio de un Castillo enemigo.
+﻿Todas las tropas del héroe ganan +4 de velocidad durante el asedio de un castillo enemigo y la catapulta gana un total de 4 tiros por turno.

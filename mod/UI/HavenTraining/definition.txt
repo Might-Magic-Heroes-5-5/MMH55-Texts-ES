@@ -1,1 +1,1 @@
-﻿<body> El Campo de Entrenamiento te permite mejorar una cantidad limitada de criaturas a la semana, permite convertir criaturas humanas de nivel bajo a niveles superiores.
+﻿<body>Los Campos de Instrucción sirven para instruir a un número limitado de tropas de Santuario de baja categoría y convertirlas en tropas de una categoría más alta.

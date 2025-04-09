@@ -1,1 +1,1 @@
-﻿La criatura obtiene una bonificación del 3,33% del daño que inflinge durante el ataque por cada casilla que cubrió en el campo de juego antes del ataque.
+﻿La criatura recibe un 3.33% de bonificación al daño que causa durante el ataque por cada casilla que haya recorrido en el campo de batalla antes del golpe.

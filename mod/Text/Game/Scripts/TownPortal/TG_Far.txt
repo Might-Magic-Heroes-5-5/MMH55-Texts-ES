@@ -1,2 +1,2 @@
-﻿<color=red>¡El Gobernador está muy lejos de su ciudad!
+﻿<color=red>¡El gobernador está demasiado lejos de la ciudad!
 

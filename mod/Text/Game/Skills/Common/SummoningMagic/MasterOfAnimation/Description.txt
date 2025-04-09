@@ -1,1 +1,1 @@
-﻿El Héroe aprende el hechizo Puño de Ira, los hechizos Puño de Ira y Levantar Muertos serán más potentes (Poder Mágico efectivo +4 mientras lanza esos hechizos). Si el Héroe tiene Magia de la Luz, también aprenderá el hechizo Regeneración. Los Héroes de Necrópolis aprenden Levantar Muertos en lugar de Puño de Ira.
+﻿El héroe aprende el hechizo Puño de Ira, y hace que los hechizos Puño de Ira y Muro de Fuego sean lanzados con +4 de Potencia de Hechizo efectiva.

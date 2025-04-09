@@ -1,5 +1,3 @@
 ﻿+3 Suerte si está equipado<br>
-+Conocimiento*200 de oro por día<br><color_default>
-(por ejemplo 4000 de oro por día por 20 de Conocimiento)<br><br><color=yellow>
-Mochila<color_default><br>
-Los recursos también se obtienen cuando el artefacto está en la mochila, pero la funcionalidad está limitada a un artefacto por tipo de recurso por Héroe.
+Otorga una cantidad de Oro por día igual a 200 veces el Conocimiento del Héroe<br><br><color=yellow>
+...de bolsillo<color_default><br>Este artefacto funciona desde el inventario del héroe, pero la funcionalidad está limitada a un artefacto por héroe.

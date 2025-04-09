@@ -1,7 +1,5 @@
-﻿+1 Poder Mágico<br>
+﻿+1 Potencia de Hechizo<br>
 +1 Conocimiento<br>
-Otorga la capacidad de aprender hechizos de 4.º nivel si el Héroe tiene el talento Omnisciencia arcana.<color_default><br>
-+2 Poder Mágico si el Héroe tiene Entendimiento Avanzado<br>
-+2 Conocimiento si el Héroe tiene Entendimiento Avanzado<br>
-+3 Poder Mágico si el Héroe tiene Entendimiento Experto<br>
-+3 Conocimiento si el Héroe tiene Entendimiento Experto
++2 Conocimiento y Potencia de Hechizo si el héroe tiene Ilustración Avanzada<br>
++3 Conocimiento y Potencia de Hechizo si el héroe tiene Ilustración Experta<br><br>
+Permite aprender cualquier hechizo del 4º circulo de magia si el héroe posé el talento Omnisciencia Arcana.

@@ -1,1 +1,1 @@
-﻿Artista Rúnico: Las probabilidades de éxito con la Runa Fina se incrementan en + 1% para cada nivel del Héroe.
+﻿Prodigio: El héroe empieza con +1 Conocimiento y aprende una habilidad primaria al azar cada 6 niveles.

@@ -1,4 +1,4 @@
-﻿El propietario de este edificio le ofrece un contrato de suministro a cambio de <value=num> de oro, si los aceptas recibirás cualquier recurso que produzca automáticamente al comienzo de cada semana.
+﻿El dueño de este edificio te ofrece contratar sus servicios por <value=num> monedas de oro, si aceptas proveerá a tu reino con cualquier recurso que produzca automáticamente al comienzo de cada semana.
 
-OK = Contratar (<value=num> de oro)
-Cancelar = Visita única.
+Aceptar = Firmar el Contrato (<value=num> Oro).
+Cancelar = Solo hacer una visita.

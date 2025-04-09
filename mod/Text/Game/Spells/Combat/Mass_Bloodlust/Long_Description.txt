@@ -1,1 +1,1 @@
-﻿Mejora enormemente las capacidades ofensivas de la criatura objetivo. La efectividad depende del Poder Mágico. Si el objetivo está bajo la influencia del hechizo de Sufrimiento, persistira el hechizo con el Poder Mágico superior..
+﻿Aumenta el ataque de todas las criaturas aliadas en una cantidad proporcional a la Potencia de Hechizo. Si el objetivo tiene el efecto del hechizo Sufrimiento, ambos hechizos seguirán activos y la diferencia de poder de los lanzadores determinará el resultado.

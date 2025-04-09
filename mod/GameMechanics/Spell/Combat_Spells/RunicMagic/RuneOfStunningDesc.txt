@@ -1,1 +1,1 @@
-﻿La criatura seleccionada tendrá una probabilidad de aturdir al enemigo una vez usando su ataque normal. Si el aturdimiento falla, la runa permanecerá activa hasta que tenga éxito. también funciona a distancia y se ve afectado por la el talento Suerte del Soldado.
+﻿La criatura elegida tendrá la oportunidad de aturdir al enemigo con su siguiente ataque. La runa permanecerá activa hasta aturdir una vez. El efecto es el mismo que la habilidad Mandoble pero también funciona con ataques a distancia y su probabilidad aumenta con Suerte del Soldado.

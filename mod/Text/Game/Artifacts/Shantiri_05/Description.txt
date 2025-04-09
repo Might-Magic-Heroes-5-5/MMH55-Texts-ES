@@ -1,3 +1,3 @@
-﻿+6 Poder Mágico<br>
-+6 Conocimiento<br><br><color=yellow>Guardianes Primordiales<br><color_default>
-Invoca un Fénix cada semana en la guarnición de cada pueblo que sea del mismo alineamiento que el Héroe, este efecto también funciona cuando el artefacto está en la mochila.
+﻿+6 Potencia de Hechizo<br>
++6 Conocimiento<br><br><color=yellow>Guardianes Primigenios<br><color_default>
+Convoca un Fénix cada semana a la guarnición de todas las ciudades nativas aliadas. Este efecto funciona también cuando el artefacto está en el inventario.

@@ -1,1 +1,1 @@
-﻿Todas las tropas que custodian esta ciudad obtienen un bonificador de +1 a su defensa.
+﻿Todas las tropas que protegen esta ciudad obtienen una bonificación +1 a su Defensa.

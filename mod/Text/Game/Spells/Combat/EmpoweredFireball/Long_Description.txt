@@ -1,1 +1,1 @@
-﻿Inflinge daño de fuego a todas las unidades en el área objetivo.
+﻿Inflige daño por fuego a todas las unidades en la zona objetivo.

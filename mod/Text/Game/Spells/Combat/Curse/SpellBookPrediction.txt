@@ -1,1 +1,1 @@
-﻿El daño máximo se reduce en un <value=enchant>%  hacia el mínimo durante <value=duration> turnos. 
+﻿Daño máximo reducido -<value=enchant>% por <value=duration> turnos.

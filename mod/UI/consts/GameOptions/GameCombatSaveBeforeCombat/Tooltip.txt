@@ -1,1 +1,1 @@
-﻿El juego se guardará automáticamente antes de cada combate.
+﻿Se guardará automáticamente la partida antes de cada combate

@@ -1,1 +1,1 @@
-﻿<color=yellow>Hallaste una pieza del Disco Lunar Shantiri!
+﻿<color=yellow>¡Has encontrado una pieza del Disco Lunar Shantiri!

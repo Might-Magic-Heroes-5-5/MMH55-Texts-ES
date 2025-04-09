@@ -1,1 +1,1 @@
-﻿<value_name>IA con descuentos tempranos: <value_value>apagado
+﻿<value_name>Descuento inicial IA: <value_value>ninguno

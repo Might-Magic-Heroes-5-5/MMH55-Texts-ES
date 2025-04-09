@@ -1,1 +1,1 @@
-﻿Permite que una Runa previamente colocada (seleccionada al azar si hay muchas) se reinicie en una criatura seleccionada. El héroe pasa solo medio turno para refrescar la Runa. Una vez reiniciada en una criatura, la runa vuelve a estar disponible con el coste normal.
+﻿Permite a una Runa colocada previamente (seleccionada al azar) ver su efecto restaurado sobre una criatura seleccionada. El héroe gasta solo medio turno en restaurar la Runa. Una vez restaurada sobre una criatura, la Runa vuelve a estar dispobible al coste habitual.

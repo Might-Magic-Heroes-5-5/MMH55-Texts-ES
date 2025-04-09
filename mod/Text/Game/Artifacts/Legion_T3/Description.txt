@@ -1,6 +1,6 @@
 ﻿+1 Defensa si está equipado<br><br>
-Refuerza el ejército del Héroe con criaturas nativas de nivel 3 al comienzo de cada semana, siempre que algunas ya estén presentes. La cantidad es igual al Conocimiento del Héroe/2 (o 1).
-<br><color=orange>Insignia de la Legión<br><color_default>
-Ofrece las 7 Insignias de la Legión en un altar de sacrificios para obtener una recompensa única.
-<br><color=yellow>Mochila<color_default><br>
-Los refuerzos también se obtienen cuando el artefacto no está equipado, pero no si un Insignia de nivel superior está equipada o en la mochila. 
+Refuerza con criaturas nativas de Tipo 3 al ejército del héroe al comienzo de cada semana, siempre y cuando haya alguna presente. La cantidad es igual a 1/2 del Conocimiento del héroe (min. 1).
+<br><color=orange>Galas de la Legión<br><color_default>
+Ofrenda las 7 Galas de la Legión en un Altar de Sacrificios a cambio de una recompensa excepcional.
+<br><color=yellow>...de bolsillo<color_default><br>
+Los refuerzos también se obtienen cuando el artefacto está en el inventario, pero no si una Gala de mayor nivel está equipada o en el inventario.

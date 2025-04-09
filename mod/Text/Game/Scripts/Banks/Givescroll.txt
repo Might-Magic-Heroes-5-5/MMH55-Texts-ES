@@ -1,1 +1,1 @@
-﻿<color=yellow>Encontraste un pergamino mágico.
+﻿<color=yellow>Has encontrado un Pergamino mágico.

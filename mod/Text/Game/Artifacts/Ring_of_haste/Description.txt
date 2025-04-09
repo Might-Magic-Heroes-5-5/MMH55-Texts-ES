@@ -1,2 +1,2 @@
-﻿+12 Poder Mágico<br>
-+20% Iniciativa a criaturas aliadas
+﻿+12 Potencia de Hechizo<br>
+Aumenta +20% la Iniciativa de las criaturas aliadas.

@@ -1,1 +1,1 @@
-﻿<h4>Costo de revivir: <body_bright><value=needed_energy> puntos<h4> de Energía Oscura.
+﻿<h4>Coste de animar a esta criatura: <body_bright><value=needed_energy> puntos<h4> de Energía oscura.

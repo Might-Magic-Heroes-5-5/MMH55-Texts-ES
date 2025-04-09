@@ -1,5 +1,5 @@
-﻿+16 de maná por día si se equipa continuamente<br><br><color=purple>
-Túnica del profeta<color_default><br>
-+4 Poder Mágico (3/5)<br>
-+8 Poder Mágico (5/5)<br>
-*La bonificación se aplica después de cerrar el inventario.
+﻿+16 Maná por día equipado sin interrupción<br><br><color=purple>
+Túnica del Profeta<color_default><br>
++4 Potencia de Hechizo (3/5)<br>
++8 Potencia de Hechizo (5/5)<br>
+<br>*La bonificación del conjunto se aplica tras cerrar el Inventario.

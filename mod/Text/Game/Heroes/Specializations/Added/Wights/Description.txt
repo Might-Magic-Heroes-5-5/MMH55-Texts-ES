@@ -1,1 +1,1 @@
-﻿Parca:El Heroe comienza con +2 Ataque, al comienzo de cada semana Apariciones adicionales y sus mejoras estarán disponibles para el reclutamiento en todas las Necropolis. La cantidad es (0.08 * Nivel). No hay criaturas adicionales disponibles antes del nivel 7.
+﻿La Parca: El héroe empieza con +2 Ataque y el crecimiento semanal de todas las Apariciones, Segadores de Almas y Banshees aumenta +0.08(Nivel) en las ciudades de tu reino. No habrá criaturas adicionales antes del nivel 7.

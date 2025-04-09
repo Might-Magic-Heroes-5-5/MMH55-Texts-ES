@@ -1,1 +1,1 @@
-﻿<color=yellow>¡Algunos refugiados aquí decidieron unirse a su causa! (+<value=num> <value=upgtype>s)
+﻿<color=yellow>¡Algunos refugiados aquí guarecidos han decidido unirse a tu causa! (+<value=num> <value=upgtype>)

@@ -1,1 +1,1 @@
-﻿El Héroe gana +2 conocimiento y todos los lanzadores en el ejército del Héroe gastarán solo la mitad del maná requerido para lanzar hechizos. <br><color_default>La bonificación a los lanzadores no requiere nivel.
+﻿El héroe obtiene +2 Moral y todos los lanzadores de hechizos de su ejército usarán solo la mitad de maná requerida para lanzar hechizos.

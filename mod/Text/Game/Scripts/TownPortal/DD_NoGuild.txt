@@ -1,1 +1,1 @@
-﻿<color=red>¡No eres dueño de una ciudad con un gremio de magos!
+﻿<color=red>¡No posees ciudades con Cofradía de Magos!

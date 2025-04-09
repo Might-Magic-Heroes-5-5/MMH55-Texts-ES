@@ -1,1 +1,1 @@
-﻿<color=green>¡La visita a la ciudad ha terminado!
+﻿<color=green>¡Ha terminado la visita a la ciudad!

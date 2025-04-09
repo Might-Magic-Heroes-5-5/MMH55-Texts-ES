@@ -1,1 +1,1 @@
-﻿Modifica la iniciativa un <value=enchant>%. Duración: <value=duration> turnos.
+﻿La iniciativa del objetivo se reduce -<value=enchant>%. Duración del conjuro: <value=duration> turnos.

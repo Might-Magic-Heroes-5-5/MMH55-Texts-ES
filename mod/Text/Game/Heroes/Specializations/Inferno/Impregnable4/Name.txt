@@ -1,1 +1,1 @@
-﻿Clase: Custodio<br>Especialización: Rompehechizos<br><br><body_bright>Todas las criaturas del ejército del Héroe ganan un 5% de resistencia mágica y un 1% por nivel del Héroe.<br><color_default>Comienza con el talento Armorero.
+﻿Clase: Guardián del Averno<br>Dote: Quebrantahechizos<br><br><body_bright>Todas las criaturas del ejército del héroe ganan +5% Negación Mágica y +1% adicional por nivel del héroe.<br><br><color_default>Empieza con el talento<br>Armero.

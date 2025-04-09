@@ -1,1 +1,1 @@
-﻿El Héroe recurre a las fuerzas del fuego para afectar a los lanzadores enemigos. Cada vez que una criatura enemiga lanza un hechizo, recibirá un daño 30 veces superior al del Héroe.
+﻿El héroe aprende el hechizo Terremoto e invoca a las fuerzas de la naturaleza para que doblegen a los lanzadores de hechizos del enemigo. Siempre que una criatura enemiga lance un hechizo recibirá daño igual a 30 veces el nivel del héroe.<br><color_default>Los Caudillos no aprenden Terremoto.

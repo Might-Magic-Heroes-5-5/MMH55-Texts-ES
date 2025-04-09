@@ -1,1 +1,1 @@
-﻿El Héroe podrá ver los elementos asociados con las criaturas enemigas para que los hechizos de Magia Destructiva del elemento opuesto puedan infligir daño adicional. El daño adicional es + 5% por cada nivel de dominio de Ocultismo y + 5% por cada construcción de Altar de los Elementos.
+﻿Permite al héroe ver los elementos asociados a las criaturas enemigas para que sus hechizos de Magia Destructiva de elemento opuesto puedan causar daño adicional. El daño adicional es +5% por cada nivel de maestría de Ocultísmo y +5% por cada Altar de los Elementos construido.

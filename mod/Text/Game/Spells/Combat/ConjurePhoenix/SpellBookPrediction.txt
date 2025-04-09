@@ -1,1 +1,1 @@
-﻿Salud: <value=health><br>Daño: <value=min_damage> - <value=max_damage>.
+﻿Salud del Fénix: <value=health><br>Daño: <value=min_damage> - <value=max_damage>.

@@ -1,2 +1,2 @@
 ﻿<center><tooltip_default><tooltip_title><value=name><tooltip_default><value=strings>
-<br><br><color_default>Utilice Administración de la ciudad para verificar los ingresos adicionales de los Héroes individuales.
+<br><br><color_default>Usa la habilidad Gestión de Ciudad para ver ingresos adicionales por cada héroe.

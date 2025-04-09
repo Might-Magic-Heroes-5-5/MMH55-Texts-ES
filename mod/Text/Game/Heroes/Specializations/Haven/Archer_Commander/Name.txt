@@ -1,1 +1,1 @@
-﻿Clase: Caballero<br>Especialización: Arquero Comandante<br><br><body_bright>Todos los arqueros en el ejército del Héroe ganan +1 a su ataque y defensa por cada 2 niveles del Héroe, comenzando en el primer nivel.<br><color_default>Comienza con Liderazgo Básico.
+﻿Clase: Cruzado<br>Dote: Capitán de Arqueros<br><br><body_bright>Todos los Arqueros, Ballesteros y Francotiradores del ejército del héroe ganan +1 a su Ataque y Defensa por cada dos niveles del héroe.<br><br><color_default>Empieza con<br>Liderazgo Básico.

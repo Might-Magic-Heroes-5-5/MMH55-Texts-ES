@@ -1,1 +1,1 @@
-﻿Lamentablemente no tienes <value=price> oro, para eliminar <value=skill_name> de tu memoria!
+﻿¡Lo siento, pero parece que no tienes <value=price> piezas de oro pagar por borrar <value=skill_name> de tu memoria!

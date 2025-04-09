@@ -1,1 +1,1 @@
-﻿Clase: Hereje<br>Especialización: Saqueador de Mentes<br><br><body_bright>El Héroe gana +1 de Poder Mágico cada 7 niveles y el hechizo Confusión tiene un efecto adicional de disminuir el maná del objetivo en 1 por cada nivel del Héroe.<br><color_default>Comienza con Magia Oscura Avanzada.
+﻿Clase: Hereje<br>Dote: Robamentes<br><br><body_bright>El héroe gana +1 Potencia de Hechizo por cada 7 niveles y el hechizo Confusión reduce -1 el maná del objetivo por cada nivel del héroe.<br><br><color_default>Empieza con<br>Magia Oscura Avanzada.

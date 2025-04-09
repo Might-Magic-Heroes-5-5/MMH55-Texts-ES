@@ -1,1 +1,1 @@
-﻿El héroe obtiene +2 de Conocimiento y todas las habilidades del ejército de héroes gastarán solo la mitad del maná necesario para lanzarse.
+﻿El héroe obtiene +2 Conocimiento y todos los lanzadores de hechizos de su ejército usarán solo la mitad de maná requerida para lanzar hechizos.

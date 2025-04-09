@@ -1,1 +1,1 @@
-﻿Acechador Veloz: las criaturas en el ejército del Héroe tienen una bonificación de +0.5% por nivel de Héroe a su iniciativa al comienzo del Combate.
+﻿Asalto Incesante: Las criaturas del ejército del héroe aumentan +1% su Iniciativa por cada dos niveles del héroe.

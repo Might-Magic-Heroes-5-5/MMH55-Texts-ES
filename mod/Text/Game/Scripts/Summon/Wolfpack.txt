@@ -1,1 +1,1 @@
-﻿El Ritual ha invocado <value=num> Lobos.
+﻿El ritual ha convocado a <value=num> lobos.

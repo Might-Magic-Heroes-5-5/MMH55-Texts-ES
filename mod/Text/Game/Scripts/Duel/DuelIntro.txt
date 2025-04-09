@@ -1,29 +1,29 @@
 ﻿-------------------------------------------------------------------------------
-MAPA DE DUELO Avanzado ARMG
+MAPA DE DUELO DEL "ADVANCED RMG"
 -------------------------------------------------------------------------------
 
-1.Visita una Mina abandonada para recibir un botin de Artefactos aleatorio.
-2.Visita una Cabaña de bruja para recibir un enorme bono de Experiencia.
-3.Vuelve a tu ciudad y asegurate de aprender todos los Hechizos, comprar unidades y maquinas de guerra!
-4.Procede a la zona central para enfrentarte a tu oponente, este debe aceptar combatir en el terreno generado aleatoriamente.
+1.Visita una Mina Abandonada para recibir un alijo aleatorio de Artefactos.
+2.Visita una Choza de Bruja para recibir un aumento masivo de experiencia.
+3.Vuelve a tu castillo para aprender todos los hechizos, comprar todas las tropas ¡y no te olvides de las máquinas de guerra!
+4.Procede a la zona central para vencer a tu oponente. Tu oponente deberá estar de acuerdo en pelear sobre el terreno aleatoriamente generado.
 
 -------------------------------------------------------------------------------
 REGLAS
 -------------------------------------------------------------------------------
 
--Si tu Héroe muere, pierdes la partida no puedes contratar otro.
--Las Ciudades seran destruidas en el Octavo dia, despues de esto tienes una semana maximo para derrotar a tu enemigo.
--Los observatorios en este mapa solo restauraran tu mana, otros bonus estaran deshabilitados.
--Los encuentros de este mapa son extremadamente dificiles y visitarlos causara tu derrota.
+-Si muere tu héroe pierdes la partida, no podrás contratar otro.
+-Las ciudades serán destruidas al 8º día para evitar que los jugadores alarguen la partida, después tendrás un máximo de 7 días para matar a tu oponente.
+-Puedes restaurar tu maná en las Secuoyas Observatorio de este mapa, el resto de mejoras temporales no tienen efecto.
+-Las zonas de combate en este mapa son demasiado peligrosas en la configuración normal y visitarlas causará que pierdas.
 
 -------------------------------------------------------------------------------
-INFO DE BALANCE
+INFORMACIÓN DE BALANCE
 -------------------------------------------------------------------------------
 
--Los edificios de reclutamiento reciben incrementos de crecimiento si existe un edificio de facción especial,además las unidades de Nivel 1-3 de Mazmorra son más abundantes para compensar por el foso ritual.
--Héroes con reclutamiento mejorado o cristales de sangre de dragon recibirán una semana extra de dichas criaturas.
--Héroes con especializaciones Logisticas reciben un grupo extra de elementales.
--Héroes de necropolis reciben grupos extra de Esqueletos, Fantasmas or Apariciones dependiendo de la clase.
--Magos de Academia reciben un extra de +4 Al Ataque y a la Defensa pero no pueden usar la Forja Arcana.
--Cazadores reciben un grupo extra de Cuchillas danzantes, pero no pueden usar el gremio Vengador.
--El tamaño de los ejercitos, artefactos y experiencia otorgada pueden ser configuradas por el usuario en data/MMH55-settings.pak, si se desea el juego puede cambiarse por progreso de Combate PVE , reduciendo el alijo de artefactos y los encuentros neutrales.
+-Los enclaves de ciudad para los que exista un edificio especial de facción tienen su crecimiento semanal aumentado, también Mazmorra nivel 1-3 de para compensar por reclutamiento/foso de rituales.
+-Los héroes de crecimiento de criaturas o especialidad en sangre de dragón recibirán un pelotón adicional de esas criaturas.
+-Los héroes con especialidad en logística reciben un pelotón adicional de elementales.
+-Los héroes de Necropolis reciben un pelotón adicional de esqueletos, fantasmas o apariciones, según su clase.
+-Los Magos reciben +4 Ataque y +4 Defensa, pero no pueden usar la Forja Arcana.
+-Los Montaraces y Vengadores reciben un pelotón adicional de Espadas Danzantes, pero la Cofradía de Vengadores no podrá usarse.
+-El tamaño del ejército, los artefactos y la experiencia se pueden configurar por el usuario en data/MMH55-settings.pak, si se desea se puede cambiar el juego por una carrera por las zonas de combate, reduciendo el alijo de artefacos y los guardias neutrales.

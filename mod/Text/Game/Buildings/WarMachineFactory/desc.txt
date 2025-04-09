@@ -1,1 +1,1 @@
-﻿Permite a un héroe comprar máquinas de guerra y puede ser contratado para obtener un suministro adicional de madera.
+﻿Permite al héroe comprar máquinas de guerra y puede contratarse para suminstrar madera adicional.

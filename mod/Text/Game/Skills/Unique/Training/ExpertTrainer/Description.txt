@@ -1,1 +1,1 @@
-﻿El Héroe gana +2 de Ataque y Defensa.
+﻿El héroe gana +2 Ataque y Defensa.

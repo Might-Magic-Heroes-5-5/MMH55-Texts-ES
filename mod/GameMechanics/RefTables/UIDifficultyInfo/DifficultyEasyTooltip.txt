@@ -1,4 +1,4 @@
-﻿Recursos: 25000/12/25
-Recursos IA: 20000/10/30
-Neutrales: 1 + (*1.11 por semana)
+﻿Recursos Jugador: 25000/12/25
+Recursos IA: 20000/10/20
+Neutrales: 1 + 1.11 por semana
 Experiencia: x/1

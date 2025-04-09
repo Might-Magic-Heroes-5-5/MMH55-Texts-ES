@@ -1,1 +1,1 @@
-﻿El Modo Ajedrez es un formato 3x3 ,cada jugador posee 3 ejercitos, que pueden ser intercambiados durante el Combate.
+﻿Modo Ajedrez en formato 3x3, en el que dos jugadores tienen tres ejércitos y pueden cambiar entre ellos durante el combate.

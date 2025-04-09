@@ -1,1 +1,1 @@
-﻿Durante las batallas, la moral y la suerte de todas las criaturas de las facciones de Necrópolis, Infierno y Mazmorra se reducen en 1.
+﻿La Moral y la Suerte de todas las criaturas de las facciones de Necrópolis, Infierno y Mazmorra se reduce -1 durante las batallas.

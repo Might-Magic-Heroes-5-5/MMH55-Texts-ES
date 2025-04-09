@@ -1,1 +1,1 @@
-﻿<color=yellow>¡Fracasaste esta misión!
+﻿<color=yellow>¡Has fallado esta Misión!

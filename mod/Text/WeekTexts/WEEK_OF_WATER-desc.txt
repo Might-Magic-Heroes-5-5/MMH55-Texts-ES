@@ -1,1 +1,1 @@
-﻿Durante las batallas el daño causado por hechizos de hielo aumenta en un 10%. La cantidad de Elementales de Agua convocados aumenta en un 50%.
+﻿El daño por hechizos de hielo aumenta +10% durante los combates. La cantidad de Elementales de Agua convocados aumenta +50%.

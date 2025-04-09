@@ -1,1 +1,1 @@
-﻿Reduce los costos de lanzamiento de todos los hechizos en un 20%.
+﻿Reduce -20% los costes de Maná de todos los hechizos.

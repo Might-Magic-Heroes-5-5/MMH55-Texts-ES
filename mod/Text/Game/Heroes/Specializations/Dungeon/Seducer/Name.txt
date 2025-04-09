@@ -1,1 +1,1 @@
-﻿Clase: Soberano<br>Especialización: Doncella Sangrienta<br><br><body_bright>Todas las doncellas sangrientas en el ejército del Héroe ganan +1 a su ataque y defensa por cada 2 niveles del Heroe, comenzando en el primer nivel.<br><color_default>Comienza con Liderazgo Avanzado.
+﻿Clase: Soberano<br>Dote: Dama Sangrienta<br><br><body_bright>Todas las Doncellas Sangrientas, Furias Sangrientas y Hermanas Sangrientas del ejército del héroe ganan +1 a su Ataque y Defensa por cada dos niveles del héroe.<br><br><color_default>Empieza con<br>Liderazgo Avanzado.

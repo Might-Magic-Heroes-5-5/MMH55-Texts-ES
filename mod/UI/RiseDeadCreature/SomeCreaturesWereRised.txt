@@ -1,1 +1,1 @@
-﻿<h2><color_title>Criaturas revividas: <value=count>
+﻿<h2><color_title>Criaturas alzadas: <value=count>

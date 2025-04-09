@@ -1,1 +1,1 @@
-﻿<color_default><value=chance>% Probabilidad de reflejar hechizo enemigo
+﻿<color_default><value=chance>% probabilidad de reflejar hechizo enemigo

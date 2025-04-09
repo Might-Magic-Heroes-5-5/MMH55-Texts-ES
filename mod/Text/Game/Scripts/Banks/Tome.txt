@@ -1,1 +1,1 @@
-﻿<color=yellow>Encontraste un tomo antiguo.
+﻿<color=yellow>Has encontrado un Tomo Ancestral.

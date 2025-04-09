@@ -1,1 +1,1 @@
-﻿La Madre Tierra maldice el suelo sobre el que caminan las criaturas enemigas. Cada vez que una criatura enemiga no voladora se mueve, recibirá un daño igual al Nivel*8.<br><color_default>El daño no es por casilla y no funciona si la criatura sólo gira. 
+﻿La Madre Tierra maldice el suelo sobre el que caminan las criaturas enemigas. Cada vez que una criatura enemiga no-voladora se mueva recibirá daño igual a 8 veces el nivel del héroe.<br><color_default>El daño no es por casilla y no tiene efecto si la unidad tan solo cambia de orientación.

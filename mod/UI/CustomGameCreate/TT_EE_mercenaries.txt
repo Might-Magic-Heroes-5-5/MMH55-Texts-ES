@@ -1,9 +1,9 @@
-﻿Le permite ajustar la frecuencia con la que las criaturas neutrales admiten Héroes neutrales. Héroes neutrales tendrán el mismo nivel que el Héroe. No recomendado para mapas MMH5.5, ya que la resistencia neutral ya se ha ampliado.
+﻿Te permite ajustar la frecuencia con la que un pelotón neutral tendrá al mando a un héroe neutral. Los Héroes Neutrales tendrán el mismo nivel que tu héroe. No recomendable para mapas de MMH5.5, ya que la resistencia neutral ya es mayor.
 
-Normal: Off
+Normal: Desactivado
 
-Difícil: ~25% 
+Difícil: ~25% de los pelotones
 
-Heroico: ~50% 
+Heroico: ~50% de los pelotones
 
-Imposible: ~90%
+Imposible: ~90% de los pelotones

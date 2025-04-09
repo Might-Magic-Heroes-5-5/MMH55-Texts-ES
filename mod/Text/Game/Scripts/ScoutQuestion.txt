@@ -1,7 +1,7 @@
-﻿¿Te gustaría enviar algunos exploradores (criaturas nativas de nivel 1) al edificio para investigar la fuerza de las criaturas que guardan los tesoros? La posibilidad de que un explorador no sobreviva a esta misión es <value=chance>%
+﻿¿Quieres enviar una patrulla de reconocimiento (criaturas nativas de Tipo 1) para investigar la contingencia del lugar? La posibilidad de que una unidad no regrese de la misión es del <value=chance>%.
 -------------------------------------------------------------------------------
 
-OK = Explorar
-Cancel = Atacar
+Aceptar = Enviar reconocimiento
+Cancelar = Atacar directamente
 
 -------------------------------------------------------------------------------

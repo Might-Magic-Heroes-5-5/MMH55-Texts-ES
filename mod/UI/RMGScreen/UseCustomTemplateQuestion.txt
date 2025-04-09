@@ -1,9 +1,9 @@
-﻿Recomendaciones Rápidas:
+﻿Consejos:
 
--Solo usar MMH55_Utility.exe Y MMH55_Editor.exe para generar mapas.
--Apegarse al tamaño y cantidad de jugadores recomendados por la plantilla.
--MMH55_utility.exe forzará mayores tamaños para mapas con agua, adecuadamente.
--Los mapas ARMG no funcionaran en LAN o Silla Caliente si los scripts no están activos.
--Use la utilidad Mapmixer o Reanimation Patcher para activar los scripts.
--Procesa mapas de agua con Mapmixer de lo contrario serían muy aburridos.
--Visualizaciones de todas las plantillas se pueden encontrar en el Manual Pdf.
+-Usa solo MMH55_Utility.exe y MMH55_Editor.exe para la generación de mapas.
+-Limítate al tamaño del mapa y cantidad de jugadores de las plantillas.
+-MMH55_utility.exe forzará un tamaño mayor para mapas de agua; es más práctico así.
+-Los mapas ARMG no funcionarán en Red Local o Hotseat si los scripts no han sido activados.
+-Usa el programa Mapmixer para activar scripts.
+-Gestiona los mapas de agua con Mapmixer o serán muy aburridos.
+-Puedes encontrar esquemas de todas las plantillas en el ARMG Manual PDF.

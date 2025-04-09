@@ -1,1 +1,1 @@
-﻿<color=yellow>Tu Mana ha sido restaurado!
+﻿<color=yellow>¡Tu maná ha sido restaurado!

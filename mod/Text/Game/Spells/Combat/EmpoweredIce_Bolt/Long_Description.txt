@@ -1,1 +1,1 @@
-﻿Inflinge daño de hielo a la unidad enemiga seleccionada.
+﻿Inflige daño por hielo a la unidad enemiga seleccionada.

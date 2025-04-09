@@ -1,1 +1,1 @@
-﻿<body>El Mercado de Esclavos te permite vender criaturas de tu ejército para ganar dinero. El precio de venta depende del número de mercados de tu reino.
+﻿<body>El Mercado de Esclavos te permite vender las criaturas de tu ejército para obtener dinero. El precio de venta dependerá del número de mercados de tu reino.

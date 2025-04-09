@@ -1,1 +1,1 @@
-﻿<color=red>Perdiste el Poder Mágico del Santuario Rúnico.
+﻿<color=red>Has perdido Potencia de Hechizo del Sagrario de las Runas.

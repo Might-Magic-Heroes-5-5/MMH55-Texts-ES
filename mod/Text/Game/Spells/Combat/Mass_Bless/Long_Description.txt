@@ -1,1 +1,1 @@
-﻿Aumenta el daño mínimo de todos los objetivos amistosos hacia su daño máximo. Si el objetivo está bajo la influencia del hechizo de Debilidad, será Purgado. El efecto no puede exceder el 100%.
+﻿Aumenta el daño mínimo de todos los objetivos aliados. Purga el efecto del hechizo Debilidad. El daño mínimo no podrá exceder el máximo.

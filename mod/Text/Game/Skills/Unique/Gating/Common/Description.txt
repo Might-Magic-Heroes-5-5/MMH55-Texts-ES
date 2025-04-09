@@ -1,1 +1,1 @@
-﻿A las tropas infernales se les concede la habilidad de 'entrar' en el plano infernal y llevar refuerzos al campo de batalla. Cada unidad solo puede abrir una vez por Combate. Las criaturas recién llegadas constituyen una parte de las compuestas, y desaparecerán después del final del Combate.
+﻿Las tropas infernales tienen la habilidad de 'cruzar' al plano infernal para traer refuerzos al campo de batalla. Cada pelotón puede invocar refuerzos solo una vez por combate. Los refuerzos constituirán una parte de dicho pelotón y desaparecerán al finalizar el combate.

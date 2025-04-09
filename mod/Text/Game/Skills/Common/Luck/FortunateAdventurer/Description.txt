@@ -1,1 +1,1 @@
-﻿El Héroe tiende a encontrar 5%-25% más de recursos y oro en el mapa de aventuras. Los cofres del tesoro contienen entre un 25% y un 50% más de oro. Los ingresos de las redes de suministro se incrementan en promedio en recursos de +1 o +500 de oro por proveedor semanal.
+﻿Talento de Aventura: El héroe encontrará 5%-25% más recursos y Oro en el mapa. Los cofres de tesoro tendrán 25%-50% más Oro. Los ingresos de la red de suministros aumentan de media en +1 recurso o +500 Oro por proveedor semanal.

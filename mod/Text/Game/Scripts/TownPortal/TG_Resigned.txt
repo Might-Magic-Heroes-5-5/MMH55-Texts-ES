@@ -1,2 +1,2 @@
-﻿<color=yellow>¡El Gobernador ha sido despedido!
+﻿<color=yellow>¡El gobernador ha dimitido!
 

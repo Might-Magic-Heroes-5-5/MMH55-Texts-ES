@@ -1,1 +1,1 @@
-﻿Coloca <value=duration> minas con <value=damage> daño.
+﻿Coloca <value=duration> minas con <value=damage> de daño.

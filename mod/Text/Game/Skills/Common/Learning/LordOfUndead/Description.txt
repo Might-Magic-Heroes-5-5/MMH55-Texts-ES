@@ -1,1 +1,1 @@
-﻿El Héroe gana +2 Conocimiento y gana 0.5 de oro por día por cada esqueleto en su ejército. Además, necrópolis puede levantar una cantidad adicional de esqueletos cada semana. Cantidad es igual a su Conocimiento.
+﻿El héroe gana +2 Conocimiento, aumenta +5% la capacidad de Nigromancia y recibe 0.5 Oro al día por cada esqueleto de su ejercito. Los héroes de Necrópolis levantarán una cantidad adicional de esqueletos igual a su Conocimiento al principio de cada semana.

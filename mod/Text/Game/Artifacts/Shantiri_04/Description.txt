@@ -1,3 +1,3 @@
-﻿Este elemento no tiene propiedades útiles mientras esté roto<br><br>
+﻿Este artefacto no tiene efectos prácticos mientras esté roto.<br><br>
 <color=orange>Disco Lunar Shantiri<color_default><br>
-Lleva las 4 piezas del Disco Lunar Shantiri a una biblioteca arcana para repararlo.
+Trae las 4 piezas del Disco Lunar Shantiri a una Biblioteca Arcana para que lo reparen.

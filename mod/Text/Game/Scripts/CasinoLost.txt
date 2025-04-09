@@ -1,1 +1,1 @@
-﻿Desafortunadamente perdiste <value=bet> oro, te esperamos en otro de nuestros casinos!
+﻿Desafortunadamente has perdido <value=bet> monedas de oro. ¡Esperamos verte pronto en otro de nuestros Casinos!

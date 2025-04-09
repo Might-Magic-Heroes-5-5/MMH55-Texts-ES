@@ -1,1 +1,1 @@
-﻿Guardián del bosque: el Héroe comienza con +1 en la habilidad Defensa y la aumenta en +1 cada 7 niveles.
+﻿Guardián del Bosque: El héroe empieza con +1 Defensa y la seguirá aumentando +1 por cada 7 niveles.

@@ -1,1 +1,1 @@
-﻿<color=yellow>Encontraste un pergamino mágico de <value=name>.
+﻿<color=yellow>Has encontrado unos apuntes sobre <value=name>.

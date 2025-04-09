@@ -1,6 +1,6 @@
-﻿+1 Poder Mágico<br> 
--12% de iniciatia para las criaturas enemigas<br><br><color=purple>
+﻿+1 Potencia de Hechizo<br>
+-12% Iniciativa a las criaturas enemigas<br><br><color=purple>
 Abrazo de la Muerte<color_default><br>
-+6 Poder Mágico (3/6)<br>
-+12 Poder Mágico (6/6)<br>
-*La bonificación  se aplica después de cerrar el inventario.
++6 Potencia de Hechizo (3/6)<br>
++12 Potencia de Hechizo (6/6)<br>
+<br>*La bonificación del conjunto se aplica tras cerrar el Inventario.

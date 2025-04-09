@@ -1,1 +1,1 @@
-﻿<color=red>No tienes una Ciudad!
+﻿<color=red>¡No posees una ciudad!

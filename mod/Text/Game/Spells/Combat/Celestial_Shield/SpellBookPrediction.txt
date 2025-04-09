@@ -1,1 +1,1 @@
-﻿Daño mitigado en <value=damage>%.<br>Capacidad del escudo: <value=enchant> salud.
+﻿El daño disminuye -<value=damage>%.<br>Capacidad del escudo:<br><value=enchant> puntos de vida.

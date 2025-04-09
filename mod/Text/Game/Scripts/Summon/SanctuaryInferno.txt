@@ -1,1 +1,1 @@
-﻿<color=yellow>¡Sacrificaste a algunos refugiados y unos demonios se unieron en deleite! (+<value=num> <value=upgtype>s)
+﻿<color=yellow>¡Los demonios gozan de tus refugiados ofrecidos en sacrificio! (+<value=num> <value=upgtype>)

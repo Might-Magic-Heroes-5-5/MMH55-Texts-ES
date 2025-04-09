@@ -1,1 +1,1 @@
-﻿Los muros del castillo son más fuertes (50 más puntos de Vida).
+﻿Los muros del castillo de esta ciudad son más resistentes. Todas las secciones de los muros tienen +50 puntos de vida adicionales.

@@ -1,1 +1,1 @@
-﻿<color=yellow>¡No tienes el oro suficiente!
+﻿<color=yellow>¡No tienes oro suficiente!

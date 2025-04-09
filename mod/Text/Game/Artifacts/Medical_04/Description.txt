@@ -1,2 +1,1 @@
-﻿Una cantidad de criaturas nativas de nivel 3 y 4 resucitarán después del Combate, la cantidad de criaturas resucitadas es igual al 15 % + 1 % Conocimiento del Héroe. La resurrección requiere 5 maná por nivel.<color_default><br>
-Las criaturas no muertas, mecánicas y elementales no resucitar.
+﻿Revive una cantidad de criaturas nativas de Tipo 2 tras el combate. La cantidad de puntos de vida recuperados es igual 30+10(Defensa). La resurrección requiere 6 Maná.<color_default>Las unidades mecánicas, no-muertas y elementales no pueden ser resucitadas.<br><br><color=red>Medicinal<br><color_default> Este artefacto solo funciona si el héroe tiene el talento Vitalidad, Primeros Auxilios o Vial de Energía Vital.

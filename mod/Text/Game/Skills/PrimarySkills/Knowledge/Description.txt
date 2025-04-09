@@ -1,1 +1,1 @@
-﻿El atributo Conocimiento del Héroe aumenta el nivel máximo de maná para el Héroe: Mana máximo = 10 * Conocimiento. También mejora la efectividad de muchos artefactos, algunas habilidades secundarias y la balista.
+﻿El atributo de Conocimiento del héroe aumenta el nivel de Maná máximo del héroe. También aumenta la efectividad de muchos artefactos, algunos talentos secundarios y la Balista.<br><br><color_default>Maná máximo = 10(Conocimiento)

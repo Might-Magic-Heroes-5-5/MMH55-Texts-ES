@@ -1,1 +1,1 @@
-﻿Duplica el maná y Poder Mágico de todos los lanzadores en el ejército del Héroe. El Héroe se mueve hacia atrás a lo largo de la barra de iniciativa un 10% menos de lo normal mientras lanza cualquier hechizo. Videntes, Magos y elementalistas tienen su Poder Mágico aumentado en +4.
+﻿Duplica el Maná y la Potencia de hechizo de todos los lanzadores de hechizos del ejército del héroe. El héroe se moverá hacia atrás en la barra de iniciativa un 10% menos de lo habitual cuando lance cualquier conjuro. Los Encantadores, Magos y Convocadores aumentan su Potencia de Hechizo +4.

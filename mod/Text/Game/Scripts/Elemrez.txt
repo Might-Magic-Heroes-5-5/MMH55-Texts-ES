@@ -1,1 +1,1 @@
-﻿<color=green><value=num> Criaturas Elementales han sido revividas.
+﻿<color=green><value=num> criaturas elementales resucitan.

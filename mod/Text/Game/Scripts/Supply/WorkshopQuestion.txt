@@ -1,4 +1,4 @@
-﻿El propietario de la fábrica te ofrece un contrato de suministro, a cambio de <value=num> de oro, le proporcionará una cantidad aleatoria de (3-7) de madera cada semana.
+﻿El dueño de la Fábrica de Máquinas de Guerra te ofrece contratar sus servicios, por <value=num> monedas de oro proveerá a tu reino de una cantidad aleatoria (3-7) de Madera cada semana. 
 
-OK = Firmar el contrato (<value=num> monedas de oro)
-Cancelar = Verificar su inventario
+Aceptar = Firmar el contrato (<value=num> Oro)
+Cancelar = Examinar su mercancía

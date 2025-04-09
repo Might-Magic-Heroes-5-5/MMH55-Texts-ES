@@ -1,1 +1,1 @@
-﻿Retribucion<br><color_default>+3% Daño por cada punto de moral
+﻿Retribución<br><color_default>+3% daño por punto de Moral

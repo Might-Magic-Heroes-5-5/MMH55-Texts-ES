@@ -1,1 +1,1 @@
-﻿<left>El Héroe enemigo ganó <value=exp> de experiencia.
+﻿<left>El héroe enemigo gana <value=exp> de experiencia.

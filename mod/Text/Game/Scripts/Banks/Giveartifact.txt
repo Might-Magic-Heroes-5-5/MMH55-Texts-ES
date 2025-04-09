@@ -1,1 +1,1 @@
-﻿<color=yellow>Encontraste un artefacto.
+﻿<color=yellow>Has encontrado un Artefacto.

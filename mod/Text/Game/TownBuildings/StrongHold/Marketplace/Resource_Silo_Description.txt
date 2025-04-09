@@ -1,1 +1,2 @@
-﻿El Silo de Recursos otorga +1 de Azufre por día.
+﻿<color_default>Una mejora del Mercado.<br>
+<color_bright>El Silo de Recursos te da +1 Azufre adicional cada día.

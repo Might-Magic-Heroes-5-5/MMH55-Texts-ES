@@ -1,1 +1,1 @@
-﻿Tirador. Hechicero. Sin penalización de rango.
+﻿Tirador. Lanzador de Hechizos. Sin penalización cuerpo a cuerpo.

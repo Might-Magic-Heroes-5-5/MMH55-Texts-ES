@@ -1,1 +1,1 @@
-﻿El Héroe ya no está agobiado por las penalizaciones de terreno.
+﻿El héroe no sufrirá penalizaciones de movimiento por terreno escarpado.

@@ -1,1 +1,1 @@
-﻿Todos los enemigos que asaltan esta ciudad reciben una penalización de -1 a su moral.
+﻿Todos los enemigos que intenten tomar esta ciudad obtienen una penalización -1 a su Moral.

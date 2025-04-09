@@ -1,1 +1,1 @@
-﻿<color_default>+<value=damage>% Daño a enemigos preferidos
+﻿<color_default>+<value=daño>% daño a enemigos favoritos

@@ -1,4 +1,4 @@
-﻿La práctica del Mentor de Memorias está actualmente prohibida en estas tierras, pero el Mago todavía está dispuesto a darte un poco de entrenamiento mágico básico.
+﻿La práctica de la Mentoría de Memória está vetada en estas tierras pero el Mago está dispuesto a ofrecerte algo de entrenamiento mágico.
  
-OK = +2 Poder Mágico
+Aceptar = +2 Potencia de Hechizo
 Cancelar = +2 Conocimiento

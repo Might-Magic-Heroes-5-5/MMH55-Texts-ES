@@ -1,8 +1,8 @@
-﻿La Puerta Dimensional te permitirá visitar cualquiera de tus ciudades sin cambiar la ubicación del héroe. Si la ciudad tiene un gremio de magos, el maná se restaurará inmediatamente.
+﻿El Portón Paralelo te permitirá visitar cualquiera de tus ciudades sin cambiar la ubicación del héroe. Si la ciudad tiene una Cofradía de Magos, también restuarará su maná.
 -------------------------------------------------------------------------------
 
-OK = Visitar una ciudad y restaurar mana
-Cancel = Solo restaurar mana
+Aceptar = Visitar la Ciudad y restaurar maná
+Cancelar = Solo restaurar maná
 
 -------------------------------------------------------------------------------
-Para finalizar la visita, aleje una casilla de la puerta o vuelva a visitar el objeto. La visita finalizará si el héroe intenta entrar en la guarnición de la ciudad o si un héroe enemigo se acerca lo más posible en un radio de 8 casillas alrededor del héroe o de la ciudad que se está visitando.
+Para acabar la visita muevete una casilla o reentra al objeto. La visita acabará si el héroe intenta entrar a la guarnición o un héroe enemigo se acerca a menos de 8 casillas de tu héroe, o de la ciudad que se está visitando.

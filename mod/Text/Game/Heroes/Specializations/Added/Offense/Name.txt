@@ -1,1 +1,1 @@
-﻿Clase: Cacique<br>Especialización: Agressor<br><br><body_bright>El Héroe comienza con una +1 Ataque y aumenta aún más en +1 por cada 7 niveles.<br><br><color=orange>Veterano<color_default><br>Comienza con la habilidad de Aprendizaje.
+﻿Clase: Caudillo<br>Dote: Agresor<br><br><body_bright>El héroe empieza con +1 Ataque y lo seguirá aumentando +1 por cada 7 niveles.<br><br><color=orange>Veterano<color_default><br>Empieza con Aprendizaje.

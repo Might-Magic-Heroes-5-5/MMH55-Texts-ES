@@ -1,1 +1,1 @@
-﻿<color=yellow>Encontraste el testamento de un rey antiguo.
+﻿<color=yellow>Has encontrado un Testamento Real.

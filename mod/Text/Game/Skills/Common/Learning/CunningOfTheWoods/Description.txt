@@ -1,1 +1,1 @@
-﻿El Héroe aprende el hechizo Confusión, +1 Conocimiento, y la probabilidad de infligir un golpe crítico con la habilidad Vengador aumenta al 50%.
+﻿El héroe aprende el hechizo Confusión, gana +2 Conocimiento y la probabilidad de infligir un golpe crítico con la habilidad de Vengador aumenta un 10%.

@@ -1,1 +1,1 @@
-﻿Agrega +1 a todos los parámetros del Héroe. Soberanos, Pícaros y Brujos también reciben +1 de Suerte.
+﻿Añade +1 a todos los atributos del héroe. Los Soberanos, Truhanes y Brujos reciben también +1 a la Suerte.

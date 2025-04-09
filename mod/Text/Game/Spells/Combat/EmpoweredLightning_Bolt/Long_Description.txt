@@ -1,1 +1,1 @@
-﻿Inflige daño de Rayo a la unidad enemiga seleccionada.
+﻿Inflige daño por rayo a la unidad enemiga seleccionada.

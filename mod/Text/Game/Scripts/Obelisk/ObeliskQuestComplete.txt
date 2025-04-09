@@ -1,1 +1,1 @@
-﻿<color=yellow>¡Esta búsqueda ya ha sido completada!
+﻿<color=yellow>¡Has completado la misión!

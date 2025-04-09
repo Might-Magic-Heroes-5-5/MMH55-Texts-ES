@@ -1,1 +1,1 @@
-﻿Clase: Hechicero<br>Especialización: Tuercetiempos<br><br><body_bright>El lanzador transforma el continuo de tiempo local, cambiando el orden de las acciones de las criaturas al comienzo del Combate. La intensidad de la transformación depende del nivel del Héroe.
+﻿Clase: Mago<br>Dote: Manipulador Temporal<br><br><body_bright>El héroe transforma el continuo del tiempo local, cambiando el orden de las acciones de las criaturas al inicio de la batalla. La intensidad de la transformación depende del nivel del héroe.

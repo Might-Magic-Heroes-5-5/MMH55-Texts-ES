@@ -2,32 +2,32 @@
 SIGUIENTE ACCIÓN
 -------------------------------------------------------------------------------
 
-OK = Usar Pórtico a Ciudad (25 Maná, 2000 Movimiento)
+Aceptar = Usar Portal de Ciudad (25 Maná, 10% Movimiento)
 Cancelar = Cerrar esta ventana
 
-*El Héroe sólo puede teletransportarse a ciudades con confradías de magos de nivel 5.
+*El héroe solo puede teleportarse a ciudadades con una Cofradía de Magos de nivel 5.
 
 -------------------------------------------------------------------------------
-INFORMACIÓN DEL Héroe
+INFORMACIÓN DEL HÉROE
 -------------------------------------------------------------------------------
 
-Rol del Héroe: <value=occupation>
+Rol: <value=occupation>
 Puntos de Movimiento: <value=movement>
-Regeneración de Maná Diaria: <value=mana>
-Oro Extra Diario: <value=estates>
+Regeneración de Maná: <value=mana>
+Ingreso de Oro Adicional: <value=estates>
 Cristales de Sangre de Dragón: <value=dragonblood>
-Refuerzos Semanales por Artefactos: N<value=artifactsummons_tier>:<value=artifactsummons> 
-Criaturas Invocadas Semanalmente: <value=summons>
-Reclutas Semanales (Gobernancia): N1:<value=tier1> N2:<value=tier2> N3:<value=tier3> N4:<value=tier4> N5:<value=tier5> N6:<value=tier6> N7:<value=tier7>
+Refuerzos Semanales por Artefactos: Tipo <value=artifactsummons_tier>: <value=artifactsummons> 
+Criaturas Convocadas por semana: <value=summons>
+Reclutas Semanales (Gobierno): Tipo 1: <value=tier1>, Tipo 2: <value=tier2>, Tipo 3: <value=tier3>, Tipo 4: <value=tier4>, Tipo 5: <value=tier5>, Tipo 6: <value=tier6>, Tipo 7: <value=tier7>.
 
 -------------------------------------------------------------------------------
-OPCIONES DEL MAPA
+CONFIGURACIÓN DEL MAPA
 -------------------------------------------------------------------------------
 
-Gobernancia: <value=governance>
-Conversión de Ciudades: <value=conversion>
-Máx de Ciudades por Facción: <value=maxtowns>
-Máx de Viviendas por Ciudad: N1:<value=t1d> N2:<value=t2d> N3:<value=t3d> 
-Máx de Puestos Militares por Facción: <value=t4d>
+Gobierno: <value=governance>
+Conversión de Ciudad: <value=conversion>
+Max. Ciudades por Facción: <value=maxtowns>
+Max. Enclaves por Facción: Tipo 1: <value=t1d>, Tipo 2: <value=t2d>, Tipo 3: <value=t3d> 
+Max. Puestos Militares por Facción: <value=t4d>
 
 

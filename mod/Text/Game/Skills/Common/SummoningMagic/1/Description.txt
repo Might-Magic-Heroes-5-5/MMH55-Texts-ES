@@ -1,1 +1,1 @@
-﻿Permite que el Héroe aprenda hechizos de magia de invocación del tercer círculo y hace que la magia de invocación sea más efectiva en general.
+﻿Permite al héroe aprender hechizos de Magia de la Convocación del 3er Círculo y hace que la Magia de la Convocación sea más eficaz en general.

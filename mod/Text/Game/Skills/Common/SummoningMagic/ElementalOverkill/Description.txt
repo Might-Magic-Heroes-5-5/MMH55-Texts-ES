@@ -1,1 +1,1 @@
-﻿El Héroe gana +2 Poder Mágico y hará doble daño con hechizos contra elementales invocados, fénix y demonios invocados.
+﻿El héroe gana +2 Potencia de Hechizo y todos los hechizos contra objetivos convocados, fénixes o demonios invocados hacen el doble del daño habitual.

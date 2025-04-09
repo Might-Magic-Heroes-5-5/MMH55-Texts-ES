@@ -1,1 +1,1 @@
-﻿El héroe aprende los hechizos Flecha Eldrica y Flecha Eldrica Potenciada, incluso si no ha aprendido Ocultismo, el Poder Magico efectivo aumenta en +3 al lanzar hechizos de las escuelas de Magia oscura y de Luz.
+﻿El héroe aprende los hechizos Flecha Arcana y Flecha Arcana Reforzada, incluso sin maestría en Ocultismo. Aumenta la Potencia de Hechizo en +3 para todos los hechizos de las escuelas de Magia Oscura y de la Luz.

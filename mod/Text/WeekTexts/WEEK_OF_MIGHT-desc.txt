@@ -1,1 +1,1 @@
-﻿Durante las batallas el daño fisico aumenta en un 10%.
+﻿El daño físico aumenta +10% durante las batallas.

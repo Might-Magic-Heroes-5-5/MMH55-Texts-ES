@@ -1,1 +1,1 @@
-﻿<color=yellow>Encontraste una varita mágica.
+﻿<color=yellow>Has encontrado una varita mágica.

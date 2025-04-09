@@ -1,5 +1,5 @@
-﻿-1 Moral a las criaturas enemigas<br><br><color=purple>
-Conjunto Pirata<color_default><br>
+﻿Reduce -1 la Moral de las criaturas enemigas.<br><br><color=purple>
+Indumentaria Pirata<color_default><br>
 +6 Ataque (3/6)<br>
 +12 Ataque (6/6)<br>
-*La bonificación se aplica después de cerrar el inventario.
+<br>*La bonificación del conjunto se aplica tras cerrar el Inventario.

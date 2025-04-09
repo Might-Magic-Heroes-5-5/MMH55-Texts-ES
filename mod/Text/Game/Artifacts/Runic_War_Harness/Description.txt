@@ -1,2 +1,2 @@
 ﻿+5 Defensa<br>
-+5 de maná por día si está equipado siempre
++5 Maná al día si está equipado sin interrupción

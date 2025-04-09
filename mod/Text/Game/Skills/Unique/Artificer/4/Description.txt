@@ -1,1 +1,1 @@
-﻿Habilidad de aventura: Permite al héroe crear miniartefactos del tercer nivel.
+﻿Habilidad de Aventura: Reduce a la mitad el coste de creación de Mini-artifactos para las criaturas.

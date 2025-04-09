@@ -1,2 +1,2 @@
 ﻿+2 Defensa<br>
-+2 puntos de vida máximos para las criaturas aliadas
++2 puntos de vida a todas las criaturas aliadas

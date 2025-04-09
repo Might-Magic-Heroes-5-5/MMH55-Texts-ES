@@ -1,7 +1,5 @@
-﻿-25% de coste de maná para todos los hechizos<br><color=purple>
-Insignia de Sar-Issus<color_default><br>
-+50 % de Poder Mágico y maná para criaturas aliadas (2/4)<br>
-+100 %  de Poder Mágico y maná para criaturas aliadas (4/4)<br>
-*La bonificación se aplica después de cerrar el inventario.<br><br><color=orange>
+﻿Reduce -25% el coste de Maná de todos los hechizos.<br><br><color=purple>
+Galas de Sar-Issus<color_default><br>+50% Potencia de Hechizo y Maná a las criaturas aliadas (2/4)<br>+100% Potencia de Hechizo y Maná a las criaturas aliadas (4/4)<br>
+<br>*La bonificación del conjunto se aplica tras cerrar el Inventario.<br><br><color=orange>
 Misión<color_default><br>
-Lleva las 4 piezas de Sar-Issus a un astrólogo y recibe una recompensa única.
+Trae las 4 Galas de Sar-Issus a un Astrólogo y recibe una recompensa excepcional.

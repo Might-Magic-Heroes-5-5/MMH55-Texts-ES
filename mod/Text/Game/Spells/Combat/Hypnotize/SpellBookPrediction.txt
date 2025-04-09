@@ -1,1 +1,1 @@
-﻿La iniciativa del objetivo es modificada un <value=enchant>%. Duración: <value=duration> turnos. No funciona en criaturas de nivel 7.
+﻿Duración: <value=duration> turnos.<br>Reduce la iniciativa de la criatura -<value=enchant>%. No funciona en criaturas de Tipo 7.

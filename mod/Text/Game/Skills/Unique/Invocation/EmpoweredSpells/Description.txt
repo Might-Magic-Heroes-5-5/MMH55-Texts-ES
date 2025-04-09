@@ -1,1 +1,1 @@
-﻿Todos los hechizos de daño directo lanzados por el Héroe infligen un 50% más de daño, pero el coste de maná se duplica.
+﻿El héroe podrá lanzar todos sus hechizos de daño directo con mayor poder. El daño adicional es igual a 30% +1% por nivel, pero al doble del coste de Maná.

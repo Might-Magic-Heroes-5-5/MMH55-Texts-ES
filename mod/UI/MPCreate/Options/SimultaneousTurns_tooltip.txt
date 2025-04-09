@@ -1,1 +1,1 @@
-﻿Al seleccionar esta opción, se habilitarán turnos simultáneos permanente, los turnos simultáneos no se interrumpirán cuando los Héroes estén cerca uno del otro. Atacar a otros jugadores mientras están usando la pantalla de la ciudad dará como resultado la pérdida de puntos de movimiento.
+﻿Activar esta opción habilitará los turnos simultáneos permantentes. Los turnos se seguirán jugando a la vez incluso en proximidad de otro jugador. Atacar a otros jugadores mientras están en la pantalla de la ciudad resultará en una penalización de movimiento.

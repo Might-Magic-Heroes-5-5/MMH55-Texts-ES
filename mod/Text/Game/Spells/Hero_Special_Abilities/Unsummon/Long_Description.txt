@@ -1,1 +1,1 @@
-﻿Inflige mucho daño a todas las unidades invocadas dependiendo del nivel del Héroe.
+﻿Inflige daño masivo a todas las tropas convocadas e invocadas.<br><br>El daño es igual a 120 + 40(Nivel). Esta habilidad cuesta 20 Maná y restaura el valor ATB del héroe a 0.33 tras su uso.

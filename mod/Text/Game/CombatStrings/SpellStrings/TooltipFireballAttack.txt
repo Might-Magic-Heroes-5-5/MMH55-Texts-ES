@@ -1,1 +1,1 @@
-﻿<color_default>Los ataques causan una bola de fuego de <value=damage> daño
+﻿<color_default>Los Ataques aplican Bola de Fuego por <value=daño> daño

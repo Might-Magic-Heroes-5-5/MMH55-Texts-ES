@@ -1,1 +1,1 @@
-﻿Embalsamador: La Tienda de primeros auxilios sanará 4 puntos de vida adicionales por cada punto de Defensa del Héroe, pero este comienza con -1 Defensa.
+﻿Embalsamador: La Tienda de Primeros Auxilios curará 4 puntos más de vida por cada punto de Defensa del héroe, pero este empieza con -1 Defensa.

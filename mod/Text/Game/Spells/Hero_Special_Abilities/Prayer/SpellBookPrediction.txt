@@ -1,1 +1,1 @@
-﻿Aumenta la iniciativa un <value=initiative_bonus>%, la Moral el Ataque y la Defensa en <value=enchant> por <value=duration> turnos.
+﻿Aumenta la Iniciativa +<value=initiative_bonus>%, y la Moral, Ataque y Defensa +<value=enchant> por <value=duration> turnos.

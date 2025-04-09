@@ -1,8 +1,8 @@
 ﻿-------------------------------------------------------------------------------
-Puesto de Intertcambio
+PUESTO DE COMERCIO
 -------------------------------------------------------------------------------
 
-Escoge la Pocion que deseas:
+Elige el tipo de Poción que deseas:
 
-OK = Comprar Pocion de Mana  (5000 Oro)
-Cancel = Comprar Pocion de Movimiento (10000 Oro)
+Aceptar = Comprar Poción de Maná (5.000 Monedas de oro)
+Cancelar = Comprar Poción de Movimiento (10.000 Monedas de oro)

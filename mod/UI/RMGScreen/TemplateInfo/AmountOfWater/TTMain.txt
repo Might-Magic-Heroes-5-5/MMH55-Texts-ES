@@ -1,1 +1,1 @@
-﻿Si se crea un mapa de isla, se utiliza un tamaño de mapa mayor que la indicación de plantilla, de lo contrario, las islas pueden volverse demasiado pequeñas.
+﻿Si se crea un mapa de Isla, se usará un tamaño de mapa más grande que el indicado en la plantilla. Si no, las islas pueden resultar muy pequeñas.

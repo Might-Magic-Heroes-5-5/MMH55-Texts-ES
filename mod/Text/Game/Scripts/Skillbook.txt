@@ -1,1 +1,1 @@
-﻿<color=yellow>Has leído el libro de Habilidad!
+﻿<color=yellow>¡Has terminado de leer un Manuscrito!

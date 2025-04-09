@@ -1,1 +1,1 @@
-﻿Clase: Mago Espectral<br>Especialización: Rey Brujo<br><br><body_bright>El Poder Mágico del Héroe aumenta en +1 por cada 6 niveles de experiencia.<br><color_default>Comienza con la ventaja Ritual Arcano.
+﻿Clase: Mago Oscuro<br>Dote: Rey de las Brujas<br><br><body_bright>La Potencia de Hechizo del Héroe aumenta +1 por cada 6 niveles.<br><br><color_default>Empieza con el talento<br>Ritual Arcano.

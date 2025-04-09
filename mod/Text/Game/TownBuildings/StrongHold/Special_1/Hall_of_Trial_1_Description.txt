@@ -1,3 +1,8 @@
-﻿Otorga a los Caciques un grito de guerra de nivel 1, y los Chamanes y Santeras pueden aprender hechizos de tercer nivel, además de ganar +2 de Defensa (no se acumula con múltiples ciudades).<br><br>
-<color=orange>Elementales de Tierra<color_default><br>Este edificio puede convocar a Elementales de Tierra y agregarlos a la guarnición de la ciudad todas las semanas. La cantidad de elementales de tierra convocados depende de la cantidad de Cristales de Sangre Dragón que los Héroes hayan recolectado (A) y del nivel de experiencia de esos Héroes (B). Formula = Raíz(sum(A*B))/12 * (2 + Salón de Pruebas + 1 para una Choza de Caminantes). La cantidad es cero si no se recolectan cristales.<br><br>
-<color=0099FF>Gobernancia<color_default><br>Concede al Gobernador de esta ciudad un +1 de bonificación de Conocimiento.
+﻿Permite al Caudillo visitante aprender los Gritos de Guerra del 1er nivel. Los Chamanes y Brujas visitantes podrán aprender hechizos del 3er Círculo espontáneamente, y reciben +2 Defensa por nivel.<br>
+
+<color_default>No cumulativo con múltiples ciudades.<br><br>
+
+<color=orange>Elementales de Tierra<color_default><br>
+Los Cristales de Sangre de Dragón permiten a este edificio convocar Elementales de Tierra a la guarnición de la ciudad cada semana. La cantidad depende del número de Cristales de Sangre de Dragón (A) y el nivel (B) de cada héroe... y de la sumatoria del producto de ambos (Z=sum[A*B]).<br> Fórmula = (4+2 por la Choza del Caminante)sqrt(Z)/12. El valor de Z no podrá exceder 600.<br><br>
+
+<color=0099FF>Gobierno<color_default><br>Concede +1 Conocimiento al Gobernador de esta ciudad.

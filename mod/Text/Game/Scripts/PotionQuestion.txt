@@ -1,15 +1,15 @@
 ﻿-------------------------------------------------------------------------------
-Puesto de Intercambio
+PUESTO DE COMERCIO
 -------------------------------------------------------------------------------
 
-¿Te gustaría comprar algunas pociones o intercambiar recursos?
+¿Quieres comprar alguna poción o vienes a intercambiar recursos?
 
-OK = Comprar Pociones
-Cancel = Intercambiar recursos
+Aceptar = Comprar Pociones
+Cancelar = Intercambiar Recursos
 
 -------------------------------------------------------------------------------
-Precios de Pociones
+PRECIOS DE POCIONES
 -------------------------------------------------------------------------------
 
-Pocion de Mana - 5000 Oro
-Pocion de Movimiento - 10000 Oro
+Poción de Maná - 5.000 Monedas de oro
+Poción de Movimiento - 10.000 Monedas de oro

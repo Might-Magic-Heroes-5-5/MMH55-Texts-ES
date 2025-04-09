@@ -1,1 +1,1 @@
-﻿Hace que el objetivo tome menos acciones en Combate. Si el objetivo está bajo la influencia del hechizo Rapidez, persistira aquel con mayor poder.
+﻿Hace que la unidad enemiga seleccionada actúe con menor frecuencia en el combate.<br><br><color_default>Si el objetivo tiene el efecto del hechizo Rapidez, ambos hechizos seguirán activos y la diferencia de poder de los lanzadores determinará el resultado.

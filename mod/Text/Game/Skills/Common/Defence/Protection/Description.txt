@@ -1,1 +1,1 @@
-﻿Disminuye el daño infligido a tus criaturas por ataques mágicos en un 20%.
+﻿Aumenta +20% la Resistencia Mágica de todas las criaturas del ejército del héroe.<br><color_default>La resistencia mágica disminuye el daño provocado a tus criaturas por ataques mágicos.

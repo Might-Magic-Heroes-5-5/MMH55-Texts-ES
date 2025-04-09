@@ -1,0 +1,1 @@
+﻿Juega en modo a pantalla completa. Desactiva la opción para jugar en modo ventana. Puedes ajustar el tamaño arrastrando los bordes de la ventana con el ratón.

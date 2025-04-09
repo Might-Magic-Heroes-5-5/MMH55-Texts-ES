@@ -1,1 +1,1 @@
-﻿Los hechizos de fuego lanzados por el Héroe en Combate encenderán enemigos, lo que inflige un 66% extra de daño con hechizos actual al objetivo en las siguientes 2 turnos.
+﻿Los hechizos de Fuego lanzados por el héroe incendiarán a los enemigos, infligiendo daño adicional durante 2 turnos.<br><color_default>Además del daño normal, las criaturas incendiadas sufrirán +33% del daño infligido por fuego cada turno, durante 2 turnos.

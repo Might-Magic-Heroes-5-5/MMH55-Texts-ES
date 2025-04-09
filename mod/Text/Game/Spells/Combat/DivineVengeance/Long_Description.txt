@@ -1,1 +1,1 @@
-﻿Inflige daño mágico a la criatura seleccionada que depende del número de enemigos que la criatura seleccionada mató desde el comienzo del Combate.
+﻿Inflige un daño mágico a la criatura seleccionada que depende del número de enemigos que ésta haya matado desde el principio del combate.

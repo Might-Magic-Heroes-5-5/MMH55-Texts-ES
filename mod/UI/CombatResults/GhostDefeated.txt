@@ -1,1 +1,1 @@
-﻿<left>¡Tu Fantasma ha sido derrotado!
+﻿<left>¡Tu fantasma ha sido derrotado!

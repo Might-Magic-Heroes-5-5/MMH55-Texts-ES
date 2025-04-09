@@ -1,2 +1,2 @@
-﻿
-Sacrifica criaturas para aumentar el crecimiento de las doncellas de sangre y los minotauros. Los umbrales para obtener un crecimiento de +1 son 30HP, 90HP, 270HP, 810HP, 2430HP, 7290HP, 21870HP... (para Minotauros a partir de 90HP).
+﻿Sacrificar criaturas aquí impulsará el crecimiento de Doncellas y Minotauros.<color_default>Deberás sacrificar un total de 10(3^n) puntos de vida, en donde "n" es el aumento del crecimiento semanal, reducido -1 a los minotauros. Ej.:<color_bright><br><br>
+30:+1/+0    90:+2/+1    270:+3/+2    810:+4/+3    2430:+5/+4    7290:+6/+5

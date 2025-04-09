@@ -1,1 +1,1 @@
-﻿Cada vez que se activa un efecto de Moral con una criatura en el ejército del Héroe, gana 50 puntos de Ira.
+﻿Cada vez que se active un efecto de Moral en una criatura del ejército del héroe, ésta obtiene 80 Puntos de Rabia.

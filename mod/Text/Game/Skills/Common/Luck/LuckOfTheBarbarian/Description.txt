@@ -1,1 +1,1 @@
-﻿Todas las criaturas en el ejército del Héroe obtienen un 20% de resistencia mágica adicional siempre que la suerte del Héroe sea positiva.
+﻿Todas las unidades del ejército del héroe obtienen +40% Resistencia Mágica mientras la suerte del héroe sea positiva.

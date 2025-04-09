@@ -1,2 +1,2 @@
-﻿+5 de ataque<br><br><color=orange>
-Mantícoras<color_default><br>Sacrifica este artefacto en un templo e invocará un grupo de mantícoras. El tamaño del grupo es igual a 2*cantidad de semanas pasadas. 
+﻿+5 Ataque<br><br><color=orange>
+Mantícoras<color_default><br>Sacrifica este artefacto en un Templo y convocará un pelotón de Mantícoras. El tamaño del pelotón es igual a 2 veces las semanas transcurridas.

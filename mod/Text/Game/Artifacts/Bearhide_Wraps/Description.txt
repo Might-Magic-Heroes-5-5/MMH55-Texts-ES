@@ -1,2 +1,2 @@
 ﻿+2 Defensa<br>
--20% Daño recibido de Hechizos de Hielo enemigos
++20% Resistencia Mágica contra hechizos enemigos basados en el Hielo.

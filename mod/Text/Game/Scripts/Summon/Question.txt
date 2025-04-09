@@ -1,1 +1,1 @@
-﻿¿Deseas ofrecer <value=qty> <value=type> ?
+﻿¿Quieres hacer una ofrenda de <value=qty> <value=type> ?

@@ -1,7 +1,7 @@
-﻿No es posible enviar exploradores a esta zona, ¿te gustaría atacar a los guardias?
+﻿No es posible enviar reconocimiento a este sitio. ¿Quieres atacar a la guardia?
 -------------------------------------------------------------------------------
 
-OK = Atacar
-Cancel = Irse
+Aceptar = Atacar
+Cancelar = Volver
 
 -------------------------------------------------------------------------------

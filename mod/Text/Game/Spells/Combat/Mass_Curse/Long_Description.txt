@@ -1,1 +1,1 @@
-﻿Reduce el daño máximo de todos los objetivos enemigos hacia su daño mínimo. Si el objetivo está bajo la influencia del hechizo de Fuerza Divina, será Purgado.El efecto no puede exceder el 100%.
+﻿Reduce el daño máximo de todas las criaturas enemigas. Purga el efecto del hechizo Fuerza Divina.<br><br><color_default>El daño máximo no puede ser inferior al mínimo. La Potencia de Hechizo determina la duración del efecto.

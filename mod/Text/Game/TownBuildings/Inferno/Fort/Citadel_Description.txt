@@ -1,3 +1,3 @@
-﻿<color_default>Mejora del Fuerte.<br>
-<color_bright>La ciudadela aumenta el crecimiento base de criaturas un 50% y añade una puerta y defensas a los muros de la ciudad.<br><br>
-<color=0099FF>Gobernancia<color_default><br>Garantiza al Gobernador de esta ciudad +2 de defensa extra.
+﻿<color_default>Una mejora del Fuerte.<br>
+<color_bright>La Ciudadela aumenta el crecimiento base de las criaturas en un 50%, añade un torreón y fosos con obstáculos a las defensas de la ciudad.<br><br>
+<color=0099FF>Gobierno<color_default><br>Concede +2 Defensa al Gobernador de la ciudad.

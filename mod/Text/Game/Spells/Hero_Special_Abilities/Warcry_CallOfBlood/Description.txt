@@ -1,1 +1,1 @@
-﻿La criatura Bastion aliada seleccionada recibe una cantidad de puntos de ira igual a 15 * nivel de héroe.
+﻿Aumenta la Rabia de una criatura Orca aliada.<br><br>La criatura recibe una cantidad de Rabia igual a 15(Nivel).

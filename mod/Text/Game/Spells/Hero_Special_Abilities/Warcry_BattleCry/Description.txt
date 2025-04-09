@@ -1,1 +1,1 @@
-﻿El Héroe inspira una unidad orca aumentando su ataque en (1 +  nivel del Héroe /4) y su Velocidad en +3. También da puntos de ira adicionales a todas las criaturas orcas en el ejército.
+﻿Inspira al pelotón de Orcos objetivo para arremeter contra el enemigo, otorgando +3 Velocidad y aumentando su Ataque en 1 + Nivel/4. Añade una pequeña cantidad de Rabia a todas las criaturas de Bastión del ejército.

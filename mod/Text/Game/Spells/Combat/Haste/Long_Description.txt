@@ -1,1 +1,1 @@
-﻿Hace que la unidad aliada seleccionada actúe con más frecuencia en Combate. Si el objetivo está bajo la influencia del hechizo Lentitud, será Purgado.persistira el hechizo con el Poder Mágico superior.
+﻿Hace que la unidad amiga seleccionada actúe con mayor frecuencia en el combate.<br><color_default>Si el objetivo tiene el efecto del hechizo Retardar, ambos hechizos seguirán activos y la diferencia de poder de los lanzadores determinará el resultado.

@@ -1,1 +1,1 @@
-﻿Invoca un barco. El héroe debe pararse en una orilla y debe haber un bote desocupado cerca para que el hechizo tenga éxito.<color_default><br> Este hechizo no requiere ninguna habilidad mágica para ser aprendido.
+﻿Convoca a un barco. El héroe debe mantenerse en la orilla y debe haber un barco desocupado cerca para que el hechizo tenga éxito.<br><color_default>Este hechizo no requiere ninguna habilidad mágica para ser aprendido.

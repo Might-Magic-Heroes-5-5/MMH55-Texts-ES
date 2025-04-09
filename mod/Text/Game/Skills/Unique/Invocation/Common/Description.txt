@@ -1,1 +1,1 @@
-﻿Permite al Héroe construir y hacer explotar las Cadenas elementales de daño adicional en función de los elementos asociados a las criaturas.
+﻿Permite al héroe crear y hacer estallar Cadenas Elementales basadas en los elementos asociados a las criaturas, para infligir daño adicional.

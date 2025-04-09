@@ -1,1 +1,1 @@
-﻿Fortaleza<br>Nivel 1<br>Criatura Base
+﻿Fortaleza<br>Tipo 1<br>Criatura Base

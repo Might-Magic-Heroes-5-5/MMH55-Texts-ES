@@ -1,1 +1,1 @@
-﻿Castigador: Este Héroe puede realizar un ataque cuerpo a cuerpo especial justo al comienzo del Combate. Además, todos los ataques del Héroe infligen + 1% de daño por cada nivel del Héroe.
+﻿Machacador: El héroe atacará a una criatura enemiga al azar al comienzo del combate, y el daño de todos sus ataques aumenta +1% por cada nivel del héroe.

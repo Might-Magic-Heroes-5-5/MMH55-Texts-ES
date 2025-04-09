@@ -1,1 +1,1 @@
-﻿<color=yellow>Has equipado una poción de movimiento!
+﻿<color=yellow>¡Te has equipado una poción de movimiento!

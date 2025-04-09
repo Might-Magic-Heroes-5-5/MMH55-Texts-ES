@@ -1,1 +1,1 @@
-﻿<color_default><value=damage>% Daño de Mordida
+﻿<color_default><value=daño>% daño de Mordedura

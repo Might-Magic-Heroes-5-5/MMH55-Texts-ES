@@ -1,1 +1,1 @@
-﻿Aumenta en 1 el daño mínimo y máximo de cada criatura bajo el control del héroe.
+﻿Aumenta +1 el daño máximo y mínimo de todas las criaturas del héroe. Especialmente útil para ejércitos de criaturas de nivel bajo.

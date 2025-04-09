@@ -1,1 +1,1 @@
-﻿<color=yellow>No tienes los recursos necesarios.
+﻿<color=yellow>No hay recursos suficientes.

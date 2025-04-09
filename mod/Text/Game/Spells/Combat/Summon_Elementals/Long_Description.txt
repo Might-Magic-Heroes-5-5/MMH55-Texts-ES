@@ -1,1 +1,1 @@
-﻿Invoca elementos de fuego, tierra, agua o aire para luchar por la causa del Héroe. El tipo de elemento es completamente aleatorio y no depende del terreno del campo de batalla.
+﻿Convoca a los elementales de fuego, tierra, agua o aire. El tipo de elementales dependerá de los talentos de la Magia de la Convocación aprendidos por el héroe. En su defecto, se convocarán elementales de tierra. 

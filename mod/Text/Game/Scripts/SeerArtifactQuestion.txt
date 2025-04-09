@@ -1,1 +1,1 @@
-﻿El vidente está interesado en <color=white><value=qty> <value=type><color_default> que tienes en posesión, ¿quieres intercambiarlo? 
+﻿El Visionario está interesado en <color=white><value=qty> <value=type><color_default> de tu posesión. ¿Quieres entregárselos?

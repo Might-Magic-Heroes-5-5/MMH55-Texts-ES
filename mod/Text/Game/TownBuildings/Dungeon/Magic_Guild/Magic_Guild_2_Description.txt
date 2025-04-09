@@ -1,3 +1,5 @@
-﻿<color_bright>Permite a un Héroe visitante aprender los hechizos que se guardan en su interior. Agrega 3 hechizos del segundo círculo.<br><br>
-<color=orange>Mantícoras<color_default><br>Este edificio puede convocar Mantícoras y agregarlas a la guarnición de la ciudad todas las semanas. La cantidad de Mantícoras invocadas depende de la cantidad de cristales de sangre de dragón que los Héroes hayan recolectado (A) y del nivel de experiencia de esos Héroes (B). Formula = Raíz(sum(A*B))/30 * (2+Nivel Cofradía). La cantidad es cero si no se recolectan cristales.<br><br>
-<color=0099FF>Gobernancia<color_default><br>Otorga al Gobernador de la ciudad +2 a su Poder Mágico.
+﻿<color_default>Una mejora de la Cofradía de Magos de nivel uno.<br>
+<color_bright>Permite que el héroe visitante aprenda los hechizos que contiene. Añade 3 hechizos del 2º Círculo.<br><br>
+<color=orange>Manticoras<color_default><br>
+Los Cristales de Sangre de Dragón permiten a este edificio convocar Manticoras a la guarnición de la ciudad cada semana. La cantidad depende del número de Cristales de Sangre de Dragón (A) y el nivel (B) de cada héroe... y de la sumatoria del producto de ambos (Z=sum[A*B]).<br> Fórmula = 5(sqrt(Z)/30). El valor de Z no podrá exceder 600.<br><br>
+<color=0099FF>Gobierno<color_default><br>Concede al Gobernador<br>+2 Potencia de Hechizo.

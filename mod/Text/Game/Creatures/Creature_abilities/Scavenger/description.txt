@@ -1,1 +1,1 @@
-﻿Esta criatura puede recuperar vida he incluso revivir sus numeros devorando cuerpos enemigos en el campo de batalla (Habilidad Activable). La cantidad de vida recuperada es igual al 20% de los puntos de vida originales del grupo muerto.
+﻿Esta criatura puede recuperar su salud e incluso sus tropas devorando los cadáveres enemigos que queden en el campo de batalla y que se encuentren dentro de su rango de movimiento (habilidad activable). La salud recuperada es igual al 20% de los puntos de vida del pelotón devorado.

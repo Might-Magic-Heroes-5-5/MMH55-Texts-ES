@@ -1,1 +1,1 @@
-﻿+2 al crecimiento de criaturas de nivel 1 (Fortaleza +3).
+﻿Impulsa +2 el crecimiento de las criaturas de Tipo 1 (+3 si es Fortaleza).

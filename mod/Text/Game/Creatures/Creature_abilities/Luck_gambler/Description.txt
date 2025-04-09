@@ -1,1 +1,1 @@
-﻿3 veces por Combate, esta criatura puede aumentar el valor de Suerte de un grupo aliado o disminuirlo a grupo enemigo, por un valor aleatorio entre 1 y 3 (habilidad activada).
+﻿Tres veces por combate, esta criatura puede aumentar la Suerte de un determinado pelotón aliado, o reducir la de un pelotón enemigo, en un valor al azar entre 1 y 3 (habilidad activable).

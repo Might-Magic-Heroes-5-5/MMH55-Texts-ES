@@ -1,1 +1,1 @@
-﻿Portador de llamas: el poder mágico efectivo del Héroe aumenta al lanzar Bola de fuego o Bola de fuego potenciada. El aumento es igual al nivel de Héroe/3.
+﻿Portador de la Llama: La Potencia de Hechizo efectiva de Bola de Fuego y Bola de Fuego Reforzada aumenta +1 por cada 3 niveles del héroe.

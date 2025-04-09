@@ -1,1 +1,1 @@
-﻿Permite al Héroe aprender hechizos de Magia Destructiva del tercer círculo y hace que la Magia Destructiva sea más efectiva en general.
+﻿Permite al héroe aprender los hechizos de Magia Destructiva del 3er Círculo y hace que la Magia Destructiva sea más eficaz en general.

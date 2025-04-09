@@ -1,1 +1,1 @@
-﻿Catalizador: El coste de maná de los hechizos Potenciados se reduce en un 20% + 0.25% por nivel del Héroe
+﻿Catalizador: El coste de maná de los hechizos reforzados se reduce en -20% y -0.25% adicional por cada nivel del héroe.

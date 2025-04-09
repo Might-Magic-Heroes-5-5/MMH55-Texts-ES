@@ -1,1 +1,1 @@
-﻿Los turnos son <value=enchant>% más rápidos.
+﻿El turno de tus tropas se adelantará un <value=enchant>%.

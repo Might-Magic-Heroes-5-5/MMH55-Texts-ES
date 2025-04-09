@@ -1,1 +1,1 @@
-﻿Al disparar a corta distancia (a 5 casillas del objetivo o menos), el ballestero inflige daño más grande porque la defensa del objetivo no es efectiva.
+﻿Cuando dispara a corta distancia (a menos de 5 casillas del objetivo), la criaturas causa un daño mayor ya que la defensa del objetivo no resulta efectiva.

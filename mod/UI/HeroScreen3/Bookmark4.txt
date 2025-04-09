@@ -1,1 +1,1 @@
-﻿Habilidades<hotkey=hero_abilities>
+﻿Habilidades y Talentos<hotkey=hero_abilities>

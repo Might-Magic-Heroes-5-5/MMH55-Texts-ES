@@ -1,1 +1,1 @@
-﻿Protector: Todos los Defensores y sus mejoras en el ejército del Héroe ganan +1 a su ataque y defensa por cada 2 niveles, y +1 a sus puntos de vida por cada 10 niveles del Héroe.
+﻿Protector: Todos los Defensores, Guardias con Escudo y Guardias de la Montaña del ejército del héroe ganan +1 a su Ataque y Defensa por cada dos niveles, y +1 a sus Puntos de Vida por cada 10 niveles del héroe.

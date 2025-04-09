@@ -1,2 +1,2 @@
-﻿El Fuerte proporciona a tu ciudad muros defensivos.<br><br>
-<color=0099FF>Gobernancia<color_default><br>Garantiza al Gobernador de esta ciudad +1 de defensa extra.
+﻿El Fuerte proporciona muros defensivos a tu ciudad.<br><br>
+<color=0099FF>Gobierno<color_default><br>Concede +1 Defensa al Gobernador de la ciudad.

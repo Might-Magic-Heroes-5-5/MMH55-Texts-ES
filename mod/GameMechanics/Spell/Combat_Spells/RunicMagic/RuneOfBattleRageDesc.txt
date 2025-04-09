@@ -1,1 +1,1 @@
-﻿La criatura tendrá una probabilidad de realizar un ataque cuerpo a cuerpo que inflige el 50% de su daño a todos los enemigos cercanos una vez (sin represalia).
+﻿La criatura tendrá la oportunidad de realizar un ataque cuerpo a cuerpo que infligirá un 50% de su daño contra todos los enemigos cercanos (sin contragolpe).

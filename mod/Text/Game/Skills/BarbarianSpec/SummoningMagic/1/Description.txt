@@ -1,1 +1,1 @@
-﻿El nivel de maestría de todos los hechizos enemigos de Magia de la Invocación del 1º al 4º círculo se reduce en 1 (Experto a Avanzado, etc.). El Poder Mágico también se reduce en un 15% por cada nivel que por debajo del nivel 0.
+﻿El nivel de maestría de todos los hechizos de Magia de la Convocación enemigos del 4.º al 5.º Círculo se reduce en 1 (de Experta a Avanzada, etc.). La potencia de hechizo también se reduce en un 15% por cada nivel que acabe por debajo de maestría nula. 

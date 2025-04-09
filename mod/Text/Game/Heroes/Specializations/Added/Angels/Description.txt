@@ -1,1 +1,1 @@
-﻿Elegido de Elrath: El héroe tiene +1 de Moral permanentemente y al comienzo de cada semana, habrá Ángeles y sus mejoras adicionales disponibles para reclutar en todas las ciudades Haven de propiedad. La cantidad es igual a 0,04*nivel de Héroe. No hay criaturas adicionales disponibles antes del nivel 13.
+﻿Elegido de Elrath: El héroe tiene +1 Moral permanente y el crecimiento semanal de todos los Ángeles, Arcángeles y Serafines aumenta +0.04(Nivel) en las ciudades de tu reino. No habrá criaturas adicionales antes del nivel 13.

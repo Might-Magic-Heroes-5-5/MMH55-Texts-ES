@@ -1,1 +1,1 @@
-﻿Las tropas bajo el control del Héroe obtienen un bonificador adicional de +30% a su defensa al defender.<br><color_default>La bonificación Hechar Raíces en defensa también se duplica, y otorga a los Treants Antiguos un aumento del 100% en Defensa.
+﻿Las tropas bajo el control del héroe reciben +30% adicional de bonificación a su Defensa al cumplir la orden de Defensa.<br><color_default>La bonificación al defender de Enraizar también se duplica, y proporciona a los Árbores Centenarios un incremento de la Defensa del 100%.

@@ -1,1 +1,1 @@
-﻿<color_default>-<value=defense>% Daño Cuerpo A cuerpo recibido
+﻿<color_default>-<value=defense>% daño cuerpo a cuerpo recibido

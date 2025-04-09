@@ -1,1 +1,1 @@
-﻿Esta criatura es inmune a los hechizos que afecten la mente.
+﻿Esta criatura es inmune a los hechizos que afectan a la mente.
