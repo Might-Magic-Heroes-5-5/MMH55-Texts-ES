@@ -4,6 +4,8 @@ Write-Output "Processing directory..."
 # - UTF-8 is used by this repository so github can show diff during PRs
 $encoding = [System.Text.Encoding]::UTF8
 
+Get-ChildItem -Path $directory -Recurse -Filter "*.bak" | Remove-Item -Force
+
 Get-ChildItem -Path $directory -Filter "*.txt" -Recurse | ForEach-Object {
     $inputFile = $_.FullName
     Write-Output "Converting: $inputFile"
