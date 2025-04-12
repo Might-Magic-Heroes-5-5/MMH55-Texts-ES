@@ -9,3 +9,7 @@ Costo mana
 Poder Mágico
 Clic Izquierdo/Derecho para aumentar el Poder Mágico 1/10. Clic central para reiniciar.
 Requerimientos
+Versión masiva
+Versión potenciada
+Nivel de héroe para calcular el daño potenciado. Clic izquierdo/derecho para añadir +1/+10. Clic central para reiniciar.
+Escuelas nativas
