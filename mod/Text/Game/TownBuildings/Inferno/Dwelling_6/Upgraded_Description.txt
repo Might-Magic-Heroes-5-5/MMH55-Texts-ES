@@ -1,2 +1,0 @@
-﻿<color_default>Una mejora del Fondo de la Fosa.<br>
-<color_bright>El Fondo del Abismo te permite reclutar Señores Abisales y Engendros Abisales

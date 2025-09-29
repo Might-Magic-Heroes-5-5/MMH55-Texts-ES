@@ -1,1 +1,0 @@
-﻿<value=source_color>Golpe Tormentoso inflige <value=damage> puntos de daño a <value=target>

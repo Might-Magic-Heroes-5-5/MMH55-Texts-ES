@@ -1,1 +1,1 @@
-﻿Silvanos<br>Tipo 1<br>Criatura Base
+﻿Silvanos<br>Rango 1<br>Criatura Base

@@ -1,2 +1,0 @@
-﻿<color_default>Una mejora de los Salones del Clan.<br>
-<color_bright>El Palacio del Clan te permite reclutar Thanes Flamígeros y Thanes del Trueno.

@@ -1,1 +1,1 @@
-﻿Bastión<br>Tipo 7<br>Criatura Base
+﻿Bastión<br>Rango 7<br>Criatura Base

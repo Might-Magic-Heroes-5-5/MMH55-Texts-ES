@@ -1,0 +1,1 @@
+﻿+<damage>% de Reducción de daño a distancia no-mágico.

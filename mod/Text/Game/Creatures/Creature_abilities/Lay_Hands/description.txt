@@ -1,0 +1,1 @@
+﻿La criatura puede curar al completo una unidad del pelotón aliado, disipando los efectos negativos (pero no los hechizos).

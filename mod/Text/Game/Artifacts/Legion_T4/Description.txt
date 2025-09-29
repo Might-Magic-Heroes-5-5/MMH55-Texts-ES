@@ -1,5 +1,5 @@
 ﻿+2 Ataque cuando están equipados<br><br>
-Refuerza con criaturas nativas de Tipo 4 al ejército del héroe al comienzo de cada semana, siempre y cuando haya alguna presente. La cantidad es igual a 1/3 del Conocimiento del héroe (min. 1).
+Refuerza con criaturas nativas de Rango 4 al ejército del héroe al comienzo de cada semana, siempre y cuando haya alguna presente. La cantidad es igual a 1/3 del Conocimiento del héroe (min. 1).
 <br><color=orange>Galas de la Legión<br><color_default>
 Ofrenda las 7 Galas de la Legión en un Altar de Sacrificios a cambio de una recompensa excepcional.
 <br><color=yellow>...de bolsillo<color_default><br>
