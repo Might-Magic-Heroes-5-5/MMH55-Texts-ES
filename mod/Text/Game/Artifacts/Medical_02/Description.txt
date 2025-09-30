@@ -1,4 +1,4 @@
 ﻿+4 Potencia de Hechizo<br><br>
-Revive un porcentaje de criaturas nativas de Tipo 7 tras el combate.<br><color_default>El porcentaje es igual al 30+(K)% de todas las bajas, o alternativamente 300+30(K) puntos de vida perdidos, lo que reviva más criaturas.<br>K = Conocimiento del Héroe.<br><br>La resurrección requiere 16 Maná. No tiene efecto en criaturas mecánicas, no muertas ni elementales.<br>
+Revive un porcentaje de criaturas nativas de Rango 7 tras el combate.<br><color_default>El porcentaje es igual al 30+(K)% de todas las bajas, o alternativamente 300+30(K) puntos de vida perdidos, lo que reviva más criaturas.<br>K = Conocimiento del Héroe.<br><br>La resurrección requiere 16 Maná. No tiene efecto en criaturas mecánicas, no muertas ni elementales.<br>
 <br><color=purple>Prendas del Santo<color_default><br>
 -2 al coste de Maná de cada artefacto de resurrección (3/7)

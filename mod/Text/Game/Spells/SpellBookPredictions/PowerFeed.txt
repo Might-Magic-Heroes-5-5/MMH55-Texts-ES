@@ -1,1 +1,0 @@
-﻿Bonificación al Poder Mágico: <value=SpellPowerBonus>

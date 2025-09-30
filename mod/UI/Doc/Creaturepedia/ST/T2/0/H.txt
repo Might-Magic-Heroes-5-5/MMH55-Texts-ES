@@ -1,1 +1,1 @@
-﻿Bastión<br>Tipo 2<br>Criatura Base
+﻿Bastión<br>Rango 2<br>Criatura Base

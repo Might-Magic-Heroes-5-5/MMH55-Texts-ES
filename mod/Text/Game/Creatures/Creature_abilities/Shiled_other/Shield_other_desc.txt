@@ -1,0 +1,1 @@
+﻿Las criaturas aliadas de las casillas adyacentes recibien menos daño por ataques a distancia no-mágicos. La reducción de daño es igual a 2% por cada unidad en este pelotón, hasta un máximo de 50%.

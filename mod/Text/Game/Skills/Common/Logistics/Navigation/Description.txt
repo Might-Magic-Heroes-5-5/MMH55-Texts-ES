@@ -1,1 +1,1 @@
-﻿Talento de Aventura: El héroe recibe refuerzos de tropas nativas de Tipo 4 en vez de Tipo 3, siguiendo la mísma fórmula que Logística Experta. Aumenta +50% la velocidad de movimiento del héroe por mar.
+﻿Talento de Aventura: El héroe recibe refuerzos de tropas nativas de Rango 4 en vez de Rango 3, siguiendo la mísma fórmula que Logística Experta. Aumenta +50% la velocidad de movimiento del héroe por mar.

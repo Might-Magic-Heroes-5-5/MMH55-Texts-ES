@@ -1,4 +1,4 @@
-﻿¿Quieres enviar una patrulla de reconocimiento (criaturas nativas de Tipo 1) para investigar la contingencia del lugar? La posibilidad de que una unidad no regrese de la misión es del <value=chance>%.
+﻿¿Quieres enviar una patrulla de reconocimiento (criaturas nativas de Rango 1) para investigar la contingencia del lugar? La posibilidad de que una unidad no regrese de la misión es del <value=chance>%.
 -------------------------------------------------------------------------------
 
 Aceptar = Enviar reconocimiento

@@ -1,2 +1,0 @@
-﻿<color_default>Una mejora de la Bóveda del Bosque.<br>
-<color_bright>La Alcoba del Bosque te permite reclutar Treants Centenarios y Treants Salvajes.

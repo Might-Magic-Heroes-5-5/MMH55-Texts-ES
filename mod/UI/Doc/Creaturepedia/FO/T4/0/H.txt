@@ -1,1 +1,1 @@
-﻿Fortaleza<br>Tipo 4<br>Criatura Base
+﻿Fortaleza<br>Rango 4<br>Criatura Base

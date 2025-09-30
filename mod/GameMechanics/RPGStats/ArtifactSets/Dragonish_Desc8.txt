@@ -1,2 +1,2 @@
-﻿Añade +4 a todos los atributos del héroe y proporciona una bonificación de +5 al Ataque y Defensa de todas las criaturas de Tipo 7 del ejército del héroe, aumentando también sus Puntos de Vida +20.
+﻿Añade +4 a todos los atributos del héroe y proporciona una bonificación de +5 al Ataque y Defensa de todas las criaturas de Rango 7 del ejército del héroe, aumentando también sus Puntos de Vida +20.
 Refuerza el ejército del héroe con una criatura de nivel 7 cada día. 

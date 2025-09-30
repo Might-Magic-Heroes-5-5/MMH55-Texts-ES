@@ -1,1 +1,1 @@
-﻿Añade +1 a todos los atributos del héroe y +5 al Ataque y Defensa de todas las criaturas de Tipo 7 del ejército del héroe, aumentando también sus Puntos de Vida +20.
+﻿Añade +1 a todos los atributos del héroe y +5 al Ataque y Defensa de todas las criaturas de Rango 7 del ejército del héroe, aumentando también sus Puntos de Vida +20.

@@ -1,1 +1,1 @@
-﻿Esta criatura reduce en -4 el Ataque y la Defensa de todos los pelotones cercanos y su Moral en -2, sin importar a quién pertenezcan. Las criaturas No-muertas son inmunes a este efecto.
+﻿Esta criatura reduce en -4 el Ataque, -4 la Defensa y -1 la Moral de todos los pelotones cercanos, sin importar a quién pertenezcan. Las criaturas No-muertas son inmunes a este efecto.

@@ -1,2 +1,0 @@
-﻿<color_default>Una mejora de las Oseras.<br>
-<color_bright>Las Oseras Negras te permiten reclutar Jinetes de Osos Negros y Jinetes de Osos Polares.

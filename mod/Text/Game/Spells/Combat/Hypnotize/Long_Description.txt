@@ -1,1 +1,1 @@
-﻿Permite al héroe controlar temporalmente la unidad enemiga seleccionada. La unidad hipnotizada no puede contragolpear.<br><br><color_default>Se necesita Magia de la Convocación Experta para controlar criaturas de Tipo 7. No tiene efecto en unidades no-muertas, mecánicas ni elementales.
+﻿Permite al héroe controlar temporalmente la unidad enemiga seleccionada. La unidad hipnotizada no puede contragolpear.<br><br><color_default>Se necesita Magia de la Convocación Experta para controlar criaturas de Rango 7. No tiene efecto en unidades no-muertas, mecánicas ni elementales.
